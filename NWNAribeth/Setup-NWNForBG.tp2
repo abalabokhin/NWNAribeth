@@ -1,0 +1,95 @@
+// NWN For BG
+BACKUP ~weidu_external/backup/NWNAribeth~
+AUTHOR ~LawfulStupid, coder: paladin84, support: https://~
+VERSION ~0.1~
+
+ALWAYS
+  OUTER_SPRINT workspace "weidu_external/workspace/%MOD_FOLDER%"
+  ACTION_IF GAME_IS ~eet~ BEGIN
+    OUTER_SET bg2_chapter = 12
+  END ELSE BEGIN
+    OUTER_SET bg2_chapter = 0
+  END
+  OUTER_FOR (i=1; i<=10; i=i+1) BEGIN
+    OUTER_SET bg2_chapter = bg2_chapter + 1
+    OUTER_SPRINT name_source ~bg2_chapter_%i%~
+    OUTER_SET EVAL ~%name_source%~ = bg2_chapter
+  END
+
+  INCLUDE "%MOD_FOLDER%/lib/charset_wrapper.tph"
+    LAF charset_wrapper
+      INT_VAR
+        from_utf8=1 // set this to 0 if your tra files are encoded for non-EE games and need to be converted to utf-8
+        overwrite=0 // set this to 1 if you want the function to redo the conversion every time you install a new
+                    // component. (I recommend doing this while developing so that changes you make to the .tra files
+                    // get caught immediately.)
+        verbose=0 // set this to 1 to get more feedback from HANDLE_CHARSETS
+      STR_VAR
+        tra_path="" // set this to the folder containing your tra files, if it's not 'tra' or 'lang'. It doesn't matter
+                    // whether or not you include the mod folder root, i.e. 'mymod/mytra' and 'mytra' get treated the same
+        setup="" // set this to the name of the tra file with your component names in, if it's not setup.tra
+        load="" // set this to a list of tra files you want to always be loaded, separated by spaces. (You can include
+                // the '.tra' or not as you like, it doesn't matter)
+        default_language="english" // set this to the language you wrote the mod in
+    RET out_path END
+
+  OUTER_SPRINT tra_loc "%out_path%"
+
+  LOAD_TRA ~%tra_loc%/%LANGUAGE%/setup.tra~
+  ACTION_IF (GAME_IS ~bg2ee eet~) BEGIN
+    LOAD_TRA ~%tra_loc%/%LANGUAGE%/setup-ee.tra~
+  END
+END
+
+AUTO_TRA ~%tra_loc%/%LANGUAGE%~
+
+LANGUAGE ~English~
+~english~
+~%MOD_FOLDER%/tra/english/install.tra~
+
+/////////////////////
+//Main Component
+/////////////////////
+
+BEGIN @0
+DESIGNATED 0 LABEL ~NWNAribeth_MainComponent~
+
+ACTION_IF NOT(GAME_IS ~bg2ee eet tob bgt~) BEGIN
+    FAIL @10
+END
+
+//Creatures
+
+COPY ~%MOD_FOLDER%/cre/NWARIBE1.cre~ ~override~
+  SAY 0x8	@102400
+  SAY 0xC	@102400
+  SAY 0xA4	@104043
+  SAY 0xC8	@104045
+  SAY 0xCC	@104047
+  SAY 0xDC	@104046
+  SAY 0xE0	@104048
+  SAY 0xE4	@104049
+  SAY 0xEC	@104050
+  SAY 0xF0	@104051
+
+//Sounds
+LAF HANDLE_AUDIO
+  STR_VAR
+  audio_path = EVAL ~%MOD_FOLDER%/Audio/%LANGUAGE%~
+  oggdec_path = EVAL ~%MOD_FOLDER%/Audio~
+END
+
+//Portraits
+ACTION_IF (GAME_IS ~bg2ee eet~) BEGIN
+  COPY ~%MOD_FOLDER%/portraits_ee~ ~override~
+END ELSE BEGIN
+  COPY ~%MOD_FOLDER%/portraits~ ~override~
+END
+
+// scripts
+COMPILE ~NWNForBG/baf~
+//dlg
+COMPILE ~NWNForBG/dlg~
+
+APPEND ~PDIALOG.2DA~ ~NWARIBET        NWARIBEP             NWARIBEJ            ***         NWARIBEP           ***              ***              ***~ UNLESS ~NWARIBET~
+

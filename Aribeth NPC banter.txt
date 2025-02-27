@@ -1,0 +1,868 @@
+Aerie banter #1
+
+Aerie: Lady Aribeth?
+Aribeth: My name is simply Aribeth, I have no titles or honorifics.
+Aerie: Oh! Please forgive me! I meant no offense!
+Aribeth: I'm not offended, nor am I angry, child. You need not cower as if you were about to be struck down.
+Aerie: I'm sorry.
+Aribeth: Please stop apologizing, child. If you have something to say, please speak.
+Aerie: I...just wanted to ask if you are ok? You seem sad today, well sadder than usual.
+Aribeth: ..........
+Aerie: La....I mean Aribeth? Are you ok?
+Aribeth: *smiles softly* I'm fine, but thank you for your concern. You are the first person to ask me how I am feeling since I arrived here.
+Aerie: But, that's not true. I hear <CHARNAME> ask that of you all the time?
+Aribeth: <CHARNAME> and I have a different relationship than I have with the rest of you. No one else cares for me in the same way.
+Aerie: I care!
+Aribeth: Do you? Why I wonder?
+Aerie: Because we're friends!
+Aribeth: Are we?
+Aerie: Yes! I know that you've done things in the past, but that's the past. <CHARNAME> trusts you and so do I.
+Aribeth: You truly wish to be friends with someone such as myself?
+Aerie: I do.
+Aribeth. Very well Aerie, we will be friends, and thank you.
+
+Aerie banter #2
+
+Aerie: Aribeth?
+Aribeth: Hmmm? Yes Aerie?
+Aerie: Can you tell me about your family?
+Aribeth: My family? Why do you ask about them?
+Aerie: It's just. Well, I heard, I mean, they died, right?
+Aribeth: Yes. It happened a long time ago.
+Aerie: I'm sorry, I shouldn't have asked.
+Aribeth: Why did you ask, child?
+Aerie: I was curious. I see how strong your are and I wanted to know if that was because of what happened to your family. Did you do it for them?
+	I would have died if it weren't for my Uncle Quayle. I want know, why did you become strong, while I am weak?
+Aribeth: Why do you feel that you are weak?
+Aerie: I was taken from my family when I was very young. I hope that they are alive, but in my heart, I always feared that the slavers who
+	took me, killed them during the raid. Whenever I began to lose hope, I just thought of them, alive and happy and it made me feel better.
+	I couldn't save myself and the only way I got through the dark times was to hope that my family wasn't dead, how is that not weak?
+Aribeth: How do you do that? Is it because you don't truly know? How is it that you can turn that tragedy into a memory that lifts your
+	spirits, rather than something that drags you into despair and anger? When my family was murdered, I became a dark storm of vengeance
+	that cut a bloody swathe through the forest of the North. You, on the other hand, refused to give in. You took that despair and found
+	a way for it to give you a measure of peace. No Aerie, if anything, you may be the stronger of us.
+Aerie: I never thought of it in that way.
+Aribeth: Well, you should. But enough of this maudlin conversation. Let us continue, my friend.
+
+Anomen banter #1
+
+Aribeth: Keep your distance Helmite!
+Anomen: I apologize, Lady Aribeth. If I have done something to offend...
+Aribeth: YOU!.... I..... umm.... never mind. Just stay away from me!
+Anomen: Stay away? Ahhhh. I believe that I understand. Much of the troubles that befall Neverwinter were as a result of the
+	machinations of Desther and the false Helmites. Surely, Lady Aribeth, you can not see a parallel between myself and those heretics?
+Aribeth: I said, stay away from me!
+Anomen: Those false Helmites are just as much my enemies as yours....
+Aribeth: False Helmites or FALLEN Helmites?
+Anomen: What do you mean by that?
+Aribeth: Desther and his fanatics appeared from nowhere. No one knew anything about them, yet they knew enough about the faith of Helm to
+	impersonate Helmite priests. How did they obtain this knowledge? Was it simply through the torture and interrogation of captured
+	Helm clergy, or were some, if not all, of them FORMER faithful of Helm that had defected to join the cult of Morag!
+Anomen: Just, what are you insinuating!?!
+Aribeth: That it is the church of Helm that is largely responsible for this! If Desther and his ilk were once Helmites, then what fault
+	within the church led to their loss of faith? Or, if Desther's acolytes were able to learn everything necessary to impersonate
+	a Helmite from their conquest of Helm's Hold, how were they able to do so? How was Helm's hold taken so easily? Were is defenders
+	truly so weak that they could not defeat Desther? How were they able to occupy the Hold for so long without any of the true
+	faithful noticing? Why were the false Helmites permitted to operate in a cosmopolitan city such as Neverwinter, without ANY of
+	Helm's priesthood discovering their ruse? Can you still deny the failures of the temple?
+Anomen: That is hardly a fair judgment to make.
+Aribeth: Fair!!! The Vigilant One! The Watcher! The Great Guard! All of these are names by which Helm is known, are they not! Yet, who amongst
+	Helm's faithful noticed anything!?! What Helmite stood guard over the people of Neverwinter? Which follower of Helm defeated
+	Desther!?! NONE of you, that's who! It fell to a ragtag mercenary like <CHARNAME> to answer the call. <CHARNAME> was the one to
+	expose Desther, disrupt his plot and re-take Helm's Hold. Had you Helmites truly lived up to your deity’s name, it would have been a
+	disciple of Helm that would have ended Desther's plot. Had you Helmites not been so weak, Helm's Hold would not have been taken.
+	The Morag cultists would have never had the chance to come to Neverwinter. The Wailing Death would not have been released. Desther
+	would not have been able to deceive Fenthick and he wouldn't have..... have.....
+Anomen: So, this isn't about me, but more about your issues surrounding the death of your paramour.
+Aribeth: Shut Up!!! I said to stay away from me!
+
+Anomen banter #2
+
+Anomen: Lady Aribeth. I feel that we must clear the air between us.
+Aribeth: I have nothing to say to you.
+Anomen: Yet I have something to say to you. Something that must be said.
+Aribeth: Not interested!
+Anomen: I must insist!
+Aribeth: What is it then! If you must disturb my peace, then make it quick!
+Anomen: Peace? I don't believe that you are at peace. You have many troubles weighing upon you. While I can admit that the Church of Helm
+	perhaps bears some responsibility insofar as not being aware of the usurpation of Helm's Hold or the actions of the false Helmites,
+	to lay blame at the feet of every disciple of Helm is unjust.
+Aribeth: Unjust? You still refuse to acknowledge your fault in this.
+Anomen: It could be argued that Helm's Hold fell due to the arrogance of the knights within. They could have underestimated their opponents
+	or over estimated their own capabilities. However, there is just as much chance that Desther's forces truly were able to outmatch the
+	defenders. The forces of Neverwinter must have had opportunities to uncover this plot? Why did Lord Nasher and yourself even, allow
+	Desther into your confidence so easily. Are you positive that the blame for this is not equally shareable?
+Aribeth: You....... You are correct. I apologize for placing all of this on you. You were not even present when all of this began, so there
+	was no way for you to intervene. I will always believe that the Church of Helm bears some responsibility for this chain of events,
+	but I do agree, that there were many missed chances on the part of many others, myself included, to end this tragedy before it got
+	as far as it did.
+Anomen: I am sorry.
+Aribeth: As am I. Let us speak no more of this.
+Anomen: Is there anymore bad blood between us.
+Aribeth: Between you and I, no. Let us continue our journey.
+
+Cernd banter #1
+
+Cernd: Aribeth, did I hear correctly that you were once a ranger?
+Aribeth: In another life, yes.
+Cernd: But you left that behind when you became a follower of Tyr?
+Aribeth: That is correct. What is this about?
+Cernd: I was simply curious as to your thoughts about your future. You are no longer a paladin, perhaps returning to the path of a ranger and
+	serving the balance of nature may be your next step?
+Aribeth: No, I think not.
+Cernd: Perhaps some time to think on the notion might change your mind?
+Aribeth: I have no intention of giving this ridiculous idea any thought and I'll thank you to not bring it up again.
+Cernd: If that is your wish.
+
+Cernd banter #2
+
+Cernd: I am sorry if I upset you earlier.
+Aribeth: No, it is fine.
+Cernd: Are you certain? I would not wish animosity between us due to my careless words.
+Aribeth: I bear you no ill will. Your words simply touched upon a time in my life that I would prefer to not re-visit.
+Cernd: Something during your time as a ranger?
+Aribeth: Yes. Most of my memories from then are of blood and death. I have moved on and must look to the future, not the past.
+Cernd: I understand. If I may be of any aid, please do let me know.
+Aribeth: Thank you for your kindness.
+
+Dorn banter #1
+
+Aribeth: Is there something that you require...ORC!
+Dorn: Half-orc, you witch!
+Aribeth: It matters not, mutt! Every glance that you've given me has been filled with venom. What is it that you want?
+Dorn: Who says that I wanted anything?
+Aribeth: Then leave me be!
+Dorn: That may not be possible, for your presence vexes me.
+Aribeth: What about my presence here is so odious to you?
+Dorn: Your very being. You are a blackguard, the same as I. You cast aside your deity. Broke your vows and oaths. Betrayed your friends 
+	and allies. Led an army against your former home. These are feats worthy of pride! Yet instead of reveling in your new powers
+	your refuse to fully embrace your destiny. You waver between your past and your future. You cling to aspects of your past, rather
+	than embracing what lies before. You are weak. It's sickening to watch.
+Aribeth: I may have fallen, but I am nothing like you!
+Dorn: Are you certain? We have both faced betrayal in our lives from those that we considered friends. We both forsake our honor for
+	another patron who promised us revenge. We have both been responsible for countless deaths in our quest for vengeance. The only
+	difference is that I accept what I have become, while you have not.
+Aribeth: I'll hear no more of this. Leave me be!
+
+Dorn banter #2
+
+Dorn: Have you considered my words from before?
+Aribeth: I consider little of what you have to say. Why are you speaking to me?
+Dorn: Are you ready yet?
+Aribeth: Ready for what?
+Dorn: Is your mind so feeble? I refer to our past conversation. Are you prepared to embrace your new life as a blackguard and pursue
+	your destiny as a force of mayhem and slaughter?
+Aribeth: It is not my mind that is enfeebled ORC! Had you a mind not besotted by gore and battle, you be able to understand me. I will
+	decide my fate! Just because you view your role as one of wanton destruction does not mean that I feel or will do the same. Now, for
+	the final time! Concern yourself not with me, lest I grow tired of your troublesome tongue and cut it out myself.
+Dorn: Heh, and you still proclaim that you are not a blackguard. In time, you will see.
+
+Edwin banter #1
+
+Edwin: You there, former paladin. I would have your attention!
+Aribeth: .... Are you addressing me?
+Edwin: Do you see any other former paladins about? Of course it is you whom I address. (I swear living amongst these simpletons
+	becomes more difficult with every passing day.)
+Aribeth: I hope that you have a good reason for speaking to me in such a rude manner?
+Edwin: As every conversation with you simians is an ordeal, you may be assured that I have a reason for this conversation. I have decided
+	that you shall serve as my personal attendant.
+Aribeth: Excuse me! Your personal....WHAT!?!
+Edwin: You are excused. (I'm gratified to see that you do possess a semblance of proper manners.) As I said, I have decided that you are
+	to serve as my personal attendant. I have been injured too many times while accompanying this group and I require a retainer to
+	serve as my personal guard as well as be responsible for my possessions. You are a skilled warrior, unencumbered by 
+	annoying morality issues and are somewhat pleasing to the eye, thus I've decided that you shall do nicely as my attendant.
+Aribeth: I...can not...
+Edwin: As you seem to be overwhelmed by the magnitude of this request, you needn't say anything. A simple bow will convey your understanding
+	of the honor you've been afforded and your acceptance. Once you've recovered your faculties, you may thank me if you wish.
+Aribeth: This...is...
+Edwin: You are truly this moved by my generosity, aren't you. It is good that you've recognized my magnanimity. Perhaps this is premature,
+	however, I will inform you that I do reward excellent service. As your Master, if I am well pleased by your efforts, I may deign,
+	someday, to elevate you to concubine status.
+Aribeth: WHAT!!!
+Edwin: Not a primary concubine, of course. Those stations are reserved for women of proper breeding and rank, but I could be persuaded to
+	find a place for you amongst the lower class concubines. But I fear that we are getting ahead of ourselves, now as for my baggage....
+Aribeth:...
+Edwin: Why are you drawing your weapon? Are we about to be attacked? I see nothing that threatens me. What is the cause for this murderous 
+	look in your eyes? Wait, NO! Keep your distance! I did not give you leave to approach!
+<CHARNAME>: Aribeth, just make sure that any injuries won't inhibit his spellcasting.
+Aribeth: No promises.
+Edwin: *Gulp* It seems that I have erred. Please consider my offer withdrawn. If you'll excuse me, I have someplace far away to be at the
+	moment.
+
+Edwin banter #2
+
+Edwin: You fools! You've allowed me to become injured once again. Of all the incompetent....
+Aribeth: *Glares harshly at Edwin*
+Edwin: Ummm.... I mean. I see to have taken some hits. I understand that it is not possible to prevent everyone from taking some damage
+	and I thank you for your efforts in keeping me safe. Might anyone spare some healing or a potion, perhaps.
+Aribeth: There now. Isn't it SO much more pleasant when everyone maintains a civil manner.
+Edwin: Uhh..of course....Lady Aribeth.
+Aribeth: So glad that you agree.
+
+Haer'Dalis banter #1
+
+Haer'Dalis: Have you a moment, my Phoenix
+Aribeth: Why do you refer to me as such?
+Haer'Dalis: And why not? Are you not one who has fallen, risen from the ashes of her defeat, and has once more taken flight?
+Aribeth: I'm unsure if I like that comparison.
+Haer'Dalis: Ahh, but to be unappreciated. This a feeling to which I've become accustomed.
+Aribeth: Then perhaps you should save that flowery speech for those who can appreciate it.
+
+Haer'Dalis banter #2
+
+Haer'Dalis: My phoenix?
+Aribeth: I've informed you that I dislike you referring to me as such.
+Haer'Dalis: But the name suits you so well.
+Aribeth: I disagree. Now, what do you need of me.
+Haer'Dalis: I merely wished to inquire as to your well being. I'm concerned for your welfare.
+Aribeth: Thank you, but your concern is un-needed and your attention is unwanted.
+Haer'Dalis: Ahh, but you wound a poor sparrow with you your claws.
+Aribeth: Though my knowledge on the subject may be limited, I imagine that phoenix's do sometimes eat sparrows, be thankful that it is 
+	with words alone that you are wounded.
+
+Hexxat banter #1
+
+Hexxat: Do you find my company objectionable?
+Aribeth: In what way?
+Hexxat: I am a vampire after all, and you are a paladin.
+Aribeth: Former paladin.
+Hexxat: You may have lost your title as a paladin, but have you truly left all of that behind? Is there not still something of your
+	paladin nature left?
+Aribeth: I will admit to some lingering.... feelings. There is a part of me that rebels at the idea of journeying alongside an undead
+	such as yourself. A voice that demands that I slay you and end your existence.
+Hexxat: Yet you do not? Why?
+Aribeth: As I've said. I'm a former paladin. When I defected to Luskan, I led an army of creatures whom I would have slain only days
+	earlier. I've traveled with those who have treated me as a companion, aided me, and defended me, despite being touched by darkness
+	themselves. I have seen those supposedly bound to codes of honor and virtue exhibit behavior attributed to those they decry as
+	black hearted villains. This has shown me that my view of the world as a paladin was extremely limited and whatever my future holds
+	I must not rush to judgment.
+Hexxat: That is an extremely pragmatic viewpoint, even for a former paladin.
+Aribeth: You don't object, I assume?
+Hexxat: No objections, just pleasant surprise.
+
+Hexxat banter #2
+
+Aribeth: Hexxat?
+Hexxat: Hmm? Yes?
+Aribeth: Do you regret becoming a vampire?
+Hexxat: Interesting question. While the power I gained has it's advantages. I do at times find myself missing the simple things that
+	come with being human.
+Aribeth: Would you do things differently, had you the chance? Live your life differently and change your fate?
+Hexxat: Are we still talking about me?
+Aribeth: I.... admit to questioning my actions. There are things which I would have preferred to not experience. Pain that I'd like to
+	not feel. However, those trials also shaped who I have become. I'm still unsure as to whether the person I am, is better or
+	worse than the person who I would have become. Was it worth it, I wonder? Becoming who I am?
+Hexxat: That is a question that we all must ask ourselves. Let me know if you ever find an answer.
+
+Imoen banter #1
+
+Imoen: I was wondering if I could talk with you for a moment?
+Aribeth: Of course Imoen. What can I do for you?
+Imoen: You... won't ever do anything to hurt <CHARNAME>, right?
+Aribeth: .....Why would you ask me that?
+Imoen: I'm sorry, I shouldn't have said anything.
+Aribeth: But you did. You can't ask a question like that without an explanation?
+Imoen: But you didn't give me an answer.
+Aribeth: I would never do anything to cause <CHARNAME> any harm. I have answered, now it's your turn.
+Imoen: It's just that... you know that <CHARNAME> is a child of Bhaal, right?
+Aribeth: I have been made aware of that.
+Imoen: I don't know if you are aware of how much <CHARNAME> struggles with that. Sometimes, the essence of Bhaal seems to be too much to
+	bear. Sometimes <CHARNAME> seems torn between accepting the darkness of Bhaal or fighting against it. I worry that having you around,
+	someone who fell to the temptation of hatred and revenge would.... would.....
+Aribeth: Would possibly push <CHARNAME> toward making the same choice. Embracing the taint of Bhaal, rather than resist it?
+Imoen: Yes. <CHARNAME> and I have been together since forever and I need to know that you intend no harm, even unintentional.
+Aribeth: I give you my word. I mean no harm to anyone save my enemies. Does that satisfy you?
+Imoen: I'll admit that I'd hoped for more, but I want to believe in you. So, I will. For now.
+
+Imoen banter #2
+
+Imoen: Whatcha' doing?
+Aribeth: Hmmm? Oh, just sharpening my sword. Why?
+Imoen: No, I meant that chant that I heard you singing to yourself. What was that?
+Aribeth: Oh, that. Just something from my childhood. It's a mantra, something that is taught to children to help them maintain focus at a
+	task. I got into the habit of reciting it to myself during certain tasks. I guess I never completely stopped doing it.
+Imoen: You should sing it to me sometime.
+Aribeth: I don't know about that. In fact, I'd appreciate it if you could not mention to anyone else that you heard me singing to myself.
+Imoen:	Who taught you to do that?
+Aribeth: My father.
+Imoen: What was he like? Old Puffguts took care of me and was the closest thing to a father that I had.
+Aribeth: He was kind, but also strict. It was because of his training that I had the skills to survive after the orcs killed everyone.
+Imoen: I'm sorry. I didn't mean to make you think about this.
+Aribeth: It's alright. I don't mind. While it is painful, I also find comfort in remembering my family.
+Imoen: Well, don't forget that you aren't alone anymore. You have <CHARNAME> and I now.
+Aribeth: Thank you Imoen. That means a lot to me.
+Imoen: No problem. But if you want me to keep quiet about this, you WILL be singing to me sometime.
+Aribeth: Are you serious?
+Imoen: *grins mischievously* What's a little blackmail between friends?
+
+Jaheira banter #1
+
+Jaheira: Hmmph!
+Aribeth: Something troubling you Jaheira?
+Jaheira: Now that you mention it, yes. <CHARNAME> has the unfortunate habit of giving anyone a chance. As a friend, it is my duty to
+	step in and protect our leader from the negative consequences of those actions.
+Aribeth: So, you disapprove of my inclusion to the party?
+Jaheira: I do! You have a history of betraying your allies, I have no guarantees that you will not betray <CHARNAME> once again.
+Aribeth: <CHARNAME> does not believe that I will do so.
+Jaheira: As I said, <CHARNAME> is too trusting.
+Aribeth: You care quite a bit for <CHARNAME>.
+Jaheira: I...ahhhh....well, yes. Gorion, <CHARNAME>'s foster father and I were old friends and companions. Before he died, he asked..
+Aribeth: Asked you to keep and eye on <CHARNAME>? And you've been doing so ever since?
+Jaheira: I have.
+Aribeth: I too understand what it is like, having someone to protect. But that is who <CHARNAME> is to me.
+Jaheira: Someone to protect?
+Aribeth: No, someone WHO protects.
+Jaheira: What do you mean by that?
+Aribeth: When er fought in the battle of Neverwinter, I was in a very dark place. <CHARNAME> pulled me from that place and now, prevents
+	the darkness from swallowing me once again. I know not whether I will ever truly be rid of the shadows that clings to my soul,
+	but I do know that as long as I am under <CHARNAME>'s protection, I will persevere.
+Jaheira: I see.
+Aribeth: Does my answer surprise you.
+Jaheira: Let us just say that I do not know you as well as I believed that I did.
+
+Jaheira banter #2
+
+Aribeth: I notice, lately, that you've not been watching me as closely as before. Can I take this as a sign that you now trust me?
+Jaheira: Let us say that I no longer dis-trust you as much.
+Aribeth: Fair enough.
+Jaheira: That's it? No challenge? No righteous indignation or arguments as to why you now deserve my trust? No protestations. Nothing?
+Aribeth: Would any of that actually do anything to sway your opinion?
+Jaheira: Of course not. But at least making an effort to defend yourself would mean something.
+Aribeth: It would mean that my actions alone have not yet been sufficient to convince you that I am no threat to <CHARNAME>, correct?
+Jaheira: That would not be...an entirely...incorrect statement.
+Aribeth: Then it seems that I have yet more work to do. I hope that I can count on your help.
+Jaheira: You continue to surprise me. Let us be on our way.
+
+Jan banter #1
+
+Jan: Oh no. Ummm....Aribeth! Could please hold this until that watchman has passed by!?! Quickly now, if you please!
+Aribeth: Wait!! What!! What is this thing!?!
+Jan: Please lower your voice! A VERY GOOD DAY TO YOU SIR!!! LOVELY WEATHER THAT WERE ARE HAVING!!! PLEASE, ALLOW ME TO THANK YOU FOR
+	YOUR SERVICE TO OUR FAIR CITY!!!
+Aribeth: Just what have you gotten me involved with?
+Jan: Shhhh! He's almost out of earshot.
+Aribeth: Jan!!!
+Jan: Ok, he's gone. That was close.
+Aribeth: I want an explanation! Now, gnome!!!
+Jan: ahhh, yes, well, you see, the city watch has been keeping an extra close eye on my recently. Totally unjustified, of course. Many
+	baseless accusations have been thrown around.
+Aribeth: What kind of accusations?
+Jan: Nothing of import. A minor incident completely blown out of proportion.
+Aribeth: What happened?
+Jan: As I said, nothing serious. My old workshop was the site of a small explosion. There was some insignificant structural damage to a
+	handful of nearby buildings...all cosmetic of course and before I knew it, terms such as; arms dealing, unlawful magical experimentation,
+	and reckless use of hazardous spell components were being thrown about. So now, I have to be careful as to what I carry upon my
+	person.
+Aribeth: Speaking of things that you carry, what is this item that you shoved into my hands?
+Jan: Oh that! It's a new variety of flasher on which I am working. Quite an improvement over my previous models. I've almost got it perfected,
+	there are only 2 or 3 more design flaws to eliminate and it is far less unstable than it used to be.
+Aribeth: Implying that it is still unstable!!!
+Jan: Oh, pish posh. It is almost perfectly safe, as long as one doesn't.....ummm..oh dear!
+Aribeth: Oh dear!!! Oh dear, WHAT!!!!!
+Jan: Yes, well. Let's just set that down over here, where no one is about. Now let's be on our way, quickly now. That's good.
+Aribeth: What is going to happen?
+Jan: Nothing about which you need to be concerned, let's just be on our way. Walk quickly please and don't turn around.
+
+Jan banter #2
+
+Jan: Miss Aribeth?
+Aribeth: Leave me alone.
+Jan: Why do I deserve such a frosty reply?
+Aribeth: You seriously are asking me this? The last time that we spoke, you made me an accessory to a crime and had me hold an explosive
+	device, without my knowledge?
+Jan: Yes, well, I assume that if I told you what it was, you'd say no.
+Aribeth: Of course I would've said no!
+Jan: But why? It was a simple experimental explosive device?
+Aribeth: Exactly!!!
+Jan: Are you saying that you have a problem holding an explosive device that I created?
+Aribeth: Yes!! I DON'T want to hold an experimental explosive device that you made! Hells, I don't want to hold an experiment explosive 
+	device that anyone has made!
+Jan: Why not?
+Aribeth: Because it's an experimental explosive device!!!
+Jan: That I made. I must say that's you are lucky that we are friends, otherwise, I might become offended by this conversation.
+Aribeth: The creator of said device is irrelevant! The point that I am trying to make is that I want NO explosive devices near me!
+Jan: Not even as a gift, because I was thinking that I have the perfect incendiaries that can be worn as earrings in mind for you......
+Aribeth: Grrrrrrrrr.
+
+
+Keldorn banter #1
+
+Keldorn: Fallen paladin.
+Aribeth: Sigh... Yes, Sir Keldorn.
+Keldorn: Hrmmph. At least you still remember how to speak respectfully to your superiors.
+Aribeth: Did you need something, SIR Keldorn.
+Keldorn: Perhaps my praise was premature.
+Aribeth: I meant no disrespect.
+Keldorn: It may not have been intended, but I'll not suffer your insolent tone. We'll speak again later, after your tongue becomes more civil.
+Aribeth: I'm soooo looking forward to it.
+Keldorn: Hrmmph!
+
+Keldorn banter #2
+
+Keldorn: Fallen paladin, let us resume our discussion.
+Aribeth: Nothing would make me happier, Sir Keldorn.
+Keldorn: I see that your tongue is sharp as ever. A pity that your wits and determination were not so keen.
+Aribeth: What do you mean by that remark?
+Keldorn: I am merely saying that had your faith been stronger, you may not have succumbed to the temptation that befell you. You might have
+	accepted the challenge put before you and used it to temper your spirit. Instead, your trials found you lacking and led to your fall.
+Aribeth: You think that I do not recognize that I have been found wanting in the eyes of Tyr? Do you believe that I am unaware of where I 
+	have failed? Why do you persist in twisting the dagger deeper within my heart?
+Keldorn: Because, in the time that we've journeyed together, I have not seen any sign of repentance. You've given no indication that you
+	seek to redeem yourself. You should be abasing yourself. Your days should be spent in prayer, pleading for forgiveness. Yet, I've
+	observed nothing of the sort. A paladin who has lost their way but strives for forgiveness, I can accept. But you are nothing more
+	than a blackguard, and a fallen paladin that cares not for redemption is beyond reprehensible!
+Aribeth: I'll thank you to keep your criticisms to yourself, SIR Firecam. You have no right to lecture me! I have never been a disciple of Torm,
+	nor am I part of your order! Whatever atonement that I may or may not decide to pursue is my decision! I'll hear no more derision from
+	you, lest you wish to cross blades!
+Keldorn: You have fire. Let us hope that you have not fallen so far as to be beyond hope.
+
+Korgan banter #1
+
+Korgan: Bah. Ye call that a killin' blow!
+Aribeth: What are you on about?
+Korgan:  I be watchin' ye. For a warrior that supposedly led a crusade against the city of her former masters, ye've gone soft. I see none
+	of the ferocity and bloodlust needed for such a task. No wonder ye were defeated.
+Aribeth: Not everyone relishes the thought of slaughter and mayhem as you.
+Korgan: And they be rotting on a battlefield or restin' in shallow graves right now. Everyone who ever stood against me has met the same fate.
+Aribeth: Then why trouble me with your words. If you truly are such a formidable warrior, why would you care about my opinion of your
+	fighting prowess?
+Korgan: I just be lettin' ye know that should ye ever decide to reclaim your fighting spirit, I be here for you to test yourself. If ye
+	are worthy, I be your crucible.
+Aribeth: You! Ha! Skilled you may be, Korgan. But you hold too high an opinion of yourself Those such as you never leave a mark on the pages
+	of history, save for a passing mention as having been in the same proximity, for a time, as a truly noteworthy individual, such as
+	<CHARNAME>.
+Korgan: Mark me words. The name Korgan shall someday be known far and wide!!!
+Aribeth: That attitude has led to the ruin of many an adventurer.
+Korgan: Not I!!
+Aribeth: We shall see, dwarf. We shall see.
+
+Korgan banter #2
+
+Aribeth: How goes the quest for fame and fortune?
+Korgan: Ye been with us to see for yourself. Why be askin' me?
+Aribeth: I was curious as to whether you'd given my words any weight?
+Korgan: What words?
+Aribeth: The words of warning, regarding you single minded pursuit of fame and riches, despite the risk.
+Korgan: Bah! Life be risk. The only way to avoid it be to spend yer life cowerin' under yer bed.
+Aribeth: True, but there is necessary and un-necessary risk.
+Korgan: The difference being what yer willin' to do. Leavin' survivors, that'd be takin' an un-necessary risk.
+Aribeth: I'll have that inspiration quote carved upon your gravestone, Korgan.
+Korgan: Hah! See that ye do, Missy. See that ye do.
+
+Mazzy banter #1
+
+Aribeth: You've been starring at me quite intently. Do you need something Mazzy?
+Mazzy: Ummm... no, it's nothing.
+Aribeth: Your answer leads me to believe that it is something. Speak your mind, I'll not suffer your silent stares forever.
+Mazzy: I am unsure as what to make of you.
+Aribeth: Make of me?
+Mazzy: How you could have arrived here?
+Aribeth: In Amn?
+Mazzy: No, your current state. I'm aware of the tragedies that befell you, the ordeals in Neverwinter and the death of your lover.
+Aribeth: Fenthick! He had a name. It was Fenthick!
+Mazzy: And I am sorry for your loss. I too have lost people, yet I never let it drive me to forsaking my oaths and betraying my friends.
+Aribeth: You presume to judge me!
+Mazzy: I'm not judging you. I'm confounded by you. You were a paladin. You had everything for which I have sought, and you threw it all away. Why?
+Aribeth: You know nothing! You say that you have known loss. Have you ever been betrayed by those to whom you swore to devote your entire being? Have
+	you have had everything taken from you? Have you ever looked into the blackest abyss of despair and found yourself utterly alone? Until
+	you have felt sorrow and hopelessness such as that, you could never know how I felt.
+Mazzy: How dare you. Do you believe yourself the only one to ever lose loved ones. I saw my beloved, Patrick was his name, torn from me. 
+	The Shade Lord took him from me, but not just his life. Had Patrick merely died, at least I could morn him and move on. No, the Shade
+	Lord took his body and his soul. It possessed him, like a puppet and infested his body with it's corruption and filth. So do not speak
+	to me of loss. I have lost much, yet I did not surrender to despair as did you.
+Aribeth: You had your comrades to support you through this. I had no one! I was utterly alone in my sorrow!
+Mazzy: But were you alone? <CHARNAME> was there for you, weren't they? But did you accept the hand that you were offered? No, you became a traitor.
+	Did vengeance truly seem to be the only path open to you? You could have counted upon <CHARNAME> to help you through that dark time, 
+	but you didn't. Why is that?
+Aribeth: I......I don't..... This conversation is over.
+
+Mazzy banter #2
+
+Mazzy: I feel that I owe you an apology.....Lady Aribeth.
+Aribeth: Lady? Just Aribeth, if you please. What, may I ask, has prompted this?
+Mazzy: I had some time to reflect upon my words and I have concluded that I was unjust in my judgment of you. You are correct. While I have
+	experienced the loss of a lover, I knew exactly whom to blame and we were able to destroy the evil that was responsible for his death.
+	You didn't have that opportunity. Had I been forced to watch as the Shade Lord roamed free, while Patrick lay dead, perhaps I too may
+	have lost myself.
+Aribeth: I don't believe that.
+Mazzy: Pardon?
+Aribeth: This wasn't the first time that I lost myself to revenge. Just as I did, when my family was slain. I cared only for dealing death to 
+	fill the void within me. I don not sense the same darkness within you that dwells within me.
+Mazzy: You honor me, yet I feel that you've given me too much credit.
+Aribeth: No, Mazzy. Do not not diminish yourself. Though you may not have been ordained as a paladin, you carry yourself with more honor and live
+	truer to a paladin's code than many titled paladins that I've known. Though I may have fallen, I can still respect that about you.
+Mazzy: I thank you, Aribeth. Should you ever have need of me, I will be there.
+
+
+Minsc banter #1
+
+Minsc: What is wrong? Why does the pretty paladin look so sad?
+Aribeth: It's nothing. I was just reflecting upon the past. People. Places. Nothing important.
+Minsc: But thinking of such things makes you sad? Then why think of them?
+Aribeth: I'd say it's probably the same reason that you still think of Dynaheir. You do still think of her, don't you.
+Minsc: Of course! To forget her would dishonor her memory.
+Aribeth: But thinking of her makes you sad, does it not?
+Minsc: Well...yes.
+Aribeth: It is the same for me. Even though remembering the people and places that I've left behind or lost can make me sad, I'm still happy
+	to remember them and I would be even more sad if I forgot about them.
+Minsc: Minsc understands. If ever you need someone to be sad with, Minsc will be here for the pretty paladin.
+Aribeth: Sigh...Thank you Minsc. Despite your lumbering approach, I do feel better.
+Misc: What is lumbering?
+Aribeth: Nevermind.
+
+Minsc banter #2
+
+Aribeth: Tell me, Minsc. Why do you remain here?
+Minsc: Where, here?
+Aribeth: Here, in Amn, the Sword Coast. Why are you still here? With Dynaheir being gone, your dajemma is now over, is it not? Why do you
+	not return to Rashemen? Do you seek vengeance for Dynaheir?
+Minsc: Minsc does seek justice for Dynaheir, but that is not the reason that Minsc stays?
+Aribeth: Then what is the reason?
+Minsc: With Dynaheir gone, Minsc no longer has a purpose. With no witch to protect, Minsc would return to Rashemen in shame. The remainder
+	of Minsc's life would be spent making amends. Minsc can just as easily do that here.
+Aribeth: So, you are searching for a new purpose for your life?
+Minsc: Purpose? No, Minsc has purpose. Minsc protects. Now, Minsc needs to find someone new to protect.
+Aribeth:.....
+Minsc: Did Minsc say something wrong?
+Aribeth: No....I'm just.....surprised?
+Minsc: Minsc is confused?
+Aribeth: Like myself, you too lost someone important to you. Yet, where I lost myself to hatred and revenge, you instead embraced your
+	grief and sought out a way to move forward. In some ways Minsc, you may be the wisest of us.
+Minsc: Minsc knows. Boo is telling Minsc all of the time how wise Minsc is.
+Aribeth: Heh. Don't ever change Minsc.
+
+
+Nalia banter #1
+
+Nalia: I'd like to ask you something, if I may?
+Aribeth: Be my guest.
+Nalia: I've heard some refer to you as Lady Aribeth. Do you hold a title of nobility?
+Aribeth: No. I'm not a noble. I held a position of significance within the government of Neverwinter. Due to that, I was addressed as Lady
+	Aribeth.
+Nalia: So you were born a commoner?
+Aribeth: I am still a commoner. Why, is that important?
+Nalia: No, I simply was curious as to whether you might be in a similar state as I. Someone born to nobility that recognizes their privilege
+	and seeks to help the poor and downtrodden.
+Aribeth: I do seek to help whenever I am able, but does my station matter? Common born or nobility, as long as one seeks to do good, does
+	your origin matter? 
+Nalia: Well...no.
+Aribeth: If I may ask you a question? Why are you so fixated on your own status as a noble? Is it out of a sense of guilt? I've heard you
+	repeatedly comment upon how you as a noble have left your comfortable life and helped the common folk. For what reason do you feel
+	the need to constantly remind others of your benevolence? Can you not simply just do your works anonymously? Are you seeking praise?
+	Or do you seek to rub your high minded ideals in the faces of your peers?
+Nalia: NO!! It's not like that!
+Aribeth: I'm not standing in judgment. Your answer truly makes no difference to me. I was merely curious as to your motivations.
+Nalia: I......
+Aribeth: Perhaps you should ponder my words for awhile?
+
+Nalia banter #2
+
+Nalia: Aribeth?
+Aribeth: Yes?
+Nalia: Have you a moment?
+Aribeth: Of course, what do you require of me?
+Nalia: I've been thinking about our last conversation.
+Aribeth: And?
+Nalia: Your words... they made me think. Am I really just doing this for my own sens of self satisfaction or maybe I do want to rub the noses
+	of the nobility in my actions. Can I really call myself a good person?
+Aribeth: Does it matter?
+Nalia: What do you mean?
+Aribeth: As long as you are doing the right thing, do your motivations truly matter?
+Nalia: I don't.... What should I do?
+Aribeth: Need you do anything? Are you not doing exactly as you please? By all means, continue your efforts to aid the unfortunate. Perhaps,
+	just try to not pat yourself upon the back quite as much.
+Nalia: Have I really been that annoying?
+Aribeth: I'd not say annoying is the correct description. However, there is a term used to describe those who do good works for the sake of
+	being noticed and given accolades.
+Nalia: What is that?
+Aribeth: Hmmmm. I think that I'll let you discover that for yourself.
+
+
+
+Neera banter #1
+
+Aribeth: Careful! You nearly singed my hair with that one.
+Neera: I'm so sorry! That wild urge was a particularly bad one.
+Aribeth: You need to get those under control!
+Neera: If I could control them, then they WOULDN'T be wild surges. It's not like I can help it.
+Aribeth: I understand that those wild surges of yours are a part of your being, but that doesn't mean that you just throw up your hands and
+	abdicate your responsibility regarding them.
+Neera: What are you getting at?
+Aribeth: One can not blame a raging river for destroying a village. Yet, that does not mean that we have to just accept our fate and let the
+	flood waters take us. <CHARNAME> spoke of how you once attempted to enlist the aid of another wild mage in controlling your surges.
+	That may not have worked out for you, but what have you done since then? 
+Neera: Well excuse me!!! I've been trying not to be captured and dissected by some crazed Thayan wizards!!!!	
+Aribeth: Instead of trying to run from the Order of the Eight Staves, your efforts may have been better spent in researching other methods to 
+	control or contain your wild surges. By doing so, you could have disguised your nature and remained hidden in plain sight. This would 
+	give you the advantage of time and the freedom to operate from a place of concealment. You could have observed your enemies and 
+	discovered their ultimate plans and motivations. Not to mention the improved quality of life that you and the other wild mages would 
+	enjoy by not only having to hide, but by being able to control your abilities. Yet you did none of that. You just kept running.
+Neera: Who are you to lecture me! You know nothing of what I've had to endure!
+Aribeth: I know something of running from ones demons. They will eventually catch you. They ALWAYS catch you, sooner or later.
+
+Neera banter #2
+
+Aribeth: Neera.
+Neera: I'm not talking to you.
+Aribeth: Then listen. It was not my intent to badger you before.
+Neera: Coulda fooled me!
+Aribeth: I understand your anger, but my words came from a place of concern.
+Neera: What! You worried about me?
+Aribeth: No. Not you.
+Neera: Huh?
+Aribeth: Do you care about <CHARNAME>?
+Neera: Well, yeah. Of course.
+Aribeth: During that battle, when <CHARNAME> was expecting you to support us with.... I forget which spell you were going to cast, but instead
+	your wild surge caused....
+Neera: You don't need to remind me. I recall.
+Aribeth: Fine. Well, that could have ended very badly for someone. Luckily <CHARNAME> was able to adapt, but what about next time?
+Neera: Next time?
+Aribeth: What if we can't adapt next time. Or, what if your surges get worse? What if instead of that magic missile, you instead, wild surge
+	and create a planar gate from which a demon emerges? If our group is at full strength, then I'm sure that we can handle it, but what
+	if we are already injured and exhausted, low on spells or healing, what then? You had to flee your home due to accidents caused by
+	your wild surges. Is this so different?
+Neera: Yes. I have friends now who support me. <CHARNAME> will.....
+Aribeth: <CHARNAME> is a good person who would never cast you out. That is both a strength and a weakness. Even if you become a danger,
+	<CHARNAME> will never forsake you. That is what I'm saying. A hero is one who can protect others from danger, even if the danger
+	is you. So, tel me Neera. Are you a hero?
+Neera: I..... I don't know. I just... don't want to be alone.
+Aribeth: Few of us do, I can relate to your feelings, after all, I followed <CHARNAME> all the way here because I too don't want to be alone.
+	I too have been questioned as to my motives and been suspected of plotting to betray <CHARNAME> again. However, I can say with
+	certainty that I will never become a danger to <CHARNAME> again and if I find that there is even a small chance that I may, then I
+	have resolved to leave before that comes to pass. This decision has taken all of my resolve, but I know that I will be steadfast.
+	Can you say the same?
+Neera: I don't know. I need to think. Can I give you my answer some other time?
+Aribeth: It is not I that needs an answer, but you.
+
+
+Rasaad banter #1
+
+Rasaad: Do you seek enlightenment?
+Aribeth: Pardon?
+Rasaad: You are a fallen paladin, are you not?
+Aribeth: I am.
+Rasaad: Then you have forsaken your god, or your god has forsaken you. Given this, have you considered that your previous god may not have been
+	the right deity for you? Perhaps another faith might prove more enlightening for you?
+Aribeth: And you just happen to have one, I assume?
+Rasaad: Our Lady Selune could lift these doubts from....
+Aribeth: Stop right there.
+Rasaad: Is something wrong. I merely wanted to share with you the enlightened words.....
+Aribeth: Yes! Something is wrong. I did not come here to substitute one god with another. I will not interested in finding a new god.
+Rasaad: I meant no disrespect. I merely....
+Aribeth: I will speak no more of this.
+
+Rasaad banter #2
+
+Aribeth: Rasaad.
+Rasaad: Yes, may I be of service?
+Aribeth: I just wanted you to know.
+Rasaad: Yes?
+Aribeth: I am grateful that you tried to help me before.
+Rasaad: Your words were not ones of gratitude.
+Aribeth: Yes, I know. But that is because your actions, while coming from a good place, were wrong.
+Rasaad: In what way?
+Aribeth: You tried to offer me a new god to follow. That only works if I am seeking to follow a new god.
+Rasaad: Are you not?
+Aribeth: I have not yet decided on my path. But simply finding a new faith seems too much like attempting to sweep my old problems and sins
+	aside. I must face them and put them to rest. I can not just forget, and that is exactly what I'd be doing if I tried to embrace
+	Selune or any other god. I need to reconcile my own actions and thoughts first.
+Rasaad: I see. I won't claim to have the answers that you seek, but I will pray that the Moonmaiden's light shines upon your path and guides you
+	to safety.
+Aribeth: Thank you, Rasaad.
+
+
+Sarevok banter #1
+
+Sarevok: Aribeth!
+Aribeth: I hope that you just forgot your manners and did not intend to address me in such an insolent tone!
+Sarevok: I will address you as I choose. I take issue with your conduct!
+Aribeth: MY conduct! Of what do you speak?
+Sarevok: Your performance in battle has not been adequate. In our next combat, I expect you to step up and provide
+	me with better front-line support.
+Aribeth: I think that you forget your place. You are not the party leader, <CHARNAME> is in command.
+Sarevok: Bah! I am the more capable warrior. <CHARNAME> may be the group leader, but in combat, my experience makes me the superior leader.
+	You would do well to heed my commands.
+Aribeth: Refresh my memory, but didn't your leadership result in the deaths of yourself and your followers back in Baldur's Gate?
+Sarevok: That was one failure out of countless successes!
+Aribeth: One failure is all that it takes, dead man.
+
+Sarevok banter #2
+
+Sarevok: This will not stand!
+Aribeth: What is it now?
+Sarevok: Once again, you ignored my direction during the order of battle!
+Aribeth: Once again I must remind you, that you are in no position to give me, nor anyone else here, orders, dead man.
+Sarevok: WHAT!?!
+Aribeth: I believe that I spoke clearly enough to be heard, or is i that your addled mind is incapable of understanding my words?
+Sarevok: You dare speak to me in that way?
+Aribeth: Yes, I do? I've face bullies and warriors far more formidable than you, dead man. You do not intimidate me and I know
+	that you are not the strongest one here, that title belongs to <CHARNAME>, the one who defeated you. It is <CHARNAME> who
+	I follow and <CHARNAME> alone to whom I obey. Do not forget that.
+Sarevok: Bah! Do as you will, then. But see if my blade stands ready to defend you in the future.
+Aribeth: As long as I have <CHARNAME>, I have no need of your sword, nor any others to defend me.
+
+
+Skie banter #1
+
+Skie: Hey Aribeth! Hey! Hey! Are you busy? Hey!
+Aribeth: Sigh. I was busy, but no longer it seems. What do you want Skie?
+Skie: I'm bored, wanna go shopping?
+Aribeth: Wha.... You disturbed me to ask if I wanted to go shopping with you?
+Skie: Well....yeah! It's not a problem, right?
+Aribeth: Why ask me?
+Skie: Everyone else is always so busy or like, "Not now Skie, I have no time for such frivolities.", or stuff like that.
+Aribeth: And you've determined that I'm also not occupied?
+Skie: Ummm...it's not that.
+Aribeth: What exactly is it then?
+Skie: I was just....kinda...hoping that we could...be friends.
+Aribeth: .......
+Skie: What? Why are you looking at me like that?
+Aribeth: I apologize. You just caught me off guard with that statement.
+Skie: Really?
+Aribeth: Yes. I'm a fallen paladin who led an invasion of her home city to avenge the death of her lover. Most people try to
+	steer clear of me. Why would you wish to be my friend?
+Skie: Well, we're kinda the same, you and me.
+Aribeth: In what way? In my mind we couldn't be more different.
+Skie: It's like this. Yeah, you may have turned your back on your old life, but here you are, starting over with <CHARNAME>
+	and the rest of us. Me, I was murdered and now I'm back. We both have gotten a second chance at life. I for one want
+	to make the most out of each day. Don’t you?
+Aribeth: I guess that I have never looked at it in that way. Perhaps you have a point.
+Skie: Of course I do! Now about that shopping trip! You are so pretty, we should get you some rouge for your lips....
+Aribeth: sigh
+
+Skie banter #2
+
+Skie: Hey Bestie Number Two!
+Aribeth: Hmmm. Well its nice to know that I'm your second place best friend.
+Skie: Oh, don't be like that Bestie Number Two. You are only in second place because <CHARNAME> is my number one best friend.
+Aribeth: I suppose that I can handle coming in behind <CHARNAME>.
+Skie: <CHARNAME> and I have a lot of history together, so don't take it personally.
+Aribeth: I'll remember that, so was there something that you needed? I'll warn you that there will be no more shopping for
+	cosmetics. That makeup that you put on me the last time made me look as though I should be working at the Moonstone Mask.
+Skie: No, no, no. Nothing like that.
+Aribeth: We're not going shopping for clothing either!
+Skie: No, it's not that. Although, I still think that you should dress in a manner that shows off your figure more.
+Aribeth: That Calishite outfit that you picked out for me was practically see through in certain places!!
+Skie: But you have to admit that it would have looked great on you, right!
+Aribeth: No, it would most assuredly NOT have looked good on me, even if I had lost enough of my mind to even consider wearing
+	something like that.
+Skie: Disagree, but we are getting off topic.
+Aribeth: Yes, what exactly was supposed to be the topic of this conversation?
+Skie: Oh, right. It was....ummm..... drat! I forgot.
+Aribeth: Could it perhaps pertain to that flier in your hand?
+Skie: Oh! Yes, that's right! There is a pastry shop that just opened and I thought that we could go?
+Aribeth: Or perhaps we could do something more productive, such as running some combat drills?
+Skie: There will be plenty of time for that later, but flaky, creme filled happiness waits for no one. Let's go!
+Aribeth: sigh
+
+
+Valygar banter #1
+
+Valygar: You seem troubled Lady Aribeth. Can I be of any assistance?
+Aribeth: Thank you Valygar, but I am all right. I am just... pondering.
+Valygar: Anything that you want to talk about?
+Aribeth: It's..... just. When my family was killed, I became the last member of my family alive. I always assumed that one day
+	I would have a family of my own, but I always ended up pushing those plans back, thinking that there would be time
+	later.
+Valygar: Life does have a way of interfering with plans for the future.
+Aribeth: When I met Fenthick, I thought that my time had finally arrived. We'd serve Neverwinter for a few years, then retire
+	to a small town or village and begin a family. But then....
+Valygar: Life interfered.
+Aribeth: Indeed. Now I stand here and contemplate being the last of my family.
+Valygar: It is a sobering thought.
+Aribeth: How do you deal with it Valygar. You who have chosen to be the last of your line. Do you not feel some apprehension
+	at the idea? Is there no doubt? Nothing that tells you to reconsider, despite your heritage?
+Valygar: I'd be lying if I said that there wasn't. However, there has been too much tragedy. It's no longer worth the risk. I've
+	made peace with my choice by telling myself that it is to prevent the possibility of future pain or suffering. You on
+	the other hand, have no such curse hanging over you. My advice is to not despair. You still have time, and more importantly, 
+	hope.
+Aribeth: Thank you Valygar. Your words provide more comfort than you know.
+Valygar: My pleasure. Come now, let's speak of more pleasant things.
+
+Valygar banter #2
+
+Aribeth: Valygar?
+Valygar: Yes Aribeth?
+Aribeth: I just wanted to thank you for sharing your thoughts with me the other day?
+Valygar: I was happy to be of help.
+Aribeth: Because of you, I have come to a decision.
+Valygar: A decision?
+Aribeth: Yes. I've decided to not give up. I'm going to fight for my dream of a home and family.
+Valygar: I'm glad.
+Aribeth: I'd also like to ask something of you.
+Valygar: If I'm able, I'll do what I can.
+Aribeth: I'd like you to not give up either.
+Valygar: Excuse me?
+Aribeth: I'd like you to reconsider your plan to be the last of your line. I understand why you have chosen as you have, but
+	the future is not set in stone. I'd like you to entertain the idea that there could be a future for your family. You
+	could be that future. You could be the change that ends your family's curse.
+Valygar: I...
+Aribeth: It's ok. I'm not looking for an answer. I'd just like you to think on it. You gave me hope, so I'd like to give some back
+	 to you.
+Valygar: I doubt that I will change my mind. But I will consider what you have said.
+Aribeth: I wouldn't ask you to do any more than that.
+
+Viconia banter #1
+
+Viconia: A moment, Fallen Paladin.
+Aribeth: What is it Viconia?
+Viconia: I was curious, do you actually feel regret regarding your actions in Neverwinter?
+Aribeth: What do you mean?
+Viconia: Amongst the drow, betrayals such as yours are a common occurrence. Even conflicts such as your attack on the city are akin
+	tho conflicts between Houses. Once the fighting has ended, then things return to normal until the next battle begins.
+	Consequences for the powerful are virtually non-existent, save for those who incur the displeasure of Lloth and any claim
+	of contrition if ever made is sure to be a falsehood.
+Aribeth: And?
+Viconia: I was curious as to whether you truly felt any feeling of sorrow or remorse. Or are such claims merely a facade. A ruse to
+	lull your former enemies into accepting your company, either so that you can betray them at a later time, or because you
+	now find yourself in too vulnerable a state to protect yourself?
+Aribeth: Is this how you see the world Viconia?
+Viconia: Of course. This is how things are. Only a fool believes them to be any other way.
+Aribeth: I suddenly feel very sorry for you Viconia.
+Viconia: What!?! Save your pity for one who desires or needs it. I for one do not!!! Speaking to you is a waste of my time.
+
+Viconia banter #2
+
+Aribeth: Viconia.
+Viconia: Why do you trouble me with your presence, Fallen Paladin?
+Aribeth: I was curious as to whether you wanted my answer to your question?
+Viconia: Question? What question?
+Aribeth: You once asked me if I truly felt remorse for my actions of the past. Did you not want an answer?
+Viconia: It was merely a diversion. I care not if you have an answer and I care less even of what that answer may be.
+Aribeth: As you asked, I will answer anyhow. Yes. I do feel remorse for some of my actions. I was blinded by hate and revenge and I
+	lost sight of some things of which I should not have.
+Viconia: So you are weak after all. If you had been strong, you would have owned the atrocities committed in your name and relished
+	in the blood that you shed.
+Aribeth: Except that person was not who I am. I was never a conqueror. I was just someone who lost a beloved and lashed out in pain
+	and anger. I don't know who I'm supposed to be just yet. But I do know that this wasn't it.
+Viconia: A sniveling response, but one that I expected from a rivvil such as yourself. This conversation bores me.
+
+
+Yoshimo banter #1
+
+Yoshimo: My lady, have I told you how ravishing you look today?
+Aribeth: Not since this morning.
+Yoshimo: Ahhhh only twice today then, I must rectify this.
+Aribeth: Please don't.
+
+Yoshimo banter #2
+
+Yoshimo: My Lady...
+Aribeth: Just stop!
+Yoshimo: My Lady?
+Aribeth: I am NOT your Lady! I am not Lady Aribeth! I am not interested in your attentions, I find them trying.
+Yoshimo: This means that I have simply not been successful in expressing my feeling toward you?
+Aribeth: No, you've been more than successful, I am simply not interested.
+Yoshimo: Not yet, you mean?
+Aribeth *sigh*
+
+Yoshimo banter #3
+
+Aribeth: Did you leave this rose in my pack?
+Yoshimo: A rose within your pack. Surely that is the noble gesture of a man seeking to express his feelings of devotion. Why would you think
+	that it was me? Unless of course your heart was touched by this act of love, in which case, I could be persuaded to reveal the
+	identity of the charming rogue who placed it there. *wink*
+Aribeth: *Begins to shred the rose, not noticing the thorns cutting into her hands* Yoshimo. If you EVER touch my belongings again, I shall sever
+	the offending hand with my very blade.
+Yoshimo: Ummm... please forgive my trespass. I meant no harm. Perhaps I overstepped.
+Aribeth: Indeed!

@@ -1,0 +1,4 @@
+1. Create her CRE file as a fallen paladin, fix all resource references there: D, BAF, etc.
+2. Maybe create her own class (paladin of Tyr).
+3. Fix 2da table with dialogs, so all the necessary dialogs and scripts are there.
+4. Check for installation.

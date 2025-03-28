@@ -1,0 +1,121 @@
+-- Valen
+Aribeth: Mind you, <CHARNAME>, this creature reeks of undeath and deception!
+
+-- Lynnis
+Aribeth: Of all the monsters that I've encountered, none have been as black-hearted as this...animal! Let us dispatch it quickly.
+
+
+---Aran Linvale
+Aribeth: Shrouded in shadows is this one. My own plots and schemes back in Neverwinter were amateurish compared to the intrigues woven by this one.
+
+
+-- Cap't Dennis (after limited wish quest activated)
+Aribeth: I wouldn't have faith in a drunken sot such as this to tell me that the sky was blue! What kind of fool would trust him to teach gong lessons?
+
+
+-- Lady Galena (Brynnlaw)
+Aribeth: How? How could you be willing to destroy a gift as rare and precious as love, just for the sake of something so insignificant as money?
+
+
+--After 1st slayer transformation
+Aribeth: <CHARNAME>! Please, speak to me! What was that? That.... creature that you became was something out of my blackest nightmares! What is
+	happening to you! The man that you are, there was no trace of him within that monstrosity. No, not just that! There was nothing human in
+	there. The murderous intent that radiated from you was terrifying. Would you have slain me? How was it that you became that thing?
+<CHARNAME>: I... do not know. Somehow, having my soul stripped from me has caused the slayer to manifest. Please, do not fear me. I'd never let you
+	come to harm, by my hands nor any others.
+Aribeth: I believe you. I won't say that I'm not unsettled, nay frightened, by this, but I trust you.
+
+--Underdark - MC gets away from Phaere
+
+Aribeth: Let me go, Gods damn it! I'll kill her!! Then I'll kill him too!!!
+Imoen: Aribeth! You have to calm down or you'll bring the whole city down on our heads!
+Aribeth: I don't care! That rancid wench! To think that she would just come and take him like that! As though he were only a toy to be used for
+	her perverse pleasures! I need to get in there and...
+Imoen: Aribeth, Please!! I know that this is hard, but you need to trust in <CHARNAME>. He'll figure a way out of this.
+<CHARNAME>: Awww... It almost sounds like you were concerned for my well being.
+Imoen: <CHARNAME>! That was fast. I hope for your sake nothing happened. You may want to tell Aribeth that nothing happened too, regardless of
+	the truthfulness of the matter.
+Aribeth: <CHARNAME>! You're back! What do she do to you! Are you injured! Wait! What did she make you do! Did you do anything!?! What DID you do!?!?!
+	What did the two of you do!!!
+<CHARNAME>: Aribeth, calm down. Nothing happened. 
+Aribeth: Of...of course you wouldn't. I'm... sorry. It's just that when she took you off with her, I started to envision all of these scenarios. I
+	saw myself being abandoned again and I.... I.
+<CHARNAME>: I'd never betray you like that.
+Aribeth: Right... Ahem... Let us put this behind us and not speak of it again.
+
+
+--Underdark - MC sleeps with Phaere
+
+Aribeth: You were in the for a long time. You indulged her request, I assume.
+<CHARNAME>: Well, I tried to get away but she wasn't having it. There was nothing that I could do. If I'd refused, it would've revealed our	
+	true nature.
+Aribeth: Yes.... Well.... I suppose that you may have a bit of a point. I just can't help but feel that had you really wanted to avoid sharing
+	her bed, you'd have found a way. You've thought your way out of tougher problem, after all.
+<CHARNAME>: I.....
+Aribeth: I suppose that it's possible that she didn't give you enough time to come up with another option and indulging her desires was the only course
+	of action that occurred to you.
+<CHARNAME>: Ummm, yeah. That's it.
+Aribeth: What's done is done and there's no taking it back, is there?
+<CHARNAME>: There doesn't seem to be.
+Aribeth: Then we should get on with our mission, should we not?
+<CHARNAME>: Sure. I guess. I'm....
+Aribeth: DON'T! Just.... don't say anything more.
+
+
+--Bodhi fight - Aribeth not taken
+Aribeth: Let us not hesitate. This evil must be expunged!
+
+--Bodhi fight - Aribeth becomes a vampire
+--Graveyard entrance
+Bodhi: Regardless, I have not the time to stand here discussing what you will or will not do. I have more important duties to take care of.
+Bodhi: You follow in the hopes of retrieving something dear to you. I say that the longer you keep this up, the more you will lose.
+Bodhi: Take the pretty human (populate with Aribeth's current class) there. I understand you've developed a relationship of sorts. It's so hard when
+	something terrible befalls one's beloved, don't you agree?
+Aribeth: I will not be threatened by you, you abomination! Thinking that you can use <CHARNAME> and my feeling for another against us will only result in
+	you suffering an even more painful death that you'd have otherwise earned for yourself!
+Bodhi: Regardless, human, you're coming with me.
+Aribeth: Never! Come at me and it will be your doom!
+
+--Crypt
+Bodhi: Here she is. A fine, obedient girl. She will not be returning to you, <CHARNAME>. I doubt your fumbling could inspire the loyalty
+	I have taken with a bite and a gaze.
+Aribeth: B..by your command, my mistress. What would you have of me?
+
+
+Journal: Bodhi has turned Aribeth into a vampire!
+
+--After placing Aribeth into statues arms
+Aribeth: I am alive once again? *Sigh* Well, my love, it seems that in addition to owing you for saving my life, I now owe you for my
+	salvation, lest I spend the remainder of my existence as a near mindless thrall to Bodhi. I have no way to properly thank you for 
+	everything that you have done for me.
+<CHARNAME>: There was never any choice. I could never condemn you to such a fate, my beloved. GOTO A
+<CHARNAME>: Yes, well, you are my woman. I'd never let a creature like Bodhi take you from me. GOTO A
+<CHARNAME>: I have become fond of you. It didn't seem right to leave things as they were. GOTO A
+
+A.
+Aribeth: I too care for you. If you will have me, I'll remain by your side.
+<CHARNAME>: I think it best that we part ways for now. GOTO B
+<CHARNAME>: I'd have it no other way. Let us be on our way. GOTO C
+
+B.
+Aribeth: Truly? You endure all this, snatch me back from the jaws of death just to cast me aside? Very well. I wish you luck. EXIT
+
+C.
+Aribeth: Yes, let us. Once this ordeal has been resolved, we should see about taking a holiday, just you and I. Our comrades, well, most of them
+	are very dear to me, but I'd like to have you to myself for awhile.
+Aribeth: Apologies, I'm getting ahead of myself. But we will discuss this again, when the time is right.
+<CHARNAME>: I look forward to it.
+
+
+--Sulendessalar Battle with Irenicus:
+Aribeth, the fallen paladin. A comrade, then an enemy, then a comrade once again. Yours has been a twisted road together, but throughout it all, you've never questioned her commitment to you.
+
+<CHARNAME>: Aribeth, you've been by my side through much. The odds are not in our favor here. It's ok. Walk away. You have so much more life yet to live. I won't ask you to risk it all for me.
+Aribeth: I can't believe that you'd ask that of me! During our battle in Neverwinter, you spared my life. Your words to Lord Nasher stayed his hand and prevented my execution. You took me in and gave me
+	a place at your side when none else would have me. By my count, that is 3 times that you saved my life. After what we've experienced together, you can banish any notion that I would abandon you.
+	Come, let's put an end to the fiend and his machinations.
+
+
+--Irenicus (at the tree of life)
+Aribeth: Had you chosen to steal the soul of one less formidable, you would not be staring at your own death. But your reach has exceeded your grasp
+	and you've flown too high. It is time for you to come crashing to the ground.

@@ -1,0 +1,32 @@
+-- "harlot" outside Countess Santele's House
+Aribeth: You aren't seriously entertaining the notion, are you?
+
+If Yes.
+Aribeth: I thought that our relationship meant something to you. It seems that I was wrong if you'd throw away everything that we had, just for a few minutes with some trollop.
+
+If No.
+Aribeth: Of course. I knew that you wouldn't be interested. I just... it bothers me when I see other women trying to get your attention. Pay me no mind.
+
+-- Peltje in Tankard tree after he warns that the courtesans are vampires.
+Aribeth: What! And the city militia just stands by and allows a nest of vampires to exist within the city, unchallenged!?!
+
+-- 1st encounter with Saemon Havarian
+Saemon Havarian: <CHARNAME> please return that equipment that I sold you.
+Aribeth: Why is it that anytime our paths cross with this ne'er-do-well, we end up betrayed or pulled into a fight not of our making?
+
+-- Balthazar after ritual suicide comment
+Aribeth: These are not the actions of someone who has evil within their heart. Balthazar, please reconsider, this is not the only path open to you. As
+	someone who too was once led astray, I know this!
+
+--TOB epilogues:
+Become a god:
+Despite your assurances to Aribeth that you would find a way to return to her, your absence in her life soon drove her to despair. Alone, once again, she succumbed to the darkness that was a part of her
+nature and disappeared. Rumors were the only clue to her whereabouts. Tales told of a dark warrior had her as far south as Calimshan and Waterdeep to the north. There was even a tale spun of an encounter
+with the famed "Traitor of Neverwinter" deep within the Underdark. But as to the truth of these rumors, who can say.
+
+Remain Human:
+Aribeth spent many years at your side, sharing your adventures. The two of you spoke often about retiring and finding a place to settle down and build a home together, but the wanderlust in your blood
+kept you both on the road, talk of putting down roots to be shelved for a later day. Still, you both were happy for a time, your pasts long laid to rest. Or so you thought. Then, the dreams began once
+again. Aribeth would awaken at night, screaming. The shade of Fenthick, once again tormented her sleep. Despite your best efforts, nothing seemed to put him to rest. Then, one morning, she was gone.
+All efforts to find Aribeth failed. Every lead returned the same result, "you missed her by a couple days", always ahead of you she was. Eventually, the search had to end. Later, word came to you that she was encountered by an
+adventurer while in the Underdark. Why she was there was unknown, as was her ultimate fate.

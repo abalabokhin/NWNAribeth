@@ -1,0 +1,218 @@
+(conversation #1)
+--BEGIN DIALOG
+
+1.
+Aribeth: So, once more we find ourselves fighting for our lives. I'd thought that defeating Irenicus and clawing our way out of the Abyss would serve
+	as a fitting capstone to our adventures. But it seems not.
+<CHARNAME>: I'm sorry. Once again my lineage has put you at risk.
+Aribeth: It is what it is. But it you about whom I worry, my love.
+<CHARNAME>: Me?
+Aribeth: To be hunted by such powerful foes, surely that weighs upon you?
+<CHARNAME>: Not really. I'll crush any who oppose me and take their power for myself. GOTO 2
+<CHARNAME>: It does, somewhat. But having you by my side does much to ease my troubled mind. GOTO 3
+<CHARNAME>: What weighs on my mind is my fear that you could be injured or killed by someone attempting to get to me. If it means keeping you safe, my
+	life is of no concern. GOTO 4
+
+2.
+Aribeth: I appreciate your faith in your abilities, but when I hear you speak of destroying your foes in that way, it scares me.
+<CHARNAME>: Why is that?
+Aribeth: You sound as though you are losing touch with your own humanity.
+<CHARNAME>: Perhaps I'm simply growing beyond the limitations of my past?
+Aribeth: I...want you to soar. I just ask that you don't leave me behind.
+<CHARNAME>: Never! EXIT GOTO 5
+
+3.
+Aribeth: I'm happy that I can be here to support you for once. You've done so much for me and it's nice to be able to repay your kindness.
+<CHARNAME>: You don't owe me any debt. But if you feel that there is something owed, I'd like to ask you to consider a request?
+Aribeth: What do you need?
+<CHARNAME>: Promise me. If it becomes too dangerous to be near me, that you will flee and save your own life.
+Aribeth: ..... I know that this is coming from a place of concern, but that was an incredibly hurtful thing that you just said.
+<CHARNAME>: What?
+Aribeth: I want to be with you. I'm aware of the danger and I want to be here, regardless. I'll not desert you. Don't ask that of me again.
+<CHARNAME>: I only....
+Aribeth: DON"T ask again!
+<CHARNAME>: Understood.
+Aribeth: Good. Let us not speak of this again. EXIT GOTO 5
+
+4.
+Aribeth: Nothing that you've ever said has frightened me more than that statement.
+<CHARNAME>: Huh? Why?
+Aribeth: Your life is not worth less than mine. Don't you DARE think to try and trade your life for mine!
+<CHARNAME>: I couldn't see myself going on if something happens to you.
+Aribeth: Do you think that my pain would be any less if I had to go on without you? Especially if I knew that you had sacrificed yourself for me.
+<CHARNAME>: I hadn't considered that.
+Aribeth: I know.
+<CHARNAME>: So, what now?
+Aribeth: Simple. We both agree to face every threat that appears before us, conquer said threats and live a long life together.
+<CHARNAME>: Oh! It's that simple is it?
+Aribeth: Yes. I've decided that it will be that simple. Are you planning on arguing it with me?
+<CHARNAME>: Heh heh. I'd not dream of it.
+Aribeth: Good. Let's be on our way. EXIT GOTO 5
+
+--END DIALOG
+
+(conversation #2)
+--After 2nd trip to ruined temple
+--BEGIN DIALOG
+
+5.
+Aribeth: How tragic.
+<CHARNAME>: In what way?
+Aribeth: She raised Yaga Shura. She was basically his mother and he just used her and cast her aside. In spite of that, she still loved him.
+<CHARNAME>: Inexplicable, is it not.
+Aribeth: Do you believe it to be so? Can you not believe in the capacity to love someone so much that in spite of everything that they may do to you, you
+	can't help but love them?
+<CHARNAME>: No. I feel if that person really loves you, they would not visit any harm upon you. GOTO 6
+<CHARNAME>: I guess if you love someone enough, you could forgive them anything. GOTO 7
+<CHARNAME>: No. Some actions are unforgivable. No amount of love could repair that. GOTO 8
+
+6.
+Aribeth: Could there not be a situation in which one has no choice but to take an action that could be harmful to one they love?
+<CHARNAME>: I can't believe that a situation such as that could arise. There is always another choice. It may not be a good choice, but if you sincerely
+	love that person, you'll find a way. Even if it means that you must take the hit.
+Aribeth: That is a very black and white perspective. However, with a sentiment such as that, I can take comfort fro the knowledge that you will 
+	never betray me. EXIT GOTO 9
+
+7.
+Aribeth: It pleases me to hear you say that!
+<CHARNAME>: For what reason? You aren't planning on hurting me, are you?
+Aribeth: Sigh. Of course not my love... it's just....
+<CHARNAME>: It's just?
+Aribeth: You've never held my past against me, but in the recesses of my soul, I still have a lingering fear that one day, you may tire of the dark
+	cloud that hangs above my head and leave me. Knowing that you believe in forgiving the ones you love brings me much peace of mind.
+<CHARNAME>: You need not worry. We will always be together. EXIT GOTO 9
+
+8.
+Aribeth: As unmovable as ever, you are.
+<CHARNAME>: I don't follow?
+Aribeth: There is not much middle ground with you, is there? To believe that there are unforgivable acts, this leaves little room should something happen.
+<CHARNAME>: That simply means that one should be mindful of those lines and be sure not to cross them. As long as the boundaries are clearly marked
+	everyone knows where they should stand.
+Aribeth: My love. Sometimes your determination is comforting, other times unsettling. EXIT GOTO 9
+
+--END DIALOG
+
+(conversation #3)
+--After Yaga Shura fight
+--BEGIN DIALOG
+
+9.
+<CHARNAME>: Aribeth. Why do you look upon me with such sadness?
+Aribeth: These trials to which you are being subjected.
+<CHARNAME>: What of them?
+Aribeth: They make me sad for you.
+<CHARNAME>: Why?
+Aribeth: You've been through so much. Gorion's death. Banished from your home. Repeatedly hunted and attacked. Tortured. Persecuted. Now to be
+	subjected to these...tests at the whim of some being that claims to be preparing you. When will it end. When will you be allowed to rest?
+	When will we find peace?
+<CHARNAME>: Peace? I'm unsure if I believe in it anymore. GOTO 10
+<CHARNAME>: I will know peace when I am strong enough to kill anyone who threatens me! Then I can rest. GOTO 11
+<CHARNAME>: After each test, I become more powerful. I am eager to see just how far I can go. What can I become! The possibilities are incredible! GOTO 12
+
+10.
+Aribeth: Hold fast my love.
+<CHARNAME>: To what?
+Aribeth: To hope for the future. To the belief that this will end. To me! We will see this through. Together. EXIT GOTO 13
+
+11.
+Aribeth: Remember my love. You are not in this alone. You do not have to protect everyone on your own. As you protect me, I will protect you.
+<CHARNAME>: I thank you, but this is my burden to bear.
+Aribeth: Yes, but you need not bear it alone. You have me and our comrades. We will become stronger together. Together, we will win through. EXIT GOTO 13
+
+12.
+Aribeth: ..... Please my love! Do not go down that path!
+<CHARNAME>: Pardon?
+Aribeth: Speaking in that way. You talk as one who is leaving his humanity behind and doing so gladly. A road such as that is one that I can not walk
+	with you and I couldn't bear to be left behind. Not again. You already begin to become distant.
+<CHARNAME>: Aribeth?
+Aribeth: Please, my love. When thought such as this cloud your mind, I beg you, think of me. Hold my love for you close and choose to stay with me. EXIT GOTO 13
+
+--END DIALOG
+
+(conversation #4)
+--After 2nd Bhaalspawn fight
+--BEGIN DIALOG
+
+13.
+Aribeth: Are you tired my love? You look exhausted.
+<CHARNAME>: I'm all right.
+Aribeth: Are you really? You seldom talk to me anymore.
+<CHARNAME>: You don't need to worry.
+Aribeth: I disagree. It is not only I. You don't speak to anyone. You barely sleep. I see you sitting up all night in a chair in the corner of the inn's
+	taproom or staring into the fire at camp. Most would break under this weight, but you....
+<CHARNAME>: What?
+Aribeth: You are growing sharper. Harder. It's as if the unnecessary pieces of you are being cut away. Will I be one of those, someday?
+<CHARNAME>: Of course not. Don't be ridiculous! GOTO 14
+<CHARNAME>: I'd never do that. GOTO 15
+<CHARNAME>: I'm... not sure how to answer. GOTO 16
+
+14.
+Aribeth: You've never before spoken to me that harshly.
+<CHARNAME>: I'm sorry, I'm just tired.
+Aribeth: It's more than that and you know it to be so. I'm losing you and it's killing me.
+<CHARNAME>: No! You'll never lose me. We just need to finish this, then all will be well!
+Aribeth: I hope so, my love. I so desperately want to believe that. EXIT GOTO 17
+
+15.
+Aribeth: There was a time when I would have never questioned that, but now....
+<CHARNAME>: I'm sorry for making you worry.
+Aribeth: I want to help you, but you've been pushing me away.
+<CHARNAME>: I know, but it seems wrong to keep you too close. I don't want this shadow that clings to me to taint you as well. I just can't do that 
+	to you.
+Aribeth: My love...
+<CHARNAME>: I will be ok. WE will be ok. Trust me.
+Aribeth: I do. I will trust you to the end. EXIT GOTO 17
+
+16.
+Aribeth: How are you not able to answer?
+<CHARNAME>: I tried to deny it, but you were tight. Something within me is changing. I no longer feel things the way that I once did. Other items
+	that used to be so important, now matter less to me than before. I remember caring more, but now I do not. Is this what Irenicus experienced,
+	I wonder?
+Aribeth: *Pulls you into an embrace* My love. My poor lost love.
+<CHARNAME>: *You slowly pull away* It's ok. It doesn't bother me.
+Aribeth: That is why I'm so scared. I don't know what to do?
+<CHARNAME>: There is nothing to be done. Our course is set. We must set it through. Let us hope that once we reach the other shore, we will still be
+	somewhat the same people as we once were. EXIT GOTO 17.
+
+--END DIALOG
+
+(conversation #5)
+--After 3rd Bhaalspawn fight and learning of Balthazar
+--BEGIN DIALOG
+
+17.
+Aribeth: Finally, the end draws near. Once we face Balthazar, this will be over.
+<CHARNAME>: Perhaps not. Too many things are not adding up. I feel that Balthazar will be just another challenge to face.
+Aribeth: Have you given up hope that this will end?
+<CHARNAME>: It will never cease. There will always be another enemy. Another battle. GOTO 18
+<CHARNAME>: I've accepted my doom and have made peace with it. GOTO 19
+<CHARNAME>: It is becoming difficult to see any ray of hope, but I will try, for you. GOTO 20
+
+18.
+Aribeth: I refuse to believe that! I do see the light at the end of this tunnel. We will persevere.
+<CHARNAME>: I wish that I had your faith. EXIT GOTO 21
+
+19.
+Aribeth: How can you say that with such calm?
+<CHARNAME>: I once knew a man who had the ability to use curses to empower himself. I've realized, that I can feast upon my doom and use it to 
+	draw strength. If I am destined to face an unending torrent of enemies, I will face then all and I will become stronger!
+Aribeth: No! You can not just accept something such as this! Even if you plan to try and turn this to your advantage, the fatalism with which
+	you stated your plan reeks of one who has resolved to meet his death with resolve, rather than defiance!
+<CHARNAME>: Dear Aribeth. It's fine. Everything has become so clear.
+Aribeth: .... So that's it? Have I lost you?
+<CHARNAME>: I will always be here, in some form or another, my love. EXIT GOTO 21
+
+20.
+Aribeth: Let my strength become yours. Let my faith bolster yours. Let me support you.
+<CHARNAME>: Thank you, my love. EXIT GOTO 21
+
+--END DIALOG
+
+(conversation #6)
+-- During final dialog
+--BEGIN DIALOG
+21.
+Aribeth: Would you.. really desert me, to become a god?
+<CHARNAME>: Never. I am yours and you are mine. I care nothing for the prospect of godhood. I wish to remain with you. GOTO REJECT OFFER TEXT
+<CHARNAME>: Aribeth, my love. Imagine the possibilities. I ask for your patience. I must do this, but I give you my word that I will return to
+	you. Please, my love. Wait for me. GOTO ACCEPT OFFER TEXT

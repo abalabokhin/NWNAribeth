@@ -1,0 +1,1263 @@
+After final NWN cinematic, <CHARNAME> and party appear in the gate district. 3 seconds later the dimension door graphic displays nearby and Aribeth appears!
+
+(conversation #1)
+--BEGIN DIALOG
+1.
+Aribeth: Hel.....Hello..<CHARNAME>
+<CHARNAME>: Aribeth!! How!!! What are you doing here? I saw you being taken away for execution?!?!
+Aribeth: *Aribeth looks down at her feet, seemingly ashamed to meet your gaze. It was due to you you. Your words to Lord Nasher on my behalf swayed his judgment. 
+Aribeth: Officially, I was beheaded in a non-public execution, but in truth, Lord Nasher offered to spare my life, on the condition that I'm never again seen in Neverwinter nor any lands under it's control.
+Aribeth: I was to be taken to the city gates and set free, however, I instead made one final request. I asked that Lord Nasher have his  mage send me to the same place to which he was to return you.
+
+<CHARNAME>: I'm happy to see you! GOTO 2
+<CHARNAME>: I'm glad that you made it out alive. GOTO 3
+<CHARNAME>: So you were able to avoid punishment for your crimes. GOTO 4
+
+2.
+Aribeth:*Smiles shyly* I'm... relived that you are pleased to see me again. I was afraid that you had come to detest me, for my actions."
+<CHARNAME>: I could never.
+Aribeth: It would be no less than what I deserve. I betrayed Tyr and my faith. I am nothing now, just a broken, fallen paladin.
+<CHARNAME>: You made a mistake. A great one, but a mistake nonetheless. What is important is what you do now.
+Aribeth: Then, I have a request. Please.. allow me to join you on  your travels. Perhaps by your side, I might find a measure of the peace that I once had. 
+
+<CHARNAME>: I'd like nothing more than to have you with me. JoinParty, EXIT
+<CHARNAME>: Perhaps now isn't the right time. Wait for me here. EXIT (Aribeth remains here)
+<CHARNAME>: I have no need of you at this time. In the slums, there stands an inn called the Copper Coronet, await me there. I'll come find you if I should change my mind. EXIT (Aribeth goes to the Copper Coronet)
+
+3. 
+Aribeth: I'd hoped for a warmer greeting than that, but I understand that my turning up as I did must have been a shock. 
+<CHARNAME>: Why did you follow me, again?
+Aribeth: I have nothing now. No home. No family. No friends. You were the one person who was there for me through my ordeal, the one person who never gave up on me. I was hoping that you might find a place for me at your side? (Link to Dialog#5)
+
+<CHARNAME>: I'd like nothing more than to have you with me. JoinParty, EXIT
+<CHARNAME>: Perhaps now isn't the right time. Wait for me here. EXIT (Aribeth remains here)
+<CHARNAME>: I have no need of you at this time. In the slums, there stands an inn called the Copper Coronet, await me there. I'll come find you if I should change my mind. EXIT (Aribeth goes to the Copper Coronet)
+
+4.
+Aribeth: Escape punishment!! I will never escape!! My prison has simply changed. Now, rather than being locked behind iron bars, I live in a cage of guilt and regret!! I will never forget the wrongs done to me and the horrors that I visited upon Neverwinter. I deserved to die for my crimes, but you had me spared. Why? If I am so deserving of judgment, why not just leave me to my wretched fate? Why did you speak on my behalf?
+<CHARNAME>: You seemed repentant. GOTO 5
+<CHARNAME>: I never said you didn't deserve to be punished, but that doesn't mean that I wanted to see you die. GOTO 6
+
+5.
+Aribeth: That is why is sought to follow you. As the one person who still believed that I was worth saving, I wanted to find you and pledge my sword to your cause. I'd hope that at your side, I could find some measure of redemption.
+<CHARNAME>: Very well, you may join me. JoinParty, EXIT
+<CHARNAME>: Give me some time to consider your proposal. Wait for me here. EXIT (Aribeth remains here)
+<CHARNAME>: I have no need of you at this time. In the slums, there stands an inn called the Copper Coronet, await me there. I'll come find you if I should change my mind. EXIT (Aribeth goes to the Copper Coronet)
+
+6.
+Aribeth: Am I not being punished? Just because I'm not swinging from a gallows or languishing in a dungeon does not mean that I am not being punished. Now I am here, because of you. You are responsible for my presence here, in more ways than one. 
+Aribeth: I have come here for a chance to fight by your side. Perhaps I was a fool, but I'd hoped that with your support and.... it matters not, but I had hoped that at your side, I could find my way back into the light.
+Aribeth: So I ask, will you have me?
+
+<CHARNAME>: Very well, you may join me. JoinParty, EXIT
+<CHARNAME>: Give me some time to consider your proposal. Wait for me here. EXIT (Aribeth remains here)
+<CHARNAME>: I have no need of you at this time. In the slums, there stands an inn called the Copper Coronet, await me there. I'll come find you if I should change my mind. EXIT (Aribeth goes to the Copper Coronet)
+
+--END DIALOG
+
+(conversation #2)
+--BEGIN DIALOG
+7.
+Aribeth: <CHARNAME>?
+<CHARNAME>: Yes?
+Aribeth: I wanted to thank you, once again. Not only for saving my life, but for pulling me back from the abyss. But I must admit to wondering why?
+<CHARNAME>: You are important to me, of course I would do everything possible to save you. GOTO 8
+<CHARNAME>: Your death would have served no purpose. Alive you could atone for your deeds. GOTO 9
+<CHARNAME>: I had my reasons. Let's not discuss them any further. EXIT (No further dialog)
+
+8.
+Aribeth: I'm gladdened to hear you say that. If I might ask. The words shared between us back in Neverwinter, just prior to your final battle with Morag. Did you truly mean everything that you said? 
+<CHARNAME>: Of course. I meant every word. GOTO 10
+<CHARNAME>: My mind was on the upcoming battle, I can't seem to recall what was said between us. GOTO 11
+<CHARNAME>: Truth be told, I was simply trying to offer you some comfort in your last hours. Nothing more. GOTO 12
+<CHARNAME>: I must be a better actor than I thought if I was able to convince you of my sincerity. They were empty words, nothing more and I do not wish to continue this discussion. EXIT (No further dialog)
+
+9.
+Aribeth: So... the moment shared between us... it meant nothing to you?
+<CHARNAME>: It meant something. I'm as of yet unsure as to just what it meant to me. GOTO 13
+<CHARNAME>: I wouldn't say nothing. We both felt something, just not the same thing. Give it some time and perhaps we can find out together. GOTO 14
+<CHARNAME>: Nothing? That sounds about right. EXIT (No further dialog)
+
+10.
+Aribeth: So, what happens now?
+<CHARNAME> Now, we continue our journey together and we get to know one another better, if you wish to, that is?
+Aribeth: I'd very much like that. EXIT GOTO 15
+
+11.
+Aribeth: We spoke words of friendship and affection! We spoke of mutual feelings that we shared and of what could have been, perhaps what could be between us. Why do you now claim to have no memory of that conversation? Was it just a game to you? Do I mean nothing to you?
+<CHARNAME>: Forgive me. That was a cruel joke. Of course you mean a lot to me. I was simply curious as to how you remembered our conversation. GOTO 13
+<CHARNAME>: It's no game, but are you positive that this is what you want? My path is one of darkness and danger. You've already seen much of both, this may be your last chance to find a measure of peace elsewhere? GOTO 14
+<CHARNAME>: The last thing that I need is more drama in my life and having to deal with your baggage will be just one more unnecessary problem for me. EXIT (No further dialog)
+
+12.
+Aribeth: Then it seems that we have nothing more to discuss. EXIT (No further dialog)
+
+13.
+Aribeth: So... what does this mean... for us?
+<CHARNAME>: What do you say to us taking it one day at a time?
+Aribeth: *Nods* One day at a time, together. EXIT GOTO 15
+
+14.
+Aribeth: Very well. If that is what you think best, but perhaps I was mistaken. EXIT (No further dialog)
+
+--END DIALOG
+
+(conversation #3)
+--BEGIN DIALOG
+
+15.
+<CHARNAME>: Aribeth! What's wrong?
+Aribeth: It's nothing.
+<CHARNAME>: I can see that you're crying! Please, let me help if I'm able?
+Aribeth: I'm sorry. I was just remembering days gone by. Tell me. Do you ever think of people and places, now gone?
+
+<CHARNAME>: Yes. I often think back on the past. Both to remember the happy times in my life and to reflect on those that I've lost. GOTO 16
+<CHARNAME>: Occasionally. But memories of the past can be painful. I prefer to think of the future. GOTO 17
+<CHARNAME>: Why! lamenting about things that have transpired is a waste of time. GOTO 18
+
+16.
+Aribeth: Would you tell me of your past?
+<CHARNAME>: It's not a very interesting story. Most of my life was spent within the walls of Candlekeep with Imoen and my foster father, Gorion. He was murdered some time ago and I was thrust into the life of an adventurer. GOTO 19
+<CHARNAME>: The cloistered walls of Candlekeep were my home for as long as I could remember. It was a stuffy place. When Gorion died I had no choice but to venture out into the world. GOTO 20
+<CHARNAME>: Not much to tell, really. I lived in Candlekeep for as long as I had too and as soon as I got the chance to leave, I took it. GOTO 21
+
+17.
+Aribeth: There is some wisdom in that. It is not good for one to be overly attached to the past. But you can agree that memories of the past can bring comfort and teach valuable lessons, correct?
+<CHARNAME>: You make a good point. GOTO 22
+<CHARNAME>: I guess that I'd never really thought about it in that way. GOTO 23
+<CHARNAME>: Perhaps, but I'm unsure as to whether that pain of remembering certain events is worth any potential learning’s. GOTO 24
+
+18.
+So you care nothing for your past? I find myself feeling somewhat sad for you. EXIT GOTO 25
+
+19.
+Aribeth: That tale is, sadly, repeated far too often and is eerily similar to my own. I'm sorry for your loss.
+<CHARNAME>: Thank you, but I've come to terms with Gorion's death.
+Aribeth: That's good to hear, for multiple reasons. It gives me hope that I too will be able to move on from..........
+Aribeth: I'm sorry. I don't think that I can talk about this anymore. EXIT GOTO 25
+
+20.
+Aribeth: Candlekeep. It doesn't sound like such a bad place to grow up.
+<CHARNAME>: It had it's charms, but I yearned for more. The forest in which you grew up sounds like an intriguing place. Do you miss it?
+Aribeth: My home? I think of it sometimes. I....
+Aribeth: I can't. Please may we speak of something else?
+<CHARNAME>: Of course. I didn't mean to upset you.
+Aribeth: No, it's not that. It's just.... never mind. Please let us continue on our way. EXIT GOTO 25
+
+21.
+Aribeth: You truly disliked it that much? Was there nothing good about your childhood there?
+<CHARNAME>: Precious little. It was fun getting into trouble with Imoen, but most of those monks had sticks so far up their.....
+Aribeth: No need to explain any further. I'm sure that I take your meaning!
+<CHARNAME>: At any rate. It was too small a place for someone such as myself. It's much better now, being out in the world.
+Aribeth: Well, it seems that we have differing ideas about the places from which we come. I guess that it's good that you don't seem to have any regrets. EXIT GOTO 25
+
+22.
+Aribeth: I'm glad to hear that you think so. Thank you for this. I feel somewhat better now. May we...speak again... about the people and places that shaped our lives. It's comforting to hear the stories of others.
+<CHARNAME>: I'd be happy too.
+Aribeth: Thank you. Now, let us be off. EXIT GOTO 25
+
+23.
+Aribeth: Well, maybe you should. There is always something to be learned.
+<CHARNAME>: Especially from someone as wise as yourself.
+Aribeth: ......
+<CHARNAME>: I apologize, was that in poor taste.
+Aribeth: *chuckles* No, it was just... unexpected. Thank you. I feel better for having spoken with you. I hope that this is the first of many such conversations. EXIT GOTO 25
+
+24.
+Aribeth: Life is risk, especially for an adventurer. Facing your past, the unpleasant parts even more so, is how one learns and grows. To deny that is to deny yourself. Why onetime Fen.......
+<CHARNAME>: Aribeth?
+Aribeth: I.... You actually may have a point. Perhaps some things from ones past are best left in the past. Let us speak of this no more. EXIT GOTO 25
+
+--END DIALOG
+
+(conversation #4)
+--BEGIN DIALOG
+25.
+Aribeth: *Aribeth notices you looking in her direction and quickly turns her head. You can tell that she's been crying again.* Please, don't look at me.
+<CHARNAME>: You've been thinking of Fenthick again?
+Aribeth: *nods* I've begun dreaming of him again. It isn't like before, though. Those dreams were terrifying. The dreams now, they just make me sad.
+<CHARNAME>: In what way?
+Aribeth: There's little to tell. When I dream, I'm never doing anything noteworthy. Sometimes I'm eating dinner, or training, or at a market. I look up and see Fenthick. He's watching me from across the room or from the other side
+	of a street. He shakes his head when I notice him. He looks so.... disappointed. Each time, I attempt to reach him, but I always lose him within the crowd. I don't know what it is supposed to mean.
+<CHARNAME>: Perhaps it is a vision. Fenthick could be trying to tell you something? GOTO 26
+<CHARNAME>: I wouldn't read too much into it. You've been through a lot and are probably just in need of some real rest. GOTO 27
+<CHARNAME>: I must admit that this is wearing thin? I swear, it's like Fenthick is a member of the party, given how much I hear his name lately. GOTO 28
+
+26.
+Aribeth: But what?
+<CHARNAME>: It might be that he believes you have forsaken yourself. That you are not following your intended course? GOTO 29
+<CHARNAME>: The expression that you read as disappointment could be something else. He might be trying to tell you that he is concerned for you? GOTO 30
+<CHARNAME>: He obviously is disgusted by your weakness and constant drama. Try being stronger and not whining so much, that will help. GOTO 28
+
+27.
+Aribeth: But the dreams are so vivid. The feelings feel so real. To think that this could just be a simple dream. It must be more than that! It must!!
+<CHARNAME>: It could just feel so real because you wish it to be so.
+Aribeth: Do you really believe that that could be the explanation?
+<CHARNAME>: It's not out of the realm of possibilities. You should think on it.
+<CHARNAME>: Dream interpretation can be a tricky topic. Some turn out to be warnings. Some are manifestations of our deepest thoughts and some are just strange dreams that have no real meaning.
+<CHARNAME>: I don't know and quite frankly, I'm tired of hearing about Fenthick all of the time. GOTO 28
+
+28.
+Aribeth: Well! I apologize that my pain is becoming such a burden. I'll ensure that you are troubled no further by it. EXIT (No further dialog)
+
+29.
+Aribeth: I'm sure that he would have been so dismayed by my actions. The fact that they were brought about by his fate would be an even greater source of disgust to him.
+<CHARNAME>: I don't believe that dismay, nor disgust would be his reaction. He would, I think, be disappointed by you leaving the faith of Tyr. You spoke of all that you had to endure to find
+	that path and to lose it is no small thing.
+Aribeth: My fall? Could it be as simple as that?
+<CHARNAME>: It's possible. He could be trying to tell you that you need to change. You need to atone in the eyes of Tyr.
+Aribeth: I never considered this. Thank you for listening to me. I must think on this. EXIT GOTO 31
+
+30.
+Aribeth: I'm sure that he would have been so dismayed by my actions. The fact that they were brought about by his fate would be an even greater source of disgust to him.
+<CHARNAME>: That is not the meaning that I had in mind.
+Aribeth: Really? Then what?
+<CHARNAME>: To see you in such sorrow. Mourning him, living your life under such a shadow. This is not the woman that he loved. I can't claim to have known him well, but my impression
+	of him is that he isn't the type who'd want that for you. I believe that he'd want you to remember him fondly, and to do so while living your life to the fullest.
+Aribeth: He doesn't despise me? Could he still be so concerned with my happiness?
+<CHARNAME>: You both cared for one another. Its not hard to believe that he still cares for you in some way.
+Aribeth: Oh Fenthick, you fool. Thank you <CHARNAME> you have given me much to think about. Thank you for your kindness. EXIT GOTO 31
+
+--END DIALOG
+
+(conversation #5)
+--BEGIN DIALOG
+
+31.
+Aribeth: I have reached a decision.
+<CHARNAME>: A decision? About what?
+Aribeth: I now see how weak I have become. I told myself that all I did was to avenge Fenthick, yet I see now that that was just an excuse. My attack on Neverwinter wasn't due to Fenthick's
+	death, but to exact retribution for my own pain and sense of loss and betrayal. By doing so, I have dishonored his memory. It is time to let him go.
+<CHARNAME>: I agree. GOTO 32
+<CHARNAME>: That seems like a big step, can you do so? GOTO 33
+<CHARNAME>: If that is your decision, then so be it. GOTO 34
+
+32.
+Aribeth: I'm aware that I've asked much of you recently. But your concern and support has been the strength that has gotten me through this dark time. Not only did your words save
+	my life back in Neverwinter, but they have now stopped my descent into despair.
+<CHARNAME>: No, you did that yourself.
+Aribeth: That is kind of you to say, but I know the truth. Were it not for you, I'd have been doomed, but as long as I may remain at your side, I know that I will endure.
+<CHARNAME>: You will always have a place here, with me. GOTO 35
+
+33.
+Aribeth: If you'd have asked a few days ago, I wouldn't be sure of my answer, but now, I can say, yes.
+<CHARNAME>: That's good to hear.
+Aribeth: It is because of you that I can say this, you know.
+<CHARNAME>: I'm glad that I could be of help.
+Aribeth: It's not just that. I find that I have come to rely upon you. Upon your support and guidance. With you at my side, I know that I can do this. I can move forward.
+<CHARNAME>: I will always be here for you.
+Aribeth: I know and you have no idea how comforting that is to me. Thank you. GOTO 35
+
+34.
+Aribeth: You are unsure of my choice?
+<CHARNAME>: You have been indecisive as of late. While I agree that it is past time for your mourning to cease, I don't know if finally putting Fenthick's memory to rest will be the
+	magic fix that you hope it to be.
+Aribeth: What else should I do?
+<CHARNAME>: That is not for me to say. I only suggest that you consider that you have more issues to resolve, other than your grief.
+Aribeth: I....I see. I will.... be able to count on you....right? On your support?
+<CHARNAME>: You may certainly count on my friendship.
+Aribeth: Just... your friendship? Nothing more?
+<CHARNAME>: I will always be your friend.
+Aribeth: I understand. EXIT (no further dialog)
+
+--END DIALOG
+
+(conversation #6)
+--BEGIN DIALOG
+
+35.
+<CHARNAME>: You've seemed somewhat more at ease recently.
+Aribeth: Have I? I do admit to feeling as if some of the weight has been lifted from my shoulders.
+<CHARNAME>: It shows.
+Aribeth: I'm... pleased that you noticed. I'd begun to forget what it was like to have someone be concerned for me. It's nice to feel that once again.
+<CHARNAME>: Well, I give you my word that I'll continue to watch over you.... and notice you.
+Aribeth: *blushes slightly* Shush, you.
+<CHARNAME>: Heh.
+Aribeth: I do have something to ask you, though.
+<CHARNAME>: Hmmmm?
+Aribeth: There were rumors going around about you back in Neverwinter. I've also heard some of the others talking since I've joined your party. I need to ask, is it true? Are
+	you one of the Bhaalspawn?
+<CHARNAME>: I don't want to talk about it. GOTO 36
+<CHARNAME>: Yes, I am one of Bhaal's children. GOTO 37
+<CHARNAME>: No, that's merely an unfounded rumor, spread to tarnish my name. GOTO 38
+
+36.
+Aribeth: I can understand your reluctance to speak about such things. Just know, that as you were here for me, I will be here for you. Should you wish to talk, about anything,
+	I will always listen.
+<CHARNAME>: Thank you Aribeth. I'll keep that in mind. EXIT GOTO 39
+
+37.
+Aribeth: I'm somewhat surprise that you were able to admit this so easily.
+<CHARNAME>: I trust you.
+Aribeth: Just when I believe that nothing that you say could make me happier. I'm grateful for your trust. I imagine that it doesn't come easily.
+<CHARNAME>: I've become accustomed to those who hate and fear me due to my lineage. But now I have a question.
+Aribeth: Yes?
+<CHARNAME>: Knowing what I am, do you now regret your choice to stay at my side? Do you now have any doubts? Do you secretly fear that I may turn on you some day?
+Aribeth: Never! To my knowledge, you have never betrayed anyone, nor led a crusade against a vulnerable city. You've accepted me and my dark past. No one who could
+	look past a stain such as that could ever harbor such ill intent. *Aribeth takes your hand in hers* I trust you completely.
+<CHARNAME>: Thank you for your faith in me.
+Aribeth: And thank you for YOUR faith in me. EXIT GOTO 39
+
+38.
+Aribeth: Do you still not trust me? I'd thought that with your acceptance of me into your company, that we could confide in each other. Was I mistaken?
+<CHARNAME>: There are degrees of trust. Bhaalspawn are hated and feared. No matter what good deeds they may have done or how many people helped, children of Bhaal are hunted,
+	driven out of their communities or imprisoned.
+Aribeth: Do not forget, that I can relate to those experiences. Although my damnation has come at my own hands, rather than the circumstances of my birth. Just remember, as you've
+	accepted me, flaws and all, I too accept you for who you are. Even if you may or may not be the child of a particular deceased God.
+<CHARNAME>: It seems that it is now my turn to thank you.
+Aribeth: Think nothing of it. Let us continue on our way. EXIT GOTO 39
+
+--END DIALOG
+
+(conversation #7)
+--BEGIN DIALOG
+
+39.
+Aribeth: We..... We should have dinner sometime soon.
+<CHARNAME>: Are you hungry? We could stop soon if you'd like?
+Aribeth: No... I mean you and I. I've noticed a handful of places that look nice and might be worth sampling. I'd like us to have dinner together some evening.
+Aribeth: Unless you do not wish too? I just thought that it might be nice to do so. But if you don't think that it is a good idea, or...you maybe do not want to share a meal, then....
+	ohh, now I'm rambling. Please, just forget that I said anything about....
+<CHARNAME>: Consider it forgotten. GOTO 40
+<CHARNAME>: No. It sounds nice. I'd like to have dinner sometime. GOTO 41
+<CHARNAME>: You know, you're cute when you get all flustered like this. GOTO 42
+
+40.
+Aribeth: Very well. All is forgotten. EXIT (no further dialog)
+
+41.
+Aribeth: *smiles* I'm relieved that that is your answer. As I was saying it, I worried that I might not be getting my my meaning across. Then I was worried that you might not be interested.
+	Then I was worried that you would find my demeanor to be pitiful and needy. And then...
+<CHARNAME>: *You hold up a hand to stop her* I was pleased by your invitation. I look forward to our next opportunity to spend some time together.
+Aribeth: I do so hope that you mean that and are not simply trying to spare my feelings?
+<CHARNAME>: As I've said before, I mean every word. Now, be thinking about where you'd like to dine. EXIT GOTO 43
+
+42.
+Aribeth: *cheeks redden with embarrassment* Ohhh. You are terrible! Here I am, trying to invite you to dine with me so that we can better get to know one another, all the while doing my
+	best to not trip over my own tongue nor sound like some smitten school girl and what do you do, but mock me!
+Aribeth: Of all the inconsiderate, mean spirited, inappropriate response that you could have....
+<CHARNAME>: I'd love too.
+Aribeth: Huh?
+<CHARNAME>: I'd love to have dinner with you sometime.
+Aribeth: Really, you would?
+<CHARNAME>: Yes, I would. And I apologize for teasing you just now. I simply couldn't resit.
+Aribeth: Hmmph!
+<CHARNAME>: I was also serious when I said that you were cute.
+Aribeth: I think that I've heard enough. I'm going to go someplace else, while I still like you.
+<CHARNAME>: We are still having dinner, right.
+Aribeth: *Storms off in a huff* I get to choose the place, and you are definitely paying now.
+<CHARNAME>: Heh, I look forward to it. EXIT GOTO 43
+
+--END DIALOG
+
+(conversation #8)
+--BEGIN DIALOG
+
+43.
+<CHARNAME>: You've increased your training regime lately.
+Aribeth: I was losing my edge, getting soft. I need to train more.
+<CHARNAME>: You are one of the most skilled fighters that I've ever seen. Soft is one of the last terms that I'd use to describe you.
+Aribeth: That is kind of you to say, but you need not say things just to spare my feelings.
+<CHARNAME>: Ok, listen. Firstly, I am not just saying this. Your skill with a blade is top rank. There are few others that I'd chose before you to stand at my side. Second, I do care about your feelings.
+Aribeth: I'm... sorry. I am still getting used to... all of this.
+<CHARNAME>: I understand. GOTO 44
+<CHARNAME>: We could take things a bit more slowly if you want? GOTO 45
+<CHARNAME>: I guess that we are still getting to know one another. Are you having second thoughts? GOTO 46
+
+44.
+Aribeth: Do you, really?
+<CHARNAME>: I can't say that I'm a master in the matters of the heart, but to become close to someone, to let them in. It can be difficult, and frightening. Shall I continue?
+Aribeth: *nods*
+<CHARNAME>: When you lower your defenses, you suddenly become aware of any faults of deficiencies that you have and they feel as though they are blindingly obvious. How am I doing?
+Aribeth: *looks down at the ground* Pretty well.
+<CHARNAME>: So you find yourself doing whatever possible to either rectify those supposed faults, or bury them. All so that you can feel worthy of you intended. Does that about sum it up?
+Aribeth: You just laid me bare like an open book. I'm unsure as to whether I should be happy that you know me as you do, or frightened that I can hide nothing from you?
+<CHARNAME>: Heh. If I get a say, I vote for happy.
+Aribeth: *smiles shyly* Ok, lets go with happy. Thank you for understanding.
+<CHARNAME>: My pleasure. EXIT GOTO 49
+
+45.
+Aribeth: I don't know if that will help.
+<CHARNAME>: What do you mean?
+Aribeth: I don't know what I'm doing.
+<CHARNAME>: Pardon?
+Aribeth: All of this. You. Us. I don't know what I'm doing.
+<CHARNAME>: I'm still not following you around that bend.
+Aribeth: See! That right there! I don't know how to respond that.
+<CHARNAME>: Well, it's just a question. You don't have to respond to it if you'd rather not?
+Aribeth: That's not it. It's just..... I never had a real relationship before I came to Neverwinter, until Fenthick. When I met him, he took the initiative, he pursued me. I didn't have to
+	do anything. I didn't know what to do. I just leaned back and accepted his feelings. You and he are so different. You are very guarded, he wore his heart on his sleeve. I don't know 
+	how to do a relationship where I have to play an active part, too.
+<CHARNAME>: As I said, I'm no maestro in the ways of love, either. What say we figure it out together?
+Aribeth: I think I'd like that. EXIT GOTO 49
+ 
+46.
+Aribeth: Yes... I mean, no. Well...maybe, but not like that. It's just.... oh... I don't know. Why am I like this?
+<CHARNAME>: Is it really that complicated of a question do you or do you NOT want to continue what we have begun?
+Aribeth: Please! Don't be angry!!
+<CHARNAME>: I'm not angry. I'm just trying to understand what you want? GOTO 47
+<CHARNAME>: Why shouldn't I be angry? We've been spending time getting to know one another. I've tried to be supportive, but if at this point, you still don't know how you feel, then perhaps it's
+	a sign that we just aren't connecting. It might just be best to end this before we get in too deep and hurt one another. GOTO 48
+
+47.
+Aribeth: I want to have someone care about me and not feel terrified!
+<CHARNAME>: Terrified?
+Aribeth: I loved Fenthick and he loved me, then I lost him. Now, I am experiencing a connection with someone again and I'm so happy, but I'm afraid that something will happen and I'll lose this
+	happiness once again. I couldn't bear to suffer a loss such as that a second time and it leads me to wonder if it might be best to just....not risk it.
+<CHARNAME>: *You put your arms gently around Aribeth's shoulders. She stiffens at your touch but does not pull away*
+<CHARNAME>: That doesn't sound like much of a life worth living, does it?
+Aribeth: Living in fear? Or living without love?
+<CHARNAME>: Both.
+Aribeth: What should I do.
+<CHARNAME>: Think of this like any other battle, except instead of facing a physical enemy, your opponent is your fear of loss. You now have your foe. Conquer it!!
+Aribeth: Conquer it. Yes. I see it now. I will face my enemy and my prize for victory will be the ability to know happiness without the overpowering fear of losing it once again.
+<CHARNAME>: Feeling better now?
+Aribeth: *Turns to face you and returns your embrace* Much, thank you. EXIT GOTO 49
+
+48.
+Aribeth: Yes.... Perhaps that is for the best. I'm...sorry. EXIT (No further dialog)
+
+--END DIALOG
+
+(conversation #9)
+--BEGIN DIALOG
+
+49.
+<CHARNAME>: *You notice that Aribeth has taken the time to try and style her hair a bit*
+<CHARNAME>: You did something with your hair, I see.
+Aribeth: *blushes slightly* Oh..umm... do...you like it?
+<CHARNAME>: Ehhh, it'll do. GOTO 50
+<CHARNAME>: Whatever, worrying about your hairstyle seems like a waste of time. GOTO 51
+<CHARNAME>: It looks good. You should do things such as that more often. They suit you. GOTO 52
+
+50.
+Aribeth: *Her face falls* Is there something...wrong with it?
+<CHARNAME>: No, it's just not to my taste.
+Aribeth: Hmmph. That's rather arrogant of you. Assuming that I did something just for YOUR benefit. I just thought that it might be time to change some things up. You had nothing
+	to do with any part of it.
+Aribeth: *stalks off in a huff.*
+<CHARNAME>: *You notice that she never uses that particular hair style again.* EXIT GOTO 53
+
+51.
+Aribeth: Well... I didn't expect a reaction like that. I'm sorry that I tried. EXIT (no further dialog)
+
+52.
+Aribeth: *Blushes deeper* You...really think so?
+<CHARNAME>: I do. Sometimes you fall so deep into your role as a warrior that you forget to take time to care for yourself. You're a beautiful woman in addition to being a skilled fighter. I like seeing
+	both sides of you.
+Aribeth: *Smiles* Well, don't you just have a silver tongue on you.
+<CHARNAME>: Heh. My boyish charm and honeyed words not withstanding, I do like to see you step out of your swordswoman persona every so often. Perhaps the next time that the two of us go out for dinner, I
+	could talk you into wearing a dress for the occasion?
+Aribeth: I.... Haven't worn an actual dress in a very long time. I don't even own one anymore.
+<CHARNAME>: Then I guess I'll have to get you a new one.
+Aribeth: A dress for dinner. I think that that sounds nice.
+<CHARNAME>: It's a date, then.
+Aribeth: I get to choose the place though.
+<CHARNAME>: What? You didn't approve of the place that I chose the last time we went out?
+Aribeth: *Eyebrows rise* Off all the restaurants available, you took us to a tavern in a seedy area of the city.
+<CHARNAME>: That place has the best grilled skewers in the country! I could eat there every day!
+Aribeth: Which is why I will be choosing where we eat from now on! EXIT GOTO 53
+
+--END DIALOG
+
+(conversation #10)
+--BEGIN DIALOG
+
+53.
+<CHARNAME>: *You pluck a flower growing nearby and tuck it into Aribeth's hair* 
+<CHARNAME>: There, that's better. A pretty flower for a pretty lady.
+Aribeth: Oh, stop it you! *Aribeth swats your hand away, yet she makes no move to remove the flower.*
+<CHARNAME>: Heh. Sorry, I just couldn't help myself.
+Aribeth: May I tell you something?
+<CHARNAME>: You can tell me anything that you wish.
+Aribeth: I'm.... really happy.
+<CHARNAME>: That's good to hear. I Want you to be happy.
+Aribeth: No, that's not it. I genuinely feel happy. I was in such a dark place for so long. After losing Fenthick and my subsequent actions, I'd come to believe that I'd never find happiness again, that
+	I didn't deserve to be happy, but you changed that.
+<CHARNAME>: I care about you and I couldn't bear to see you in pain.
+Aribeth: You also gave me the time and support that I needed to heal. But now, I believe that I'm ready.
+<CHARNAME>: Ready?
+Aribeth: Yes, I'm ready to take the next step.... with you.... if... if you are willing?
+<CHARNAME>: I'd like to get to know you better.
+Aribeth: We've been spending time together, but now, I'd like for us to become closer. I want us to be more open about our feelings, and you don't have to concern yourself with keeping your distance as you have been.
+<CHARNAME>: What do you have in mind?
+Aribeth: *Looks down at the ground while nervously twirling a lock of her hair between her fingers.* Ummm... how about a kiss?
+<CHARNAME>: Ok. *You step forward and give her a gentle peck on the forehead.* GOTO 54
+<CHARNAME>: My pleasure. *You give her a firm kiss on the lips.* GOTO 55
+<CHARNAME>: *Without a word, you reach out to Aribeth and take her in your arms. Sliding a hand up to the base of her head, you draw her face to yours and kiss her deeply and passionately. GOTO 56
+
+54.
+Aribeth: Is.. that it? Is something wrong? Did I ask for too much?
+<CHARNAME>: No, it's just. I didn't want you to feel uncomfortable.
+Aribeth: Oh, I see. Umm...ok, I guess that I can understand that.
+Aribeth: *Turns away, disappointment dripping from her face*
+Aribeth: Can we...try this again later?
+<CHARNAME>: Sure. GOTO 57
+
+55.
+Aribeth: *Looks up at you* That was nice.
+<CHARNAME>: I hope that I met your expectations.
+Aribeth: You did......
+<CHARNAME>: But...
+Aribeth: I guess that I'd hoped that our first kiss would have a bit more... fire to it.
+<CHARNAME>: Sorry, I guess that I..
+Aribeth: Got worried?
+<CHARNAME>: Yeah.
+Aribeth: That's sweet of you, but I'm not a doll. I won't break.
+Aribeth: *Runs her thumb across your lips* Next time, you don't need to hold back. EXIT GOTO 57
+
+56.
+Aribeth: *After several long seconds, she gently pushes you away.*
+Aribeth: *Gasping* My word! How long have you been holding onto that!
+<CHARNAME>: For some time now. I've just been awaiting the right time.
+Aribeth: I hope that it was worth the wait?
+<CHARNAME>: Well worth it!
+Aribeth: *Smiles* I'm glad that you feel that way. I feel the same. I can't wait for the next one.
+<CHARNAME>: I'm good to go right now?
+Aribeth: *Playfully punches you in the chest* I don't think that I could handle another one of those at the moment. But don't worry. I'll come calling soon enough. EXIT GOTO 57.
+
+--END DIALOG
+
+(conversation #11)
+--BEGIN DIALOG
+
+57.
+Aribeth: *Aribeth falls in alongside you as you walk and softly takes your hand, entwining her fingers with yours.*
+Aribeth: This is nice. *She squeezes your hand tightly*
+<CHARNAME>: *You return the squeeze.* Yes it is. Every thing good?
+Aribeth: Definitely. I was just thinking.
+<CHARNAME>: About?
+Aribeth: About the simple pleasures in life. I'd forgotten how enjoyable it can be to do something like this. Just walking while holding the hand of someone about whom you care.
+<CHARNAME>: Someone who also cares about you as well.
+Aribeth: *Smiles.* Can we stay like this for a bit?
+<CHARNAME>: Nothing would make me happier. GOTO 58
+<CHARNAME>: I guess a little longer wouldn't hurt. GOTO 59
+<CHARNAME>: That might not be wise. Our sword hands should be free and ready for battle, correct? GOTO 60
+
+58.
+Aribeth: I'm so glad to hear that.
+<CHARNAME>: It really does mean something to you, doesn’t it?
+Aribeth: Of course. I used to believe that romance was all about grand gestures. Being with you has reminded me that it's the little things, the simple things that really define a relationship.
+<CHARNAME>: Well, my hand is available to you whenever you need it.
+Aribeth: That was the perfect response. EXIT GOTO 61
+
+59.
+Aribeth: What if I want to hold your hand a lot longer?
+<CHARNAME>: I suppose that I could be persuaded to indulge you for a time.
+Aribeth: What if I just decide not to let go?
+<CHARNAME>: Then I'll just have to learn to live with it, won't I.
+Aribeth: That you will. EXIT GOTO 61
+
+60.
+Aribeth: Are you afraid of being taken unawares?
+<CHARNAME>: When one lives as do we, one must always be at the ready.
+Aribeth: You never seem to let down your guard do you?
+<CHARNAME>: Sorry.
+Aribeth: I'm not angry. It just makes me wonder if you truly trust anyone.
+<CHARNAME>: I trust you.
+Aribeth: *Still holding your hand* Then trust me to be ready to protect you should anyone strike at us. Do you now feel secure enough to continue holding my hand?
+<CHARNAME>: Heh. It seems that there is no need to rush in letting go after all. Exit GOTO 61
+
+--END DIALOG
+
+(conversation #12)
+– Spawn HARLOT when <CHARNAME> enters any Athkatla district
+--Triggers when <CHARNAME> walks near a HARLOT (use the HARLOT "Hey Sexy!" voice track)
+--BEGIN DIALOG
+
+61.
+Harlot: Hey there sexy. You lookin' for some company this even'n?
+Aribeth: *Aribeth angrily imposes herself between you and the streetwalker*
+Aribeth: He has plenty of company already. THANK YOU! Why don't you head to the waterfront and find some companionship down there!
+Harlot: Come now love. A strapping piece of man like that couldn't be satisfied with just one woman. I can show the both of you some things that you've never seen?
+<CHARNAME>: Aribeth, I....
+Aribeth: *Aribeth roughly takes your arm in hers and rather aggressively pulls you away from the doxie*
+<CHARNAME>: Aribeth, are you alright?
+Aribeth: *Still holding your arm securely* Hmmph. The unmitigated nerve! It was obvious to anyone with eyes that you weren't interested. Yet she still made an approach. What gall!!
+<CHARNAME>: Aribeth, it's ok.
+Aribeth: It's NOT ok!! To openly go after someones......
+<CHARNAME>: Someones? What?
+Aribeth: Nevermind. Wait! You weren't interested were you? Do you like women such as that? Had I not been here would you have considered her offer? Do you engage women such as that!?!
+<CHARNAME>: Hells yeah!! I'm a young male adventurer. Consorting with ladies of the evening is practically a requirement of the job! GOTO 62
+<CHARNAME>: I've spent time with a courtesan or two in the past. But I've moved on from that time in my life. GOTO 63
+<CHARNAME>: NO!!! I don't entertain prostitutes and I have no interest in that woman. I'd never do anything that would hurt you like that! GOTO 64
+
+62.
+Aribeth: I really hope that this is your idea of a joke! Because if it is, it's NOT funny!
+<CHARNAME>: I'm sorry, that was in poor taste. Of course I'm just kidding. I apologize. GOTO 65
+<CHARNAME>: Look, I had a past before I met you and I like to cut loose once in awhile. Is that really such a big deal? GOTO 66
+
+63.
+Aribeth: I really didn't need to know about that. But I can't say that my own history is snowy white either. As long as we are clear that that part of your life is over and done with. Right?
+<CHARNAME>: That's all behind me now. GOTO 65
+<CHARNAME>: Well..... GOTO 66
+
+64.
+Aribeth: *Smiles and loosens her grip a little* I'm sorry if I reacted strongly back there. It's just...
+<CHARNAME>: It's ok. I'd be upset if some strange name made advances on you as well.
+Aribeth: Would you.. really?
+<CHARNAME>: Yes. You're important to me, and I'd probably feel some jealousy if anything such as that were to occur.
+Aribeth: So, are you saying that...I'm yours?
+<CHARNAME>: I'd prefer to think of it as, we belong to one another. We're together in this. If you want it to be like that?
+Aribeth: *Once again squeezes your arm and pulls you close* You can't know how much I want that.
+Aribeth: *Rests her head upon your shoulder* Thank you for this. Thank you for everything. EXIT GOTO 67
+
+65.
+Aribeth: I should hope so! Just remember, you are mine now! I'll thank you to keep your distance from women such as that, going forward. Let's go. EXIT GOTO 67
+
+66.
+Aribeth: *Stops and lets go of your arm* I... thought that we had something. I can't believe that I was such a fool. We are done. EXIT (Aribeth leaves the party)
+
+--END DIALOG
+
+(conversation #13)
+--Triggers when initiating a rest at an inn
+--BEGIN DIALOG
+
+67.
+<CHARNAME>: *You are in process of making arrangements for rooms with the innkeep when Aribeth steps in front of you*
+Aribeth: It will just be one room for He and I.
+<CHARNAME>: Aribeth, are you sure about this? GOTO 68
+<CHARNAME>: No, I don't think so. GOTO 69
+<CHARNAME>: And a bottle of something nice as well. GOTO 70
+
+68.
+Aribeth: I'm positive. You don't have any objections, do you?
+<CHARNAME>: No, I just want to be sure that this is what you want?
+Aribeth: On this, I'm certain. I want us to be together tonight.
+Aribeth: Innkeeper, our room key, please. EXIT GOTO 71
+
+69.
+Aribeth: What! Why would you say that? Is there something wrong? Is there some reason that you don't want me?
+<CHARNAME>: This just doesn't feel right.
+Aribeth: After all of this! All the time that we've spent together! You reject me now! Fine! Find your own place to sleep, I'll be gone in the morning. EXIT (Aribeth leaves the party)
+
+70.
+Aribeth: You don't need to do that! Besides, I'm not much of a drinker.
+<CHARNAME>: I would just like to do something special for you.
+Aribeth: *Chuckles* You dummy. You are already special. You being there for me is special. You accepting me for who I am, what I am is special. Just being there for me, with me IS special.
+	I don't need anything more than you. I love you.
+<CHARNAME>: If I were a suave, lone-wolf type with a devils may care attitude, I'd probably answer with something witty, like; "I know." But that wouldn't convey how I feel about you. So how about this; I love you too, Aribeth.
+Aribeth: *Takes your hand* Let's go talk more in private.
+<CHARNAME>: Just talk?
+Aribeth: *Smiles* The night is still young. EXIT GOTO 71
+
+--END DIALOG
+
+(conversation #14)
+--Triggers after the resting cinematic
+--BEGIN DIALOG
+
+71.
+Aribeth: Good Morning.
+<CHARNAME>: Five more minutes.
+Aribeth: Come now, surely you don't intend to sleep the day away?
+<CHARNAME>: How can you be so chipper this early? Neither of us had much rest and I for one feel it.
+Aribeth: It's because I'm happy. Happier than you can imagine. It's difficult for me to be fatigued when I feel like this.
+<CHARNAME>: Could you, perhaps, just lie there and be happy for a little while longer while I get some more sleep?
+Aribeth: *Slides over, pressing herself closely against you.*
+Aribeth: Nope, you're not going back to sleep. So, you can either get up and about for the day, or stay here and entertain me. What'll it be?
+<CHARNAME>: If you insist *Kiss her deeply* GOTO 72
+<CHARNAME>: Have you no compassion? GOTO 73
+
+72.
+Aribeth: Now this is how one should be awakened in the morning! EXIT GOTO 74
+
+73.
+Aribeth: Hmmph!
+Aribeth: *Aribeth throws off the blankets, rolls out of bed and begins dressing. As she does so, she throws your tunic at you.*
+Aribeth: Get up up lazy bones! As I said, you are NOT going back to sleep. If you won't stay here and amuse me, then you can make yourself useful in other ways. 
+<CHARNAME>: Groan.
+Aribeth: Get up and lets go find some breakfast. EXIT GOTO 74
+
+--END DIALOG
+
+(conversation #15)
+--BEGIN DIALOG
+
+74.
+Aribeth: So, I was thinking of cutting my hair short.
+<CHARNAME>: What! Why?
+Aribeth: It's easier to manage if it's short, besides, I think that I'd look nice with shorter hair.
+<CHARNAME>: Well.... if you want...it's your decision.
+Aribeth: Hmmm. That's a pretty non-committal answer, what's wrong? Do you like my hair longer?
+<CHARNAME>: Long hair is ok.
+Imoen: He's totally into long hair!
+Aribeth: Really!?!
+Imoen: Back when we were young, he always drooled over long haired girls!
+<CHARNAME>: Hey! 
+Imoen: He 's totally into your long hair too. He pats your head while you sleep and runs it through his fingers.
+<CHARNAME>: Imoen! Shut it!
+Aribeth: *Looks at you* Do you now.
+<CHARNAME>: Perhaps I am partial to longer hair on women.
+Aribeth: *Begins twirling a lock of her lair between her fingers* So, do you have an opinion on this?
+<CHARNAME>: I'll still love you regardless. Do as you wish. GOTO 75
+<CHARNAME>: I'd rather that you kept it the way it is now. GOTO 75
+<CHARNAME>: You know, it could be a good look, go ahead and chop it. GOTO 76
+
+75.
+Aribeth: I think that I will keep it this way, for awhile at least. But it's nice to know what you like. EXIT GOTO 77
+
+76.
+Aribeth: You really think so? Hmm I don't know.
+<CHARNAME>: Not as sure about it as you thought.
+Aribeth: I wasn't exactly serious. I had a feeling that you were partial to my long hair and I sorta hoped for an impassioned plea from you, beseeching me not to destroy my beautiful locks,
+	but it seems that you foiled that plan.
+<CHARNAME>: I like your long hair, but I love you, regardless. I want you to be happy.
+Aribeth: Sometimes you make it difficult to tease you.
+<CHARNAME>: So that's a no on the new haircut.
+Aribeth: You're impossible you dunderhead. EXIT GOTO 77
+
+--END DIALOG
+
+(conversation #16)
+--Triggers after initiating a rest at an inn AND after the resting cinematic
+--BEGIN DIALOG
+
+77.
+Aribeth: <CHARNAME> WAKE UP, PLEASE!!!
+<CHARNAME>: *You awaken to Aribeth frantically shaking you. She is shaking*
+<CHARNAME>: Aribeth! What's wrong? Has something happened?
+Aribeth: *Presses her head to your chest, clinging to you.*
+Aribeth: <CHARNAME> it's... it's Fenthick! He came to me in a dream. I hadn't dreamed of him since... since... you and I became.... close.
+<CHARNAME>: It's all right. It was just a dream.
+Aribeth: NO! This was more, it felt like.... a warning...maybe?
+<CHARNAME>: What did you see?
+Aribeth: We... we were in bed, much as we are now. I was asleep in your arms, when the bed shook as if it had been violently kicked. I awoke and you were gone! Then I noticed that I was fully dressed.
+	I looked around and saw Fenthick! He was standing at the foot of the bed and he looked so...angry. At first, I thought that it was because you and I had become lovers, I was going to ask his
+	forgiveness when he cut me off. He pointed to the window. I looked over at it to find that it was open. When I looked back to Fenthick, he was gone! I rose and walked to the window. Outside, I
+	saw an old warrior, with a missing hand. He was standing in the street, looking at me, but with pity.
+<CHARNAME>: Pity?
+Aribeth: It was Tyr! I recognized him from my prior dreams!
+<CHARNAME>: While I can see how this would disturb you, what about all of this has you rattled so?
+Aribeth: It is what was behind Tyr. There were two women with him. One in a pillar of light and one cloaked in shadows. They were both me! They began to fight. To the death!
+<CHARNAME>: Which one won?
+Aribeth: They both did! I don't know how, but the same fight played out for both at the same time. I saw the shadowed me standing over the corpse of the warrior of light. At the same time, I watched the
+	light version of me, slay my shadow self. What could it mean?
+<CHARNAME>: It was just a dream. We've been over this before. Dreams don't mean anything. GOTO 78
+<CHARNAME>: It could be a warning. I'm not sure that we have enough information to make any judgments. GOTO 79
+<CHARNAME>: This could be trying to tell you something about your own internal conflicts. Are you struggling with and decisions? It could be you or something, telling you that you must make a choice? GOTO 80
+
+78.
+Aribeth: No! It wasn't just a dream. I feel it in my soul, this was more!
+<CHARNAME>: I believe you. But what should we do?
+Aribeth: I.... I'm not sure. I've just never felt so unsettled. Please, just hold me for awhile longer.
+<CHARNAME>: Of course. Don't worry, we'll find our way through this together. Our next step should be to see if we can find out more about these dreams. EXIT GOTO 81
+
+79.
+Aribeth: There must be something that we can do?
+<CHARNAME>: We'll begin asking around. We'll consult scholars and sages. There must be someone who has expertise in dreams or prophecies such as this. We'll seek them out.
+Aribeth>: You'll stand with me through this. You won't abandon me, right?
+<CHARNAME>: Never. EXIT GOTO 81
+
+80.
+Aribeth: What choice? I'm not struggling with any choices, am I? I've let go of Fenthick's memory. I'm happier that I've been in a long time. As much as I loved Fenthick, I feel a strength in your presence
+	that I never felt with him. I didn't sense that my connection with you was the source of any of this. But what else could it be?
+<CHARNAME>: It could be related to something of which you are yet unaware?
+Aribeth: How can we discover the source if I'm not even sure if there is a problem?
+<CHARNAME>: It makes it challenging, for sure. But as long as we are together, I know that there is nothing which we cannot overcome.
+Aribeth: Thank you. I actually feel somewhat better now. EXIT GOTO 81
+
+--END DIALOG
+
+(conversation #17)
+--Triggers after initiating a rest
+--BEGIN DIALOG
+
+81.
+<CHARNAME>: Aribeth! Wake up!!
+Aribeth: NO!! P..P...PLEASE! I YIELD!! NOOOO!!!
+<CHARNAME>: ARIBETH!!
+Aribeth *Awakens with a scream*
+<CHARNAME>: *You hold her close as she trembles in your arms*
+<CHARNAME>: The dreams again?
+Aribeth: Again! They never cease anymore. And they are getting worse. I no longer see Fenthick. I now find myself fighting for my life against both the light and dark versions of myself. Each time, the end is the same,
+	no matter how much I struggle, I am overwhelmed and I can only awaken an instant before the fatal strike lands.
+<CHARNAME>: I'm sorry that there isn't more that I can do for you. Our inquires have found nothing, thus far.
+Aribeth: I... may have an idea.
+<CHARNAME>: Tell me.
+Aribeth: Lately, the dream has had something new. A hooded figure, standing nearby, watching. As the battle reaches its end, he beckons to me and I feel this...pulling. At first it was nothing, but now, I feel like I'm
+	being drawn, to the east. I see a cave in my mind's eye. I think that all of this has an answer and it lies there. I'm going to go there. Will you come with me?
+<CHARNAME>: Of course. I'd never desert you. GOTO 82
+<CHARNAME>: That may not be wise. In your dreams, you fought alone. I think it best that this be a solo journey. GOTO 83
+
+82.
+Aribeth: *Smiles through her exhaustion and worry* I love you. I knew that you wouldn't forsake me. May we start out soon?
+<CHARNAME:> We'll leave right away. 
+YOUR WORLD MAP HAS BEEN UPDATED. EXIT (GOTO 84 upon initiating dialog with the Messenger of Lathander)
+
+83.
+Aribeth: ........ After all that we've meant to each other.... you'd cast me out to face this on my own? Fine! I will face my destiny, myself. EXIT (Aribeth leaves the party)
+
+--END DIALOG
+
+(conversation #18)
+--Triggers after traveling to new area "Mystics Cave" and initiating dialog with the Messenger of Lathander (use Dustman graphic from Planescape: Torment)
+--Approach: AR6000 Upper Dorn's Deep outdoors map (from Icewind Dale)
+--Interior: AR3101 Vale of Shadows Crypt 2 (from Icewind Dale)
+
+--BEGIN DIALOG
+84.
+Messenger of Lathander: Greetings Lady Aribeth and to you, Judge.
+Aribeth: What is happening?
+Messenger of Lathander: You have taken the first step and now stand at a crossroads. But the choice to proceed is not yours alone.
+Messenger of Lathander: *Turns to you*
+Messenger of Lathander: <CHARNAME>, as a Judge of Lathander, you are once again called to render a verdict. Lady Aribeth has forces drawing her in differing directions. By setting foot upon this path, she WILL
+	be changed. There is no way to escape this fate, save to not undertake the journey. This, Judge, is why you have been brought here. I ask you this question, is Lady Aribeth prepared for the challenge ahead?
+	Shall she seek redemption in the eyes of Tyr, or remain as she is? Choose.
+Aribeth: Redemption? To once again become a paladin? Could such a thing be possible?
+<CHARNAME>: Aribeth? Is that something that you want? To once again serve Tyr as a paladin?
+Aribeth: The answer to that is complicated. I will admit that my heart yearns for the notion of being able to atone and regain what I've lost.
+<CHARNAME>: But?
+Aribeth: But, deep within the core of my being, I am unsure if I am worthy of such a chance. I have doubts as to my ability to complete such a test. I don't know what to do. Please, <CHARNAME>, you know me
+	better than I know myself, sometimes. What should I do?
+<CHARNAME>: *You step before the Messenger of Lathander*
+Messenger of Lathander: Your verdict, Judge?
+<CHARNAME>: Aribeth is strong. Her heart is true. Through the trials ahead, she shall find her way. She shall undertake the challenge. GOTO 85
+<CHARNAME>: Aribeth is strong, however, her time as a paladin was thrust upon her. A result of the pain of losing her family. Furthermore, her life was one of duty and sacrifice and resulted in her having
+	to bear great hardships. She deserves to have a chance at happiness. Leave her be. She doesn't want this. I don't want this for her. GOTO 86
+
+85.
+Aribeth: Thank you <CHARNAME> for your faith in me.
+<CHARNAME>: I have no doubt in your ability to face and defeat any obstacle in your path.
+Messenger of Lathander: With the choice made, your ordeal will begin. On behalf of Tyr, do we, the servants of Lathander, administer this test of faith.
+YOUR WORLD MAP HAS BEEN UPDATED.
+Messenger of Lathander: Take this map. It will lead you to a fallen sanctuary once dedicated to Tyr Here, holy warriors once trained and purified themselves, but those within succumbed to temptation and
+	lost their way. Now, their unclean spirits infest the halls. You will reclaim this place for Tyr and with that, you will reclaim your title as a paladin of Tyr. I have no more to say. EXIT
+
+86.
+Aribeth: You want me to be... happy? I.... I'd not considered this before? While I had many rewarding experiences during my service to Tyr, it is also true that most on the strife that I endured came as a
+	result of that service. I met Fenthick when I was a paladin, but his death was a direct result of my service to Neverwinter and Tyr. Is it possible? Once my need for revenge had faded, could I have
+	found happiness? I had always thought that my becoming a paladin had lifted me from that darkness, but could I have not climbed out on my own? Would not my life have had less turmoil had I just
+	liven it for myself?
+<CHARNAME>: You are a free woman Aribeth. You don't need to pledge your life to anything or anyone ever again. Stay with me. Share my adventures. Though I have my own quests ahead of me, they are MY quests.
+	You will owe me no fealty, no obligation beyond what you wish. I promise you that I will strive my hardest to ensure that you are as happy as possible, being at my side.
+Aribeth: To just live. I'd never before considered such a path. Yes! Let us do it. I don't need redemption. All I.... want is to stay with you, <CHARNAME>. Let us leave this place and find a future, together.
+	One without the guilt of the past. EXIT (end dialog, Aribeth remains with current class)
+
+--END DIALOG
+
+(conversation #19)
+--Triggers after traveling to new area "Sanctuary of Tyr" and speaking to the "Ghostly Librarian"
+--Approach: AR3600 outdoors map (from Icewind Dale)
+--Interior: (AR3601, AR3602); "The Temple of the Forgotten God" https://icewinddale.fandom.com/wiki/Temple_of_the_Forgotten_God from Icewind Dale
+--Final Battle : OH3100; "The Dark Moon Temple Summit:"   https://baldursgate.fandom.com/wiki/Dark_Moon_Temple_Summit from BG1.
+
+--BEGIN DIALOG
+
+87.
+Ghostly Librarian: So, more fools, come to cleanse this place?
+Aribeth: More fools? Others have come before us?
+Ghostly Librarian: Of course, Fool. You are but another misguided sod, tricked into coming here for the glory of Tyr. You will meet the same fate as the others and soon enough, you will join the rest in their
+	endless defense of these halls.
+Aribeth: I will not be defeated so easily!
+Ghostly Librarian: So said they all. Yet dead they are. Leave now and you may live a little longer.
+Aribeth: I will not yield!
+Ghostly Librarian: Sigh. Very well. Then I have no choice but to proceed with the test. Listen closely, you will be given 3 scenarios. Respond as you believe best.
+Ghostly Librarian: Number One. You are a student. Every day you and your classmates see a bully tormenting another student, but no one tells the instructor. Do you speak up? 
+Aribeth: Yes. It is the duty of the strong to defend those who cannot protect themselves. GOTO 88
+Aribeth: No. If I were to intervene, the victim will not learn to stand up for themselves and fight their own battles. They will never grow and become stronger. GOTO 89
+
+88.
+Ghostly Librarian: And what will happen the next time? Someday, there will be no one to fight their battles for them. You would deny them a chance to learn to stand on their own? So be it. GOTO 90
+
+89.
+Ghostly Librarian: You would stand by and do nothing? Rationalize it all that you wish, but you are still allowing the strong to victimize the weak. GOTO 90
+
+90.
+Ghostly Librarian: Number Two. You witness a man steal money from a greedy, yet honest merchant. However, instead of keeping the money for himself, he donates it to a poor orphanage that can now afford to feed, clothe, and care 
+	for its children. You know who committed the crime. The City Watch approaches you and ask if you know anything of the crime. If you reveal the information, there's a good chance the money will be returned to the 
+	wealthy merchant, leaving a lot of kids in need. What do you do?
+Aribeth: Turn the robber in to the authorities; theft, even for a good reason, is still wrong. GOTO 91
+Aribeth: The merchant will not suffer from the loss. Say nothing since the money went to what you deem a good cause. GOTO 92
+
+91.
+Ghostly Librarian: So, to satisfy your own moral compass, you would allow the needy to suffer? Do you not find it selfish, causing suffering, just so that you may feel proud of yourself for doing whet you perceive to be the right thing? GOTO 93
+
+92.
+Ghostly Librarian: Who are you to judge the pain of others? Did not the merchant earn his coin through his own hard work and sweat, yet you feel that you have the right to decide that others are more worthy of his coin? 
+	Do you appropriate the man's home to house the orphans? Do you tear the clothing from his back to clothe the poor? Where does it end? GOTO 93
+
+93.
+Ghostly Librarian: Number Three. A group of children was playing near a forked road. They were warned that one side was still in use and heavily traveled, thus very dangerous, while the other road was no longer used. One child, 
+	recognizing that the in-use road was not safe, obeyed the warning and played on the unused road, the rest defied the warning and were playing on the road still being used. You notice that a heavily laden wagon has broken 
+	loose and is rolling down the road, and you are just beside the road fork. You can make the wagon change its course to the unused road and save most of the kids. However, that would also mean the lone child playing by the 
+	unused road would be killed. Do you divert the wagon or allow it to roll unchanged?
+Aribeth: Do nothing. The boy playing alone should not be sacrificed because of his ignorant friends who chose to play where the danger was. GOTO 94
+Aribeth: Divert the course of the wagon, and sacrifice only one child. It's sad, but better to save most of the children at the expense of only one child. GOTO 95
+
+94.
+Ghostly Librarian: So you allow 5 lives to be destroyed, simply to save 1? Perhaps you feel that their actions somehow make them deserving of death? Who are you to judge the worth of a life over another? Do not the needs of the many outweigh the needs
+	of the few or the one? GOTO 96
+
+95.
+Ghostly Librarian: So, the boy who made the wise decision to stay out of danger is chosen to die, simply because his death is the lesser sacrifice? Did not the others place themselves, knowingly in danger? Does personal
+	responsibility not have an effect on ones life? Do action not have consequences? GOTO 96
+
+96.
+Ghostly Librarian: Hmmph. You have made your choices and now must live with them. Be on your way. EXIT GOTO 97
+
+--END DIALOG
+
+
+(conversation #20)
+--Triggers after defeating 2 of the 3 demons in the Final Battle and Demon #3 falls below %10 health : OH3100; "The Dark Moon Temple Summit:"   https://baldursgate.fandom.com/wiki/Dark_Moon_Temple_Summit from BG1.
+
+--BEGIN DIALOG
+
+97.
+Demon: STOP!!! You have defeated me. Before you strike the final blow and end my existence, I would have you hear my offer.
+Aribeth: Offer?
+Demon: Yes. I sense that you once followed the being to whom this place once belonged. I also sense that you've followed another, darker master more recently.
+Aribeth: What are you saying?
+Demon: I offer you the chance to pledge yourself to my Master, Gra'zlteasu. He was once a minion of Behlefit, of whom your companion was once acquainted. My Master is in ascendance and is seeking capable servants. I offer you, 
+	Aribeth, the opportunity to become one. You will know strength and power the likes you have never seen in His service.
+Aribeth: I.... <CHARNAME>, what should I do?
+<CHARNAME>: Don't do this Aribeth! You've come so far, worked so hard. Don't lose faith now when you are one step away from your goal. GOTO 98
+<CHARNAME>: His offer is worth considering. You grew strong under Tyr, but did he truly do right by you? Was he there for you when you needed his support? Perhaps you should consider another path? GOTO 99
+<CHARNAME>: I don't trust this demon. Yet, I can't say that I appreciate the way that Tyr abandoned you either. I believe that neither is worthy of your loyalty or service... they are both unworthy of you. (Fight resumes) GOTO 100
+
+98.
+Aribeth: You are right! I have fallen once before. I will not lose my way again!
+--Fight resumes. After demon dies "Avatar of Tyr" dim doors in (Use doomsayer from BG1)
+Avatar of Tyr: YOU HAVE DONE WELL, ARIBETH!
+Aribeth: Lord Tyr?
+Avatar of Tyr: IT IS I. YOU HAVE FACED THE TESTS AND TRIUMPHED! THIS SITE! ONCE CORRUPTED IS NOW PURIFIED! YOU HAVE PROVEN YOURSELF AND ARE WORTHY! COME, REGAIN WHAT YOU HAVE LOST!
+Aribeth: *Aribeth regains her paladin abilities*
+Avatar of Tyr: GO FORTH, PALADIN OF TYR. YOUR PAST MISTAKES FORGIVEN.
+Aribeth: I... thank you, My Lord.
+-- Avatar of Tyr dim doors away
+<CHARNAME>: Congratulations Aribeth. I knew that you could do it. I'm proud of you.
+Sirene: You've done it Aribeth, I always knew that you could.
+Keldorn: You have done well. I am proud to stand with you.
+Aribeth: I could not have made it this far without you by my side. Forevermore, you have my loyalty and my love.
+<CHARNAME>: And you have mine Aribeth. EXIT GOTO 101
+
+99.
+Aribeth: Another...path? After all that I've gone through, just abandon any hope of redemption?
+<CHARNAME>: Redemption for what? Yes, you turned against Neverwinter and Tyr, but did they not turn against you first? Leading an army of conquest against the city was perhaps a bridge too far, but what had either Tyr or Neverwinter
+	done to deserve your loyalty? Morag was untrustworthy, but have you considered finding a new patron? One who will help you realize your dreams and ambitions!
+Aribeth: I...... I..... see now. Yes, <CHARNAME>,, you are correct. Why did I so desperately want to regain Tyr's favor? I don't need atonement! It should be them asking.. no begging me for my forgiveness! I will accept the power offered!
+Sirene: Aribeth: Do not do this!
+Keldorn: NOOOO!!
+Demon: The pact is sealed!
+Aribeth: *Aribeth regains her blackguard abilities*
+-- Demon Dim doors away
+Aribeth: I... feel strong again. I feel like I have no limits!
+Sirene: Aribeth, my friend. Though you have fallen further. I shall not abandon you. I will return you to the light.
+Keldorn: And so, you find a way to further disappoint me. You are truly lost. (Keldorn leaves the party)
+<CHARNAME>: Aribeth. You radiate power and strength.
+<CHARNAME>: *Aribeth grabs you by the back of your head and pulls your lips to hers in a deep and lengthy kiss.*
+Aribeth: It is thanks to you, beloved, that I have seen my path. This newfound power that I now possess is thanks to you, and it is to you that I now pledge them. I will stand by your side until our end, if you'll have me?
+<CHARNAME>: Until the end my love. EXIT GOTO 101.5
+
+100.
+Aribeth: What is your meaning?
+<CHARNAME>: This demon is an agent of evil and the one he serves undoubtedly more, I'd not bond myself to creatures such as they. Yet, the more I see of these so called tests to which you have been subjected, it makes me question
+	the motives of Tyr and his followers. What does all of this have to do with proving yourself? If anything it only proves that you are a capable warrior, by that metric, my brother Sarevok, the black hearted villain that
+	he was, could be judged worthy. It seems that you are simply being used to cleanse this place and do someone's dirty work for them. You don't need to ask anyone’s forgiveness. You are already strong. You have my love.
+	Were I you, I'd wash my hands of them both; Tyr and the demon!
+Aribeth: <CHARNAME>, my love. Once again, your counsel proves to be the wisest. You are correct. I do not need any of this. I already have everything that I could need and want. Let us destroy this creature and turn our backs
+	upon this place! EXIT GOTO 101
+- battle resumes. Aribeth remains a Fallen Paladin but gains a special ability.
+
+--END DIALOG
+
+
+(conversation #21)
+--Triggers after leaving AR3601 and entering AR3600
+
+--BEGIN DIALOG
+101.
+<CHARNAME>: So, how do you feel?
+Aribeth: Like I'm finally standing in the sunshine again. I have this feeling, at first I was unsure as to what it was, but then I realized what it is.
+<CHARNAME>: What feeling is that?
+Aribeth: It's hope. I now have true hope for the future.
+<CHARNAME>: So what would you like to do now.
+Aribeth: *Takes your hand*
+Aribeth: I'd like to hurry back to Athkatla, get a room at one of the nicer inns and spend the night in your arms. Then, the next day, we will treat ourselves to a fine breakfast and begin building the future that we both want
+	together.
+<CHARNAME>: That sounds like the best way to spend a night that I've ever heard. Let us hurry. EXIT GOTO 102
+
+101.5.
+<CHARNAME>: So, how do you feel?
+Aribeth: Amazing. I feel unstoppable.
+<CHARNAME>: So what would you like to do now.
+Aribeth: We should get back to Athkatla as quickly as possible!
+<CHARNAME>: For what reason?
+Aribeth: I want to get a room in one of the nicer inns and spend a full day in bed.
+<CHARNAME>: *Aribeth pulls you in for another kiss*
+<CHARNAME>: Where did this come from?
+Aribeth: I find myself in possession of a... vigor of which I've never before felt. I want to take on the world. I want to grab life by the throat and throttle it. I also want to throw you in bed and taste your flesh!
+<CHARNAME>: I really hope that you aren't speaking literally.
+Aribeth: *Grins evilly* Why? Am I frightening you? HA HA HA.
+<CHARNAME>: Gulp.
+Aribeth: Oh, don't worry my love. I am far too fond of you to hurt you... much. I've just realized that we need to seize control of our lives and live them to the fullest. You are something which I wish to seize. I want
+	to drown myself in you. Are you interested?
+<CHARNAME>: I think that we should get to Athkatla as soon as possible. EXIT GOTO 102
+
+--END DIALOG
+
+(conversation #22)
+--BEGIN DIALOG
+102.
+<CHARNAME>: *You notice Imoen and Aribeth speaking in hushed tones. Every so often they look in your direction and chuckle to themselves*
+<CHARNAME>: Ok. Just what are you two going on about?
+Aribeth: Why, whatever do you mean?
+Imoen: Yeah! You make it sound like we are up to something. I'm offended!
+<CHARNAME>: That's because you ARE up to something. Whenever the 2 of you begin talking like this it never ends well for me. So, spill it.
+Aribeth: It's really nothing. Imoen was just telling me some stories of your youth back in Candlekeep.
+<CHARNAME>: Oh, no!! Not that.
+Imoen: Oh Come on. You were so cute.
+Aribeth: I agree. I especially liked the story about the time those Sharess worshipers came to study at the library and Gorion showed up just in time to rescue you from that Sacred Prostitute who was determined to....
+<CHARNAME>: That is quite enough!! Thank you!
+Imoen: *Laughing* Come on, let her finish. That's a great story!
+Aribeth: I agree. But I still think that the one about Blackstaff's visit was so much better, especially when...
+<CHARNAME>: *Place a finger across Aribeth's lips* That's enough. GOTO 103
+<CHARNAME>: *Tweak Imoen's nose* You see what you've started! GOTO 104
+
+103.
+Aribeth: Oh, don't be like that.
+<CHARNAME>: You aren't the one being mercilessly mocked.
+Aribeth: I can't help it. You are just too much fun to tease.
+<CHARNAME>: You can't find some other way to pas the time?
+Aribeth: My love. I plan to continue picking on you for a very long time to come. Best to just accept your fate.
+<CHARNAME>: Love you too. EXIT GOTO 105
+
+104.
+Imoen: Ouch! You can be such a meanie!
+<CHARNAME>: And you can be such a pest!
+Imoen: Buzzkill!
+<CHARNAME>: Nuisance.
+Imoen: Curmudgeon!!
+<CHARNAME>: Cur.... Who even uses that one anymore? What are you? An 80 year old woman or something?!?
+Aribeth: HA HA HA HA HA.
+Imoen: Huh?
+<CHARNAME>: Something amusing?
+Aribeth: Yes! You two. Just watching you both go back and forth at one another. It's obvious how close the two of you are.
+Aribeth: *Walks over and kisses your cheek*
+Aribeth: I'm a little sorry about picking on you. But not too sorry, mind you. I hope that one day, you and I will be able to banter like that.
+<CHARNAME>: Like school children bickering?
+Aribeth: Like two people who know each other so well that they can say anything to one another.
+<CHARNAME>: And we aren't there yet?
+Aribeth: No. I love you deeply and I know that you feel the same. Yet there are still walls within you that you've not torn down. I know that you keep them up out of a feeling that you need to protect us from parts of
+	yourself, but they are still a part of you that I do not yet know.
+<CHARNAME>: I...
+Aribeth: Don't worry. I'll bring them down in time. I'm patient. EXIT GOTO 105
+
+--END DIALOG
+
+(conversation #23)
+--trigger after initiating a rest
+--BEGIN DIALOG
+
+105.
+Aribeth: Ahh.... Finally, another long day comes to an end.
+Imoen: You said it, I'm tired and hungry and just want to get off of my feet.
+Aribeth: Speaking of which, I believe that it is my turn to cook this evening.
+Imoen: Ummmm, no I think that it's my turn.
+Aribeth: Oh no, you cooked just the other day. It's definitely my turn, you go relax.
+<CHARNAME>: How about I give you a hand with the meal?
+Aribeth: That's sweet of you to offer, but you took care of dinner yesterday.
+<CHARNAME>: It's really no trouble. I'm happy to help out.
+Imoen: Or I can pitch in?
+Aribeth: No, I've got it under con...... wait. Am I a bad cook?
+Imoen:......
+<CHARNAME>:.....
+Aribeth: Am I?
+Imoen: Well......
+Aribeth: Is my cooking really that bad?
+<CHARNAME>: It's not that it's bad. Your cooking style just doesn't align with our tastes. GOTO 106
+<CHARNAME>: You've definitely improved. It now takes us 2 hours to get indigestion instead of 30 minutes. GOTO 107
+<CHARNAME>: I always enjoy every meal that you cook for me. GOTO 108
+
+106.
+Aribeth: That sounds like a nice way of saying that you think that I'm a terrible cook.
+<CHARNAME>: No, no, no, no. I'm not saying anything like that.
+Aribeth: Then what ARE you saying?
+<CHARNAME>: What I'm saying is.... uh. Imoen, want to help me out here?
+Imoen: I'm not getting involved in this.
+<CHARNAME>: The betrayal.
+Aribeth: Well?
+<CHARNAME>: Ahh, yes. What was I saying.
+Aribeth You were saying how I wasn't a terrible cook. Unless you were lying?
+<CHARNAME>: Maybe? GOTO 107
+<CHARNAME>: Of course not. GOTO 108
+
+107.
+Aribeth: If my cooking was really so bad, why did no one tell me sooner?
+<CHARNAME>: We all so how hard you were working and how proud it made you to pitch in and help with the cooking. No one wanted to say anything negative.
+Imoen: Yeah. We all felt bad.
+Aribeth: So you just kept eating, even though my meals were making you sick?
+<CHARNAME>: None of the dinners coked by you made anyone sick. Some of them just.... put up a bit of a fight going down.
+Aribeth: That doesn't make me feel better.
+<CHARNAME>: Sorry. The point is that you were getting better as time passed, so we decided to.....
+Imoen: Tough it out?
+<CHARNAME>: To give you time to improve on your own. At some point we figured that you'd find your footing and in the meantime, we'd try to help whenever we could and try to subtly guide you by example.
+Aribeth: So that's why you all kept trying to help?
+Imoen: Yeah.
+<CHARNAME>: Yes.
+Aribeth: And you didn't say anything to spare my feelings?
+<CHARNAME>: Yes.
+Aribeth: *Begins to softly cry* You bumbling, lovable fool. Next time say something sooner.
+<CHARNAME>: Aribeth, I....
+Aribeth: <CHARNAME>, Imoen? Would you both please give me a hand with dinner? EXIT GOTO 111
+
+108.
+Aribeth: So you do like my meals?
+<CHARNAME>: Your method of food preparation was not something to which I was accustomed at first and took a little getting used to, but it's growing on me.
+Imoen: Like fungus?
+<CHARNAME>: NOT HELPING!
+Aribeth: I realize that I'm new to some things, like cooking, but I was really happy to be able to cook for someone.
+<CHARNAME>: Well, it's a journey.
+Aribeth: If we are to be together, <CHARNAME> it will be as equals in all things. I promise that I'll work at this and get better. Will you give me another chance?
+<CHARNAME>: You bet! GOTO 109
+<CHARNAME>: Ummmm..... GOTO 110
+
+109.
+Aribeth: Once again, you pick me up and give me a second chance.
+<CHARNAME>: Surely you expected nothing less?
+Aribeth: Impossible man. So, will you assist me with tonight's dinner?
+<CHARNAME>: I'd be happy to do so. EXIT GOTO 111
+
+110.
+Aribeth: So, that's how it is? Fine! You win! See if I EVER try and cook for you again.
+Imoen: Whew.
+<CHARNAME>: Quiet, you!
+Imoen: My bad.
+Aribeth: Don't you blame this on her. Well, I hope that you really do like to cook? Either that or you'd best learn to enjoy eating from food stalls or getting meals at inns, because that is how we are going to eat for 
+	the rest of our lives.
+<CHARNAME>: You've already planned everything out that far ahead?
+Aribeth: Believe it mister.
+<CHARNAME>: *Aribeth grabs you by the chin.*
+Aribeth: It's a matter of pride and spite, now. You are now stuck with ensuring that I'm properly fed. You'll be responsible for this task for quite some time. Now, I'm hungry. What are you going to do about it?
+<CHARNAME>: Heh heh. I guess I'd better see about dinner.
+Aribeth: So you should. EXIT GOTO 111
+
+--END DIALOG
+
+(conversation #24)
+--Trigger after initiating a rest
+--BEGIN DIALOG
+
+111.
+Aribeth: <CHARNAME>, wake up.
+<CHARNAME>: Huh, wha..... Aribeth? What is it?
+Aribeth: I was lonely. I want to talk.
+<CHARNAME>: Talk? Talk about what?
+Aribeth: Lately, the only thing about which we speak is your quest for Irenicus. I want you to hold me in your arms and talk to me like I'm your lover, not your adventuring companion.
+<CHARNAME>: Very well, come here.
+Aribeth: This is nice.
+<CHARNAME>: So what should we talk about?
+Aribeth: I don't want to make any decisions. I just want you to talk to me. Tell me a story. Something from your past. Preferably something that doesn't descend into violence and bloodshed.
+<CHARNAME>: That could be difficult. You know what my life is like.
+Aribeth: Do your best.
+<CHARNAME>: Oh. How about the time I broke into the Hall of Wonders back in Baldurs Gate. It all began when I met this fellow in the Elfsong Tavern and...... GOTO 112
+<CHARNAME>: Well, it's a bit violent and bloodshed...ey, but I could tell you of how we were tricked into visiting an island of werewolves under the pretense of discovering the final fate of the explorer, Balduran.
+	We were in Ulgoth's Beard and had.... GOTO 113
+<CHARNAME>: I've got a good one. This is the story of how we found a talking chicken. We were in the wilderness South-West of Beregost, when.... GOTO 114
+<CHARNAME>: It's not my proudest moment, but the time that I conned some pretentious noble out of a pair of golden pantaloons is an interesting story. It all started at the Friendly Arm Inn when I mistakenly entered
+	the wrong room and this arrogant fop mistook me for an inn employee and...... GOTO 115
+
+112.
+<CHARNAME>: .... we made our way back to the Elfsong, delivered the telescope and collected our ill gotten reward. You'd have thought that phantoms were behind the heist according to the tales being spread about the 
+	city the next day. Such stealth and skill were the stuff of legends and were of course nowhere near our true level of competency. I was amazed that we pulled it off, myself.
+Aribeth: Well, I knew that you had a colorful past, but I never dreamed that I'd fall in with a criminal mastermind.
+<CHARNAME>: Hardly a criminal mastermind. I will admit to operating on the shady side of the law now and then, but I've since reformed.
+Aribeth: That's good to hear. I can't have my sterling reputation sullied by associating with disreputable sorts, now can I?
+<CHARNAME>: Perish the though, My Lady.
+Aribeth: I still love you though, you ruffian.
+<CHARNAME>: And I you, you trouble maker.
+Aribeth: Hmmm. Good night, my love. EXIT GOTO 116
+
+113.
+<CHARNAME>: .... upon our return, we confronted the chieftain and destroyed him when he attempted to slay us in a rage over our having thwarted his plans to infiltrate the mainland.
+Aribeth: That is a fascinating and terrifying story. A grand adventure for sure, but to think that an entire island of lycanthropes exists, out there in the middle of the sea.
+<CHARNAME>: Indeed. But by our visit, the most fanatical and dangerous elements were culled. It is my hope that those remaining have found a way to live in peace.
+Aribeth: I admire that about you, you know.
+<CHARNAME>: What is that, pray tell?
+Aribeth: Despite all the tragedy that you have experienced. You still can show kindness for others.
+<CHARNAME>: So there is still hope for me, huh?
+Aribeth: I will always love you, don't forget that. EXIT GOTO 116
+
+114.
+<CHARNAME>: .... returned to High Hedge and Thalantyr was able to bend some rules of magic and restore Melicamp to his human form.
+Aribeth: Heh heh. Oh my. It certainly seems like that young man had a rough time.
+<CHARNAME>: Yeah! I imagine that almost being eaten would do that.
+Aribeth: But he also seems to have learned a valuable lesson as well.
+<CHARNAME>: Almost tasting death can do that.
+Aribeth: You've had so many experiences in such a short time. I envy you for that.
+<CHARNAME>: It's had it good times and it's bad. I'm somewhat envious of you. I never stop moving, it's hard to make connection when you live like that. You had roots, a place to call your own.
+Aribeth: Don't you worry. You have connections now. You may be a wanderer, but you also have people who care about you. I'll always be here with you. EXIT GOTO 116
+
+115.
+<CHARNAME>: .... told him that his stay would be free if the pantaloons were not cleaned, pressed and returned within the hour. So, with pantaloons in hand, we got the Hells out of there.
+Aribeth: HA HA HA HA!!! That is the dumbest story that I've ever heard. I love it!!
+<CHARNAME>: Was it really that funny?
+Aribeth: You literally stole a man's pants. That's hilarious.
+<CHARNAME>: I guess it is a little bit funny.
+Aribeth: It's nice to see you smile. Those are becoming rare for you these days.
+<CHARNAME>: Really? I hadn't noticed.
+Aribeth: I know, and that worries me.
+<CHARNAME>: That I haven't smiled recently? Is it really such a big deal?
+Aribeth: Yes. Despite everything, I'm happy, being with you. I know that it's due to the concerns weighing upon you, but when you are your serious, stoic self. It makes the irrational portion of
+	my mind worries that you are unhappy with me... with us.
+<CHARNAME>: You know that that is not the case.
+Aribeth: I know, but I still worry.
+<CHARNAME>: I'll try to do better.
+Aribeth: Just try to smile more often, and remember that I love you. EXIT GOTO 116
+
+
+--END DIALOG
+
+(conversation #25)
+--BEGIN DIALOG
+
+116.
+Aribeth: <CHARNAME>?
+<CHARNAME>: Yes, Aribeth?
+Aribeth: I've been thinking about what will happen to us once this is over. Have you?
+<CHARNAME>: No, not really. GOTO 117
+<CHARNAME>: Of course. GOTO 118
+
+117.
+Aribeth: You haven't, not at all? No thoughts to a future?
+<CHARNAME>: I don't even know if I'll live through tomorrow. Why dwell on it? GOTO 119
+<CHARNAME>: I don't have time for this. GOTO 120
+
+118.
+Aribeth: May I ask what you plan to do?
+<CHARNAME>: Stay with you. Find someplace and build a home. Try to live a more peaceful life. GOTO 121
+<CHARNAME>: I was hoping to keep adventuring for awhile longer yet. You and I, living life to the fullest. Going new places, seeing new sights. I have too much wanderlust in my veins to stay in one place, for now anyways. GOTO 122
+
+119.
+Aribeth: You don't find that to be somewhat shortsighted?
+<CHARNAME>: Not really. No plan survives contact with the enemy. We have much fighting ahead of us. Once we win, then we can talk about the future.
+Aribeth: I guess we will talk more once we've secured victory. Let's be on our way. EXIT
+
+120.
+Aribeth: I see. Do... do your plans for the future at least include a place for me?
+<CHARNAME>: That is the one aspect of my future about which I am certain. We'll always be together.
+Aribeth: That is enough then, for today. Tomorrow, that is another conversation. EXIT
+
+121.
+Aribeth: Is that what you truly want?
+<CHARNAME>: Yes. Why wouldn't it be?
+Aribeth: I was beginning to believe that you would never wish to settle down and find a quiet place to settle.
+<CHARNAME>: Why would you think that?
+Aribeth: I've seen you during an adventure. You are in your element. Even during times of hardship, you seem so happy to be out there, so.... complete.
+<CHARNAME>: And you were afraid that I'd not want to leave that life?
+Aribeth: Yes.
+<CHARNAME>: I want to be with you. Being an adventurer is great, but there are very few old adventurers. One has to know when to leave that life behind and I want to build a life with you.
+Aribeth: That makes me so happy to hear. Let us hurry and put an end to this. I can't wait to greet our new future. EXIT
+
+122.
+Aribeth: To travel and experience new things does sound pleasant. But for how long? One can't do so forever.
+<CHARNAME>: We'll just take it day by day. I want you by my side for all of this. We'll continue until it's no longer fun, then, we'll find something new.
+Aribeth: Just live day by day?
+<CHARNAME>: Just the two of us. We'll take life as it comes.
+Aribeth: I must admit, it does have it's appeal. Although the uncertainty is somewhat unsettling.
+<CHARNAME>: Life is uncertainty. But together, we will triumph. EXIT
+
+--END DIALOG
+

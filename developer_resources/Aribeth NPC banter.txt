@@ -125,7 +125,7 @@ Aribeth: Yes. Most of my memories from then are of blood and death. I have moved
 Cernd: I understand. If I may be of any aid, please do let me know.
 Aribeth: Thank you for your kindness.
 
-Dorn banter #1
+Dorn banter #1 (Aribeth and Dorn can only be present together if Aribeth is a Fallen paladin or becomes a blackguard)
 
 Aribeth: Is there something that you require...ORC!
 Dorn: Half-orc, you witch!
@@ -144,7 +144,7 @@ Dorn: Are you certain? We have both faced betrayal in our lives from those that 
 	difference is that I accept what I have become, while you have not.
 Aribeth: I'll hear no more of this. Leave me be!
 
-Dorn banter #2
+Dorn banter #2 (Aribeth and Dorn can only be present together if Aribeth is a Fallen paladin or becomes a blackguard)
 
 Dorn: Have you considered my words from before?
 Aribeth: I consider little of what you have to say. Why are you speaking to me?
@@ -220,7 +220,7 @@ Haer'Dalis: Ahh, but you wound a poor sparrow with you your claws.
 Aribeth: Though my knowledge on the subject may be limited, I imagine that phoenix's do sometimes eat sparrows, be thankful that it is 
 	with words alone that you are wounded.
 
-Hexxat banter #1
+Hexxat banter #1 (Aribeth and Hexxat can only be present together if Aribeth is a Fallen paladin or becomes a blackguard)
 
 Hexxat: Do you find my company objectionable?
 Aribeth: In what way?
@@ -240,7 +240,7 @@ Hexxat: That is an extremely pragmatic viewpoint, even for a former paladin.
 Aribeth: You don't object, I assume?
 Hexxat: No objections, just pleasant surprise.
 
-Hexxat banter #2
+Hexxat banter #2 (Aribeth and Hexxat can only be present together if Aribeth is a Fallen paladin or becomes a blackguard)
 
 Aribeth: Hexxat?
 Hexxat: Hmm? Yes?
@@ -278,7 +278,7 @@ Imoen banter #2
 
 Imoen: Whatcha' doing?
 Aribeth: Hmmm? Oh, just sharpening my sword. Why?
-Imoen: No, I meant that chant that I heard you singing to yourself. What was that?
+Imoen: No, I meant that rhym that I heard you singing to yourself. What was that?
 Aribeth: Oh, that. Just something from my childhood. It's a mantra, something that is taught to children to help them maintain focus at a
 	task. I got into the habit of reciting it to myself during certain tasks. I guess I never completely stopped doing it.
 Imoen: You should sing it to me sometime.
@@ -385,7 +385,7 @@ Jan: Not even as a gift, because I was thinking that I have the perfect incendia
 Aribeth: Grrrrrrrrr.
 
 
-Keldorn banter #1
+Keldorn banter #1 (Aribeth and Keldorn can only be present together if Aribeth is a Fallen paladin or becomes a paladin)
 
 Keldorn: Fallen paladin.
 Aribeth: Sigh... Yes, Sir Keldorn.
@@ -397,7 +397,7 @@ Keldorn: It may not have been intended, but I'll not suffer your insolent tone. 
 Aribeth: I'm soooo looking forward to it.
 Keldorn: Hrmmph!
 
-Keldorn banter #2
+Keldorn banter #2 (Aribeth and Keldorn can only be present together if Aribeth is a Fallen paladin or becomes a paladin)
 
 Keldorn: Fallen paladin, let us resume our discussion.
 Aribeth: Nothing would make me happier, Sir Keldorn.
@@ -671,35 +671,46 @@ Rasaad: I see. I won't claim to have the answers that you seek, but I will pray 
 Aribeth: Thank you, Rasaad.
 
 
-Sarevok banter #1
+Sirene banter #1
 
-Sarevok: Aribeth!
-Aribeth: I hope that you just forgot your manners and did not intend to address me in such an insolent tone!
-Sarevok: I will address you as I choose. I take issue with your conduct!
-Aribeth: MY conduct! Of what do you speak?
-Sarevok: Your performance in battle has not been adequate. In our next combat, I expect you to step up and provide
-	me with better front-line support.
-Aribeth: I think that you forget your place. You are not the party leader, <CHARNAME> is in command.
-Sarevok: Bah! I am the more capable warrior. <CHARNAME> may be the group leader, but in combat, my experience makes me the superior leader.
-	You would do well to heed my commands.
-Aribeth: Refresh my memory, but didn't your leadership result in the deaths of yourself and your followers back in Baldur's Gate?
-Sarevok: That was one failure out of countless successes!
-Aribeth: One failure is all that it takes, dead man.
+Sirene: Aribeth. Are you ok?
+Aribeth: I am uninjured.
+Sirene: That isn't what I meant.
+Aribeth: I know.
+Sirene: You spent years as a paladin of Tyr, now you have lost connection. I want you to know that I'm here to help you through this.
+Aribeth: Yes, you followers of the Crying God are always there to ease the suffering of others, whether you are needed or not.
+Sirene: It matters not if you want my help. What matters is that I am here if you need my help.
+Aribeth: Oh, and how can you help me? Can you restore Fentchick to life? Can you turn back time and prevent the mobs of Neverwinter from demanding his death? Can
+	you erase the stain of betrayal from my soul? What can you do to help me?
+Sirene: I can listen to you. I can offer advice. I can be a friend.
+Aribeth: If you really wish to help, then let me be!
+Sirene: Very well. However, I will be here when you are ready.
 
-Sarevok banter #2
 
-Sarevok: This will not stand!
-Aribeth: What is it now?
-Sarevok: Once again, you ignored my direction during the order of battle!
-Aribeth: Once again I must remind you, that you are in no position to give me, nor anyone else here, orders, dead man.
-Sarevok: WHAT!?!
-Aribeth: I believe that I spoke clearly enough to be heard, or is i that your addled mind is incapable of understanding my words?
-Sarevok: You dare speak to me in that way?
-Aribeth: Yes, I do? I've face bullies and warriors far more formidable than you, dead man. You do not intimidate me and I know
-	that you are not the strongest one here, that title belongs to <CHARNAME>, the one who defeated you. It is <CHARNAME> who
-	I follow and <CHARNAME> alone to whom I obey. Do not forget that.
-Sarevok: Bah! Do as you will, then. But see if my blade stands ready to defend you in the future.
-Aribeth: As long as I have <CHARNAME>, I have no need of your sword, nor any others to defend me.
+Sirene banter #1
+
+Aribeth: Sirene.
+Sirene: Good day to you Aribeth. Can I help you with something?
+Aribeth: Answer me a question. Why are you so desperate to try and help me? It's not just because you follow Ilmater. You've been too persistent. What is it that you want?
+Sirene: You are too perceptive.
+Aribeth: Explain.
+Sirene: You'd have to be blind to not notice my appearance. My fiendish blood.
+Aribeth: Yes, what of it?
+Sirene: I've always considered myself unworthy of being a paladin. Due to my tainted blood, the evil that is a part of my nature precludes me from becoming the sort of
+	paladin for which I have always strove to be. But then I met you. A paladin, formely of the highest rank, now fallen. I wanted to help you, because of what it could
+	mean for me.
+Aribeth: My redemption would become yours.
+Sirene: As I said, too perceptive. That is correct. If I could help redeem you, you who had fallen so far, if you could climb back up from this abyss, then there would be 
+	hope for me too.
+Aribeth: You bloody fool
+Sirene: Excuse me?
+Aribeth: You denigrate yourself simply due to elements of your heritage beyond your control? You are the most noble paladin that I have ever met. Yet you feel that I, a
+	villian who renounced my oath, who betrayed my city and led a crusade against it which resulted in countless deaths are more worthy than you? You are a fool.
+Sirene: Why does it now feel like I am the one being helped.
+Aribeth: I'm just saying what you needed to hear.
+Sirene: Does this mean that we are friends, at least?
+Aribeth: Heh. I suppose that it does.
+Sirene: Well, thank you, friend.
 
 
 Skie banter #1

@@ -213,16 +213,22 @@ Aribeth: That makes one of us who feels as such.
 Korgan banter
 
 Korgan: Ack!!! It's a grand time to be alive, ain't it lassie!
-Aribeth: Being alive is generally o good thing, however, I feel that you have a different meaning in mind.
+Aribeth: Being alive is generally a good thing, however, I feel that you have a different meaning in mind.
 Korgan: Aye! Joining up with ye all was a stroke o' brilliance on me part! With all the enemies ye got, it's been an endless parade o' bloody slaughter!
 Aribeth: I should've know. For anyone else, this would be a problem, but not for you Korgan.
 Korgan: Aye!
 Aribeth: I can't trust you, can I Korgan. I once thought that your lust for battle stemmed from a love of fighting, but now I realize, it isn't
 	combat that you love, but mayhem and murder.
 Korgan: Aye. Took ye long enough. It's not like I made a secret of it either.
+Aribeth: This path can only end with death, you know this.
+Korgan: May Death turn his gaze from you.
+Aribeth: And may he close his eyes to you.
+Korgan: Know that one do ye?
+Aribeth: I've heard it before.
+Korgan: Good, then we know where we stand, don't we?
 Aribeth: You aren't going to turn on us are you, Korgan?
 Korgan: Nay lassie. At least, not yet. As long as ye can guarantee me plenty of chaos, I'll stand with ye all.
-Aribeth: And when it eventually ends.
+Aribeth: And when all of this eventually ends.
 Korgan: Well, the ye best hope that I don't get bored. Heh heh.
 
 

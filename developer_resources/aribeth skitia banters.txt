@@ -1,0 +1,261 @@
+Helga banter #1 - SOA
+Aribeth: Helga?
+Helga: Yes, lass?
+Aribeth: Did I hear correctly, that you have children?
+Helga: Aye! I got me some ankle biters, grown now, though.
+Aribeth: Do you miss them, when you travel?
+Helga: Aye. But that be not what yer askin' isn't it?
+Aribeth: What do you mean?
+Helga: What you want to know is how I, a mother, could be out adventurin' and riskin' my life instead of bein' home with the wee ones?
+Aribeth: Well, yes.
+Helga: I could tell ye some tale about how I'm out here making the world a safer place for them. Or it could be that I need to earn a 
+	livin' and provide for them and adventurin' is the most lucrative job that there be. Perhaps I'm seekin' someone who wronged me 
+	and my kin, seekin justice for some crime committed. Would any of those answers satisfy? 
+Helga: But the whole truth of the matter is just that I could never stay still for long. Sittin at home was never the life for me and were 
+	I to try it, I'd be a shell of the woman that I am.
+Aribeth: I see. I don't believe that I could ever leave my child as you have.
+Helga: I be glad to hear it. I do miss the younguns', but were I to try and stay, I'd lose meself.
+Helga: Ye have the makings of bein' a good mother someday. When that day comes, I do hope that ye'll be able to settle into a quiet life and
+	enjoy your family without any regrets.
+Aribeth: Thank you?
+Helga: Think nuthin' of it, lass.
+
+
+Helga banter #2 - SOA
+Helga: Aribeth, lass?
+Aribeth: Yes Helga, something I can do for you?
+Helga: Before ye' took service with Neverwinter, did ye' adventure as part of a group?
+Aribeth: No, after my home was destroyed, I spent my time alone, hunting orcs. Once I was shown the path of Tyr, I journeyed to Neverwinter.
+	Traveling with you all is the first time that I've ever adventured as part of a group.
+Helga: I thought as much.
+Aribeth: Why do you ask. 
+Helga: Just curious. It's one thing to work with others, but to be a part of an adventuring party, that is a unique
+	experience. To fight, travel and live with others, to a point where they know you as well as you know yourself is a special
+	type of bond.
+Aribeth: What did you mean by your comment before?
+Helga: When one is a part of an adnventurin' company long enough, you can tell by the way the carry themselves. You don't have that look yet.
+Aribeth: Is that a problem?
+Helga: No, it just means that you haven't yet learned to place your life in the hands of others with complete trust.
+Aribeth: Do you have a point to this?
+Helga: Just this. You may trust <CHARNAME>, but do you trust anyone else? If not, then no one will ever trust you.
+
+
+Helga banter #1 - TOB
+Helga: Aribeth?
+Aribeth: What is it Helga?
+Helga: How close have you and <CHARNAME> become?
+Aribeth: I'm unsure as to why you consider that any of your business?
+Helga: Have you considered what would happen id <CHARNAME> is forced to choose between you or saving the people that he has pledged to save?
+Aribeth: What?
+Helga: Are you prepared to face yourself if anyone dies because <CHARNAME> chooses you over them?
+Aribeth: What kind of question is that?
+Helga: An unpleasant one. But one that needs to be asked. You have been responsible for many death. Could you bear more?
+Aribeth: I.. don't know. but I'm not leaving <CHARNAME>!
+Helga: This is your choice, shortsighted, but your choice.
+Aribeth: I've learned that one can't live their life worrying about what will be and once you've made a choice, it is yours, consequences and all.
+Helga: Well, good luck then, but I believe that you should take steps to ensure that <CHARNAME> never need worry about such a choice. Sever your
+	connection, before it is too late.
+Aribeth: No!
+Helga: I didn't expect you to heed my words, but now that they have been said, I have done my duty and my conscience is clear.
+
+
+Recorder banter #1 - SOA
+Recorder: Aribeth, a moment of your time, if I may?
+Aribeth: What can I do for you?
+Recorder: I'd like to record your story.
+Aribeth: What!
+Recorder: I'd like to chronicle the events of your life, from your origin to the time that you joined the party of <CHARNAME>.
+Aribeth: Why would you do this?
+Recorder: Because every story deserves to be told. The events of Never Winter are easily recounted, but I was hoping that you would tell me of
+	your early days and the path that brought you to the service of Never Winter.
+Aribeth: No, I don't think so.
+Recorder: But why?
+Aribeth: The Wailing Death and Luskan War were the darkest time in my life and I have no wish to revisit any of it. I can't stop you from
+	writing a recounting of event, but I do not have to participate. Write your story without me.
+Recorder: Very well, but remember, this is your story, not mine.
+
+
+Recorder banter #2 - SOA
+Aribeth: Recorder.
+Recorder: Yes?
+Aribeth: I feel that I owe you an apology, of sorts.
+Recorder: Of sorts?
+Aribeth: Yes. I still have no intention of participating in your chronicle, but I lashed out at you when you asked about my past. It was not
+	pleasant and I resented you for prying as I did not want to think about it. However, I've heard something of your past and your pain.
+	It was wrong of me to speak as I did. I sometimes overlook that other may have had experiences that mirror or even eclipse my own.
+Recorder: Thank you for your words.
+Aribeth: Yes, well. I too lost my family, not in the same manner as you, but I can relate to some of your hardship.
+Recorder: I understand, but may I ask if knowing about my history causes you to see my work in a new light?
+Aribeth: New light?
+Recorder: Yes. A chronicle of ones life is not simply a story, but a testament, if you will. It serves as a marker, a reminder that you were
+	here and you accomplished thing, impacted lives and left your mark on the world in some way.
+Aribeth: I understand, but my decisions has not changed. I think that I'd rather be forgotten. Given the deeds which I have done, it may be
+	best that most people not remember the name of Aribeth.
+Recorder: You wish to be forgotten!
+Aribeth: (Glances at <CHARNAME>) By most, not by all.
+
+
+Recorder banter #1 - TOB
+Aribeth: If I might ask? Your child. Do you often think of him?
+Recorder: ..... Yes. I often question my choice. Why do you ask?
+Aribeth: I've become interested in re-examining my decisions in life. Considering the paths not taken.
+Recorder: For what reason?
+Aribeth: When you expressed interest in my story, I began to think about my journey. I'm pleased to be here, with all of you, but the road was dark
+	and painful. I find myself wondering if it would have been possible to arrive here without so much bloodshed, or....
+Recorder: Or?
+Aribeth: Or is the reason that I made it to this end, because of the things that I have done? Had I chosen a wiser course, was there any
+	way to have arrived here?
+Recorder: Be careful. Delving too deeply into this way of thinking can drive one mad. I've spent much time wallowing in despair, questioning my
+	actions, asking if there was no other way, and indulging in 'what if’s".
+Aribeth: I suspected as much, although I had hoped that you possessed some revelation that would grant me some measure of peace.
+Recorder: I know nothing such as that. The best advice that I have to offer is to make your peace with your past as quickly as possible and then
+	move on. Force yourself if need be. For questioning your decisions is fruitless and once you've gleaned all applicable lessons, serves
+	no further purpose and can be unhealthy.
+Aribeth: Hmmmm. Would you have followed such advice?
+Recorder: No. Advice is like pain. Easy to give, but hard to take.
+Aribeth: Then we seem to be sisters in suffering. Perhaps we should embrace the crying God?
+Recorder: Hah! Thank you, no. I'd prefer to not endure any more than necessary and my burdens are heavy enough.
+Aribeth: Well I thank you for listening to mine.
+Recorder: Likewise.
+
+Emily banter SOA #1
+Aribeth: Emelia, a moment.
+Emily: It's Emily, Aribeth. Only my father and retainers call me Amelia.
+Aribeth: Very well, Emily.
+Emily: Much better. What do you require?
+Aribeth: I'd like to know how you remain so positive, with everything that you have upon your shoulders.
+Emily: Such as?
+Aribeth: The competition with your brother for your father's legacy. The responsibilities that await you should you triumph. The rumors regarding
+	your mother. It is quite a burden, is it not?
+Emily: To you it may seem as such, for me, it is merely something for which I've spent my life becoming accustomed. Regardless, things are as
+	they are. Brooding will do nothing, save give one wrinkles and I can't bear the thought of this pretty face being marred as such.
+Aribeth: HA! I hope that you retain this sunny disposition.
+Emily: As do I dear, Aribeth. As do I.
+
+Emily banter SOA #2
+Aribeth: Emily?
+Emily: Yes friend Aribeth?
+Aribeth: Why are you here? Adventuring? It's dangerous, exhausting and uncomfortable. I can understand why some, such as <CHARNAME> who have a fire
+	within are drawn to this life, but why you?
+Emily: My father told me to go and find myself. I read stories of great adventures as a child and have always been drawn to the romance of the
+	life.
+Aribeth: I see, and have you found yourself?
+Emily: I'm afraid that my search for Emily is still ongoing. But I am having a lot of fun while ding so.
+Aribeth: Have you ever considered just walking away? Not going home, leaving Emilia the noble behind and becoming Emily the adventurer?
+Emily: Often.
+Aribeth: But?
+Emily: But then I remember my duties and when I weigh the happiness that I would find by pursuing my dreams versus the guilt that I would feel
+	at the suffering and disappointment that my desertion would cause, I find that I am no longer so happy after all.
+Aribeth: So, have you decided what you will ultimately do?
+Emily: For the moment, continue my quest to find the true Emily, make some good friends and have fun along the way.
+Aribeth: Well, I must admit that that doesn't sound like a bad plan.
+Emily: I thought that you might agree, friend Aribeth.
+
+Emily banter TOB #1
+Emily: So much suffering.
+Aribeth: What's wrong Emily?
+Emily: This is why I feared Thomas becoming my father's successor.
+Aribeth: You believe that he would do such things?
+Emily: No, worse. He is not evil, but he is foolish and easily led. He would be lulled into complacency and under his stewardship, chaos would seep into our lands and then... this.
+Aribeth: Surely he would not simply allow it to happen?
+Emily: No, but in his attempts to stop it, he would take whatever steps he felt necessary. He would never question his actions and it is a mindset such as this that has lead to
+	some of the worst crimes ever committed, by men doing what they felt to be the right thing.
+Aribeth: So have you decided what you must do?
+Emily: I have, but it means that I must disappoint someone and I don't wish to do so.
+Aribeth: So what will you do.
+Emily: Enjoy the friends that I have made for as long as possible before I must make my choice known.
+Aribeth: Then let us live for today, my friend.
+
+
+Kale banter SOA #1
+Aribeth: I'm sorry about your father.
+Kale: Hmmm? Oh, well thank you, but you needed be. I'm not.
+Aribeth: You don't miss him?
+Kale: I never knew him, it's hard to miss someone who was never there.
+Aribeth: You don't regret never having known him while growing up?
+Kale: Never really thought about it. He wasn't around and being angry or sad about it wouldn't change anything, would it?
+Aribeth: I suppose not.
+Kale: Exactly. So what would be the point?
+Aribeth: I guess that makes sense.
+Kale: Of course it does. Halfling wisdom will never steer you wrong.
+Aribeth: HA!
+
+Kale banter SOA #2
+Kale: Hrmmph!
+Aribeth: Something troubles you, Kale?
+Kale: My father's journal.
+Aribeth: Care to explain?
+Kale: I wish that I'd never let <CHARNAME> talk me into reading the blasted thing.
+Aribeth: Why is that? I'm sure that <CHARNAME> felt that getting to know your father through his words might bring closure of sorts.
+Kale: Well, if that was the intent, it failed.
+Aribeth: How so?
+Kale: Reading this gave me an insight into him. It was obvious that he was a flawed individual, but I had no idea just how flawed. I wish that I didn't know.
+Aribeth: Is it really so bad?
+Kale: Yes. At least when he was a mystery, there were some things that I could imagine, but now.....
+Aribeth: I wish that there was something that I could do.
+Kale: Ehh, no biggie. I'll complain for a few hours and then remember that I'm no better or worse off than before and I'll move on.
+Aribeth: Once again, halfling wisdom does not disappoint.
+Kale: In realizing that, you show almost equal wisdom. ALMOST equal.
+Aribeth: HA! High praise indeed.
+
+Kale banter TOB #1
+Aribeth: Do you see yourself as a father someday Kyle?
+Kyle: That came out of the blue, don't you think?
+Aribeth: Perhaps. However, I've been contemplating the concept of family as of late.
+Kyle: And?
+Aribeth: My family was killed by orcs when I was young, but at least I was able to get to know them, especially my father, who taught me how to hunt and survive.
+	But you never had that. I wonder if it is better to be in your position, for one can't miss what one has never had.
+Kyle: No, it is not.
+Aribeth: You sound quite certain.
+Kyle: Yes, in this you can trust my judgment. Despite his flaws and mistakes, I would’ve like to have known my father, so do not ever assume that a child would be
+	better off without a parent. Well, except for <CHARNAME>'s father. That is one paternal influence whose absence would be for the best.
+Aribeth: Heh, you have a way of phrasing things, Kyle.
+
+Vienxay banter SOA #1
+Vienxay: Need you something?
+Aribeth: No... I was simply curious and hoped that I might as a question of you?
+Vienxay: I have no interest in satisfying your curiosity.
+Aribeth: I wanted to what you did to ease the pain of your banishment?
+Vienxay: I'm positive that I just said that I had no interest in answering any of your questions.
+Aribeth: Yes, you did say that. However, I took a chance that upon hearing my question, you'd be interested enough to respond.
+Vienxay: Ha! So you believe that I, a fellow exile will what? Feel sympathy for your plight? Do you expect us to forge a bond based upon our shared
+	experience of being forced from our homeland? Trouble me not with your irritating inquiries.
+Aribeth: Very well.
+
+Vienxay banter SOA #2
+Aribeth: Are you alright?
+Vienxay: Again you trouble me!
+Aribeth: I intend no trouble, I simply noticed that you seemed more morose than usual and I asked if you are ok.
+Vienxay: I do not..... Sigh. I apologize for my outburst, I am fine. Do not trouble yourself with my concerns.
+Aribeth: it's no trouble. Are you thinking of your homeland once again?
+Vienxay: Once again? That would imply that I cease thinking of it.
+Aribeth: Do you wish to talk?
+Vienxay: No, I truly don't. Speaking of Evermeet only brings painful memories and provides no comfort.
+Aribeth: Indeed? I have found that speaking of things such as this can prove cathartic.
+Vienxay: That is because you have made a peace... of sorts with your banishment, yes? Tell me. Given your actions, do you consider your
+	exile to be just? Have you accepted this to be your fate?
+Aribeth: I suppose that the answer to your question would be, yes.
+Vienxay: That is where the difference between us lies. I would have answered no to all of them. Thus, speaking of this is merely picking at
+	open wounds.
+Aribeth: I see. Then I'll not add anymore salt to them. However, I'll be here if you wish to speak further.
+
+Vienxay banter TOB #1
+Vienxay: Aribeth?
+Aribeth: Yes?
+Vienxay: I'll not entertain this discussion ever again, but, this once, I have something to ask of you.
+Aribeth: Go on?
+Vienxay: If there was a way.. a way for you to go home, even with what you've done, would you?
+Aribeth: A difficult question. I've thought this myself and my answer has sometimes changed day by day.
+Vienxay: What is you today answer then?
+Aribeth: It hasn't changed for awhile, but the answer for the past few days has been no. I would not.
+Vienxay: Why not? Is returning not something which would please you?
+Aribeth: Yes, it would, but then I ask myself what would it do the the people of Neverwinter? My presence would only serve as a living
+	reminder of all that has happened. I would not wish to live as an object of their scorn, nor a cause for any unhappiness.
+Vienxay: I shouldn't be surprised that you'd come up with such an insipid response.
+Aribeth: You were hoping that I'd give you a good reason to go back? Sorry, but that I can not do.
+Vienxay: It's not the answer that I wanted, but it's the answer that I expected. Thank you.
+Aribeth: If you need anything....
+Vienxay: No, we'll never have this conversation again.
+
+
+

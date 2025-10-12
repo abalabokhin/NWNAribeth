@@ -44,7 +44,7 @@ Aribeth: How do you do that? Is it because you don't truly know? How is it that 
 Aerie: I never thought of it in that way.
 Aribeth: Well, you should. But enough of this maudlin conversation. Let us continue, my friend.
 
-Anomen banter #1
+Anomen banter #1 (Use this if <CHARNAME> is NOT a cleric of HELM)
 
 Aribeth: Keep your distance Helmite!
 Anomen: I apologize, Lady Aribeth. If I have done something to offend...
@@ -52,6 +52,42 @@ Aribeth: YOU!.... I..... umm.... never mind. Just stay away from me!
 Anomen: Stay away? Ahhhh. I believe that I understand. Much of the troubles that befall Neverwinter were as a result of the
 	machinations of Desther and the false Helmites. Surely, Lady Aribeth, you can not see a parallel between myself and those heretics?
 Aribeth: I said, stay away from me!
+Anomen: Those false Helmites are just as much my enemies as yours....
+Aribeth: False Helmites or FALLEN Helmites?
+Anomen: What do you mean by that?
+Aribeth: Desther and his fanatics appeared from nowhere. No one knew anything about them, yet they knew enough about the faith of Helm to
+	impersonate Helmite priests. How did they obtain this knowledge? Was it simply through the torture and interrogation of captured
+	Helm clergy, or were some, if not all, of them FORMER faithful of Helm that had defected to join the cult of Morag!
+Anomen: Just, what are you insinuating!?!
+Aribeth: That it is the church of Helm that is largely responsible for this! If Desther and his ilk were once Helmites, then what fault
+	within the church led to their loss of faith? Or, if Desther's acolytes were able to learn everything necessary to impersonate
+	a Helmite from their conquest of Helm's Hold, how were they able to do so? How was Helm's hold taken so easily? Were is defenders
+	truly so weak that they could not defeat Desther? How were they able to occupy the Hold for so long without any of the true
+	faithful noticing? Why were the false Helmites permitted to operate in a cosmopolitan city such as Neverwinter, without ANY of
+	Helm's priesthood discovering their ruse? Can you still deny the failures of the temple?
+Anomen: That is hardly a fair judgment to make.
+Aribeth: Fair!!! The Vigilant One! The Watcher! The Great Guard! All of these are names by which Helm is known, are they not! Yet, who amongst
+	Helm's faithful noticed anything!?! What Helmite stood guard over the people of Neverwinter? Which follower of Helm defeated
+	Desther!?! NONE of you, that's who! It fell to a ragtag mercenary like <CHARNAME> to answer the call. <CHARNAME> was the one to
+	expose Desther, disrupt his plot and re-take Helm's Hold. Had you Helmites truly lived up to your deity’s name, it would have been a
+	disciple of Helm that would have ended Desther's plot. Had you Helmites not been so weak, Helm's Hold would not have been taken.
+	The Morag cultists would have never had the chance to come to Neverwinter. The Wailing Death would not have been released. Desther
+	would not have been able to deceive Fenthick and he wouldn't have..... have.....
+Anomen: So, this isn't about me, but more about your issues surrounding the death of your paramour.
+Aribeth: Shut Up!!! I said to stay away from me!
+
+Anomen banter #1.5 (Use this if <CHARNAME> is a cleric of HELM)
+
+Aribeth: Keep your distance Helmite!
+Anomen: I apologize, Lady Aribeth. If I have done something to offend...
+Aribeth: YOU!.... I..... umm.... never mind. Just stay away from me!
+Anomen: Stay away? Ahhhh. I believe that I understand. Much of the troubles that befall Neverwinter were as a result of the
+	machinations of Desther and the false Helmites. Surely, Lady Aribeth, you can not see a parallel between myself and those heretics?
+Aribeth: I said, stay away from me!
+Anomen: I don't understand how you could possibly bear Helmites any ill will. For, is not your companion <CHARNAME> also a worshipper of Helm?
+	You do not seem to cast any blame upon him.
+Aribeth: That is because <CHARNAME> has proven himself! While the other, so-called "faithful" of Helm allowed a serpent such as Desther to
+	infiltrate the church, <CHARNAME> was not blinded by the arrogance or dogma of the church. He saw through the deception and acted.
 Anomen: Those false Helmites are just as much my enemies as yours....
 Aribeth: False Helmites or FALLEN Helmites?
 Anomen: What do you mean by that?
@@ -877,3 +913,4 @@ Aribeth: *Begins to shred the rose, not noticing the thorns cutting into her han
 	the offending hand with my very blade.
 Yoshimo: Ummm... please forgive my trespass. I meant no harm. Perhaps I overstepped.
 Aribeth: Indeed!
+

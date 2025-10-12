@@ -1,0 +1,127 @@
+Shar-teel banter #1
+Shar-teel: You fought well during our last battle.
+Aribeth: Thank you? You also fought well.
+Shar-teel: It is good to finally have a capable woman, such as yourself, at my side.
+Aribeth: ahh yes, that's right. You hold men in contempt, don't you.
+Shar-teel: I have never once found a man worthy of my respect. Bedroom recreation and manual labor. That's all that they are good for!
+Aribeth: Yet you travel and adventure with men?
+Shar-teel: A farmer uses oxen to plow fields. A caravan uses horses to pull wagons. One can make use of a beast of burden without acknowledging them
+	as an equal.
+Aribeth: Don't you ever yearn for companionship? Something deeper than just a few nights of pleasure under the sheets?
+Shar-teel: Hah! As if I'd ever let myself become some man's property in that way.
+Aribeth: I see. You truly do not understand.
+Shar-teel: What don't I understand?
+Aribeth: It's nothing that anyone can explain, you'll have to discover my meaning for yourself.
+
+Shar-teel banter #2
+Shar-teel: I thought that you were someone I could respect!
+Aribeth: What?!?
+Shar-teel: I thought you a warrior, like myself, but I see now that I was wrong.
+Aribeth: Yes, Shar-teel, you are wrong. You are no warrior.
+Shar-teel: How dare you insult me like that!!
+Aribeth: It is no insult, but a statement of fact. You seek to challenge every man that you encounter, not because you want to find someone worthy,
+	but because you want to best every man to justify your own sense of superiority for that is how you measure your self-worth.
+Shar-teel: I seek to test myself in battle!
+Aribeth: No, seek nothing more than a good fight and a brutal victory. You are at best just a brawler, at worst, a killer. I do hope that you find
+	someone who can defeat you, someday. For until that time, you will continue to be alone.
+Shar-teel: Better to be alone than be with someone who makes you weak!
+Aribeth: That is just the response that I expected from you Shar-teel.
+
+Tiax banter #1
+Tiax: Bow before Tiax, wench!
+Aribeth: Why <CHARNAME> allows a madman such as you in our company still eludes me.
+Tiax: You forget yourself! It is not <CHARNAME> who allows me to remain, it is I who allows <CHARNAME> to travel in my company!
+Aribeth: Of course. How could I forget.
+Tiax: The great Tiax saw you roll your eyes. Such mockery will be punished once Tiax takes his place as ruler of the world.
+Aribeth: Are we truly so desperate for comrades that we must suffer your company, madman?
+Tiax: Silence! Tiax rules all!
+
+Tiax banter #2
+Tiax: All hail Tiax! The Great Tiax will now...
+Aribeth: SHUT UP! I will put up with your inane babble no longer!
+Tiax: How dare you! Guards! Deal with this disrespectful wench! I... OUCH!
+Aribeth: Do you want another one!
+Tiax: How dare you strike Tiax the Magnific...... OUCH!
+Aribeth: Had enough yet?
+Tiax: What! Why do you continue to strike me? This will not.... OUCH!!
+Aribeth: Well?
+Tiax: Ummm... I....err. Ahem. Being a merciful overlord, The Great Tiax will forgive your transgression. Now, if you excuse me, I am urgently
+	needed.... um... over there.
+
+Branwen banter #1
+Aribeth: Do you miss the North, Branwen?
+Branwen: Aye. The Southern lands have their charms, but nothing compares to the cold beauty of the North. But you are from the North too, do you
+	miss it?
+Aribeth: Yes and no. I grew up in the North and had many experiences there, but many of them were... not pleasant. Too many memories there.
+Branwen: I understand.
+Aribeth: I'm surprised that you do not share more of my outlook. Given the way that you were treated, practically forced out of your homeland.
+Branwen: While I do bear resentment toward those who would not accept me, the place is not it's people. I can still hold the good memories of
+	home apart from the bad experiences.
+Aribeth: Would that I had your strength, Branwen.
+
+Branwen banter #2
+Aribeth: Branwen?
+Branwen: Yes, Aribeth?
+Aribeth: Why do you strive so to be recognized as a true priest of Tempus?
+Branwen: Forgive me Aribeth. For I do not understand your question? Why would I not?
+Aribeth: You are already a cleric of Tempus. He obviously recognizes you as a priestess, else you'd not be granted spells and priestly magics.
+	You have more strength and power then most of the priests that I've ever met. Why does being granted a title from some calcified old
+	men mean so much to you?
+Branwen: ..... I... find myself reluctant to answer.
+Aribeth: I'm sorry. I had to right to ask.
+Branwen: No, it's ok. I'd like to say that it is about forcing them to admit that their perception of the faith is wrong and I wanted to drag 
+	them into a new way of thinking.
+Aribeth: But?
+Branwen: But that is only part of the answer. In truth, I also want them to acknowledge me, so as to quiet the voice within my own head
+	that tells me that I am unworthy.
+Aribeth: Why would yo think that?
+Branwen: Because. I should be dead!
+Aribeth: Dead?
+Branwen: Specifically, I should still be a statue, standing in a field on the outskirts of Nashkel. An afterthought, a curiosity, a pigeon
+	droppings collector.
+Aribeth: Hmmph!
+Branwen: I would still be there had not <CHARNAME> freed me from that fate. I was given a second chance through nothing but dumb luck. I had
+	no part to play in my own salvation and were it not for <CHARNAME>'s kindness, my tale would be ended. If I couldn't even ave myself,
+	what right have I to consider myself a priest of Tempus?
+Aribeth: I believe that you judge yourself too harshly.
+Branwen: Do I?
+Aribeth: Yes. I say this as a being who also needed someone to save her. Sometimes the trials before us are not meant to be overcome on ones
+	own. There are times when the lesson being learned is when to ask for and more importantly, accept help.
+Branwen: Could this be one of those lessons?
+Aribeth: It's possible. But tell me, what did you do after you were restored? 
+Branwen: <CHARNAME> and I tracked down the one responsible for turning me to stone and we killed him.
+Aribeth: So, in the end, you prevailed?
+Branwen: Yes.
+Aribeth: Then you lost a battle, but ultimately won the war?
+Branwen: You could look at it that way.
+Aribeth: It sounds like a victory to me. Why again are you concerned about being seen as unworthy?
+Branwen: It seems that I may have been worried over nothing. Thank you, Aribeth>
+Aribeth: Anytime.
+
+Kivan Banter #1
+Aribeth: Why do you look at me so, Kivan? It.. unnerves me.
+Kivan: I am unsure as what to make of you.
+Aribeth: What do you mean?
+Kivan: Upon first meeting, I'd taken you to be a disciple of vengeance, such as myself. However, I am not now so sure.
+Aribeth: I am NOT a disciple of revenge!
+Kivan: Are you not? In your youth, did you not destroy a tribe of orc to avenge your slain family. Did you not lead a crusade against Neverwinter
+	in response to the execution of your lover?
+Aribeth: I..... I have moved on from that.
+Kivan: If you say as such.
+
+Kivan banter #2
+Aribeth: Kivan.
+Kivan: Yes.
+Aribeth: I have... been considering your words.
+Kivan: And?
+Aribeth: And, perhaps you were correct. Perhaps the vengeful nature that once dwelt within my soul has not fully be exorcised.
+Kivan: So, you are still somewhat like me?
+Aribeth: No! For I am still attempting to rid myself of these impulses. An I wish you to do the same.
+Kivan: For what reason?
+Aribeth: The rage that you feel will destroy  you someday.
+Kivan: As long as it is one day longer that Irenicus lives, I accept the cost.
+Aribeth: I  hope that you find peace Kivan.
+Kivan: I will, once Irenicus lays dead.
+
+
+

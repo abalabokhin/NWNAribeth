@@ -45,7 +45,7 @@ AUTO_TRA ~%tra_loc%/%LANGUAGE%~
 
 LANGUAGE ~English~
 ~english~
-~%MOD_FOLDER%/tra/english/install.tra~
+~NWNAribeth/tra/english/setup.tra~
 
 /////////////////////
 //Main Component
@@ -60,7 +60,7 @@ END
 
 //Creatures
 
-COPY ~%MOD_FOLDER%/cre/NWARIBE1.cre~ ~override~
+COPY ~%MOD_FOLDER%/cre/NWARIBET.cre~ ~override~
   SAY 0x8	@102400
   SAY 0xC	@102400
   SAY 0xA4	@104043
@@ -77,13 +77,6 @@ LAF HANDLE_AUDIO
   STR_VAR
   audio_path = EVAL ~%MOD_FOLDER%/Audio/%LANGUAGE%~
   oggdec_path = EVAL ~%MOD_FOLDER%/Audio~
-END
-
-//Portraits
-ACTION_IF (GAME_IS ~bg2ee eet~) BEGIN
-  COPY ~%MOD_FOLDER%/portraits_ee~ ~override~
-END ELSE BEGIN
-  COPY ~%MOD_FOLDER%/portraits~ ~override~
 END
 
 // scripts

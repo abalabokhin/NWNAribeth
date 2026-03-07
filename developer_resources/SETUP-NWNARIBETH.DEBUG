@@ -1,0 +1,93 @@
+WeiDU v 24900 Log
+
+ C:\Users\caugh\Beamdog Library\00783 - aribeth mod test\setup-NWNAribeth.exe
+[.\chitin.key] loaded, 881668 bytes
+[.\chitin.key] 191 BIFFs, 62570 resources
+[.\engine.lua] loaded, 104 bytes
+[.\weidu.conf] loaded, 17 bytes
+[.\lang\en_us\dialog.tlk] loaded, 11653630 bytes
+[.\lang\en_us\dialog.tlk] 103584 string entries
+WARNING: parsing log [WeiDU.log]: Sys_error("WeiDU.log: No such file or directory")
+Using Language [English]
+[English] has 1 top-level TRA files
+[NWNAribeth/tra/english/setup.tra] has 11 translation strings
+
+Using .\lang\en_us\dialog.tlk
+
+Install Component [Aribeth NPC mod]?
+[I]nstall, or [N]ot Install or [Q]uit? 
+Installing [Aribeth NPC mod] [0.1]
+Creating 1 directory
+Creating 1 directory
+Creating 1 directory
+loading 1 tra file
+loading 1 tra file
+Copying and patching 1 file ...
+[NWNARIBETH/cre/NWARIBET.cre] loaded, 1364 bytes
+Copied [NWNARIBETH/cre/NWARIBET.cre] to [override/NWARIBET.cre]
+Compiling 3 scripts ...
+Processing 1 dialogues/scripts ...
+Compiling 5 dialogue files ...
+BIFF may be in hard-drive CD-path [.\lang\en_us\DATA\DEFAULT.BIF]
+BIFF may be in hard-drive CD-path [.\cache\DATA\DEFAULT.BIF]
+[.\DATA\DEFAULT.BIF] 2850260 bytes, 507 files, 0 tilesets
+
+[trigger list near line 979, column 42 of NWNAribeth/dlg/BNWARI25.d] PARSE WARNING at line 985 column 1-35
+Near Text: 0
+	syntax error
+WARNING: cannot verify trigger ~InParty("NWARIBET")
+Detect("NWARIBET")
+!StateCheck("Vienxay",CD_STATE_NOTVALID)
+!StateCheck("NWARIBET",CD_STATE_NOTVALID)
+CombatCounter(0)
+!See([ENEMY])
+Global("NWVienxayAribeth","GLOBAL"0)~: Parsing.Parse_error
+
+[trigger list near line 2033, column 42 of NWNAribeth/dlg/BNWARIBE.d] PARSE WARNING at line 2039 column 1-35
+Near Text: 0
+	syntax error
+WARNING: cannot verify trigger ~InParty("NWARIBET")
+Detect("NWARIBET")
+!StateCheck("Vienxay",CD_STATE_NOTVALID)
+!StateCheck("NWARIBET",CD_STATE_NOTVALID)
+CombatCounter(0)
+!See([ENEMY])
+Global("NWVienxayAribeth","GLOBAL"0)~: Parsing.Parse_error
+Processing 1 dialogues/scripts ...
+Adding NWARIBET to internal list of available DLGs
+Adding NWARIBEP to internal list of available DLGs
+Adding NWARIBEJ to internal list of available DLGs
+Adding BNWARIBE to internal list of available DLGs
+Adding BNWARI25 to internal list of available DLGs
+BIFF may be in hard-drive CD-path [.\lang\en_us\DATA\DIALOG.BIF]
+BIFF may be in hard-drive CD-path [.\cache\DATA\DIALOG.BIF]
+[.\DATA\DIALOG.BIF] 4228172 bytes, 2235 files, 0 tilesets
+[BAERIE.DLG] loaded
+[BANOMEN.DLG] loaded
+[BCERND.DLG] loaded
+BIFF may be in hard-drive CD-path [.\lang\en_us\DATA\25DIALOG.BIF]
+BIFF may be in hard-drive CD-path [.\cache\DATA\25DIALOG.BIF]
+[.\DATA\25DIALOG.BIF] 1825876 bytes, 377 files, 0 tilesets
+[BDORN.DLG] loaded
+
+ERROR locating resource for 'CHAIN3'
+Resource [BCDORN.DLG] not found in KEY file:
+	[./chitin.key]
+ERROR: preprocessing APPEND_EARLY [NWNAribeth/dlg/BNWARIBE.d]: Failure("resource [BCDORN.DLG] not found for 'CHAIN3'")
+Stopping installation because of error.
+
+ERROR Installing [Aribeth NPC mod], rolling back to previous state
+Unable to Unlink [weidu_external/backup/NWNAribeth/0/OTHER.0]: Unix.Unix_error(1, "unlink", "weidu_external/backup/NWNAribeth/0/OTHER.0")
+[weidu_external/backup/NWNAribeth/0/UNSETSTR.0] SET_STRING uninstall info not found
+Will uninstall   4 files for [NWNARIBETH/SETUP-NWNARIBETH.TP2] component 0.
+Uninstalled      4 files for [NWNARIBETH/SETUP-NWNARIBETH.TP2] component 0.
+Unable to Unlink [weidu_external/backup/NWNAribeth/0/READLN.0]: Unix.Unix_error(20, "unlink", "weidu_external/backup/NWNAribeth/0/READLN.0")
+Unable to Unlink [weidu_external/backup/NWNAribeth/0/READLN.0.TEXT]: Unix.Unix_error(20, "unlink", "weidu_external/backup/NWNAribeth/0/READLN.0.TEXT")
+ERROR: Failure("resource [BCDORN.DLG] not found for 'CHAIN3'")
+Please make a backup of the file: SETUP-NWNARIBETH.DEBUG and look for support at: LawfulStupid, coder: paladin84, support: https://
+Using Language [English]
+[English] has 1 top-level TRA files
+[NWNAribeth/tra/english/setup.tra] has 11 translation strings
+
+Install Component [Aribeth NPC mod]?
+[I]nstall, or [N]ot Install or [Q]uit? 

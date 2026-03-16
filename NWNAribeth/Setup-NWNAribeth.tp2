@@ -83,6 +83,9 @@ END
 COMPILE ~NWNAribeth/baf~
 //dlg
 COMPILE ~NWNAribeth/dlg~
+//banters crossmods
+COMPILE ~NWNAribeth/crossmod~
+
 
 APPEND ~PDIALOG.2DA~ ~NWARIBET        NWARIBEP             NWARIBEJ            NWARIBED         NWARI25P           NWARI25J              NWARIBED              NWARIB25~ UNLESS ~NWARIBET~
 

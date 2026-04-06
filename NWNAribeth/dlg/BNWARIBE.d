@@ -543,7 +543,7 @@ Detect("Jaheira")
 !StateCheck("NWARIBET",CD_STATE_NOTVALID)
 CombatCounter(0)
 !See([ENEMY])
-Global("NWJaheiraAribeth","GLOBAL",1)~THEN BJAHEIR Jaheira2
+Global("NWJaheiraAribeth","GLOBAL",1)~THEN BNWARIBE Jaheira2
 ~I notice, lately, that you've not been watching me as closely as before. Can I take this as a sign that you now trust me?~
 DO~SetGlobal("NWJaheiraAribeth","GLOBAL",2)~
 == BJAHEIR~Let us say that I no longer dis-trust you as much.~

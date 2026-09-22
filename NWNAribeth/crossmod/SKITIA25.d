@@ -12,7 +12,7 @@ Detect("X3Hel")
 !StateCheck("NWARIBET",CD_STATE_NOTVALID)
 CombatCounter(0)
 !See([ENEMY])
-Global("NWHelgaAribeth","GLOBAL",0)~THEN BNWARIBE Helga1
+Global("NWHelgaAribeth","GLOBAL",0)~THEN BNWARI25 Helga1
 ~What is it Helga? You look as though you have something on your mind.~
 DO~SetGlobal("NWHelgaAribeth","GLOBAL",1)~
 == X3Hel~How close have you and <CHARNAME> become?~
@@ -44,7 +44,7 @@ Detect("X3Reb")
 !StateCheck("NWARIBET",CD_STATE_NOTVALID)
 CombatCounter(0)
 !See([ENEMY])
-Global("NWRecorderAribeth","GLOBAL",0)~THEN BNWARIBE Recorder1
+Global("NWRecorderAribeth","GLOBAL",0)~THEN BNWARI25 Recorder1
 ~If I might ask? Your child. Do you often think of him?~
 DO~SetGlobal("NWRecorderAribeth","GLOBAL",1)~
 == X3Reb~..... Yes. I often question my choice. Why do you ask?~
@@ -113,7 +113,7 @@ Detect("X3Kal")
 !StateCheck("NWARIBET",CD_STATE_NOTVALID)
 CombatCounter(0)
 !See([ENEMY])
-Global("NWKaleAribeth","GLOBAL",0)~THEN BNWARIBE Kale1
+Global("NWKaleAribeth","GLOBAL",0)~THEN BNWARI25 Kale1
 ~Do you see yourself as a father someday Kyle?~
 DO~SetGlobal("NWKaleAribeth","GLOBAL",1)~
 == X3Kal~That came out of the blue, don't you think?~
@@ -142,7 +142,7 @@ Detect("X3Vie")
 !StateCheck("NWARIBET",CD_STATE_NOTVALID)
 CombatCounter(0)
 !See([ENEMY])
-Global("NWVienxayAribeth","GLOBAL",0)~THEN BNWARIBE Vienxay1
+Global("NWVienxayAribeth","GLOBAL",0)~THEN BNWARI25 Vienxay1
 ~You've been glancing my way for several minutes. Is something on your mind?~
 DO~SetGlobal("NWVienxayAribeth","GLOBAL",1)~
 == X3Vie~Aribeth?~
